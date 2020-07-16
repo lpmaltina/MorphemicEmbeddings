@@ -1,0 +1,2373 @@
+авианалет_NOUN	авиа	ROOT/на	AFFIX/лет	ROOT
+неприсутствие_NOUN	не	AFFIX/при	AFFIX/сутств	ROOT/ие	AFFIX
+лёд_NOUN	лёд	ROOT
+шутер_NOUN	шут	ROOT/ер	AFFIX
+рыбинск_NOUN	рыб	ROOT/ин	AFFIX/ск	AFFIX
+барт_NOUN	бар	ROOT/т	AFFIX
+морзе_ADJ	морз	ROOT/е	AFFIX
+субноутбук_NOUN	суб	AFFIX/н	AFFIX/оутбу	ROOT/к	AFFIX
+в море_ADP	в	AFFIX/ 	ROOT/мор	ROOT/е	AFFIX
+гидрометусловие_NOUN	гидр	ROOT/о	AFFIX/мет	ROOT/услови	ROOT/е	AFFIX
+отвозка_NOUN	от	AFFIX/воз	AFFIX/ка	AFFIX
+гильом_NOUN	ги	ROOT/ль	AFFIX/ом	AFFIX
+вацлав_NOUN	ва	ROOT/ц	AFFIX/лав	ROOT
+первая моя_ADJ	перв	ROOT/а	AFFIX/я	AFFIX/ 	ROOT/мо	ROOT/я	AFFIX
+давыдов_NOUN	да	ROOT/вы	AFFIX/до	AFFIX/в	AFFIX
+минск_NOUN	мин	ROOT/ск	AFFIX
+горная_ADJ	гор	ROOT/на	AFFIX/я	AFFIX
+булгаков_NOUN	бу	ROOT/лг	ROOT/а	AFFIX/ков	ROOT
+тупиковость_NOUN	туп	ROOT/ик	AFFIX/ов	AFFIX/ость	AFFIX
+андромеда_NOUN	ан	AFFIX/др	ROOT/о	AFFIX/мед	ROOT/а	AFFIX
+гребло_NOUN	греб	ROOT/л	AFFIX/о	AFFIX
+ультимативность_NOUN	ультимат	ROOT/ивн	AFFIX/ость	AFFIX
+потребительница_NOUN	потреб	ROOT/и	AFFIX/тель	AFFIX/ниц	AFFIX/а	AFFIX
+аристократичность_NOUN	аристократ	ROOT/ичн	AFFIX/о	AFFIX/с	AFFIX/ть	AFFIX
+дэйв_NOUN	д	AFFIX/эйв	ROOT
+тасмания_NOUN	тас	ROOT/мани	ROOT/я	AFFIX
+красивая_ADJ	крас	ROOT/ива	AFFIX/я	AFFIX
+невнятная_ADJ	не	AFFIX/внятн	ROOT/а	AFFIX/я	AFFIX
+камп_NOUN	к	AFFIX/а	AFFIX/мп	ROOT
+политкомиссар_NOUN	полит	ROOT/комиссар	ROOT
+завораживание_NOUN	за	AFFIX/вораж	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+австрия_NOUN	австри	ROOT/я	AFFIX
+леонидович_NOUN	л	AFFIX/е	AFFIX/о	AFFIX/ни	AFFIX/до	AFFIX/в	AFFIX/ич	AFFIX
+ангулем_NOUN	а	AFFIX/н	AFFIX/гул	ROOT/ем	AFFIX
+оратора_NOUN	ор	AFFIX/атор	AFFIX/а	AFFIX
+маргарет_NOUN	мар	ROOT/гар	ROOT/ет	AFFIX
+сергеевич_NOUN	сер	ROOT/ге	ROOT/ев	AFFIX/ич	AFFIX
+каннабис_NOUN	к	AFFIX/а	AFFIX/нн	AFFIX/а	AFFIX/би	ROOT/с	AFFIX
+рукоплескания_NOUN	рук	ROOT/о	AFFIX/плеск	ROOT/а	AFFIX/ни	AFFIX/я	AFFIX
+патрик_NOUN	патри	ROOT/к	AFFIX
+перес_NOUN	пере	AFFIX/с	AFFIX
+телерадиосеть_NOUN	теле	ROOT/радио	ROOT/сеть	ROOT
+суперпремиум_NOUN	супер	AFFIX/преми	ROOT/ум	AFFIX
+гастроэнтеролог_NOUN	гас	ROOT/тро	ROOT/энтер	ROOT/о	AFFIX/лог	ROOT
+фолс_NOUN	фол	ROOT/с	AFFIX
+действия_NOUN	дей	ROOT/ств	AFFIX/и	AFFIX/я	AFFIX
+неоправданность_NOUN	нео	ROOT/правд	ROOT/а	AFFIX/нн	AFFIX/о	AFFIX/с	AFFIX/ть	AFFIX
+шкаф-пенал_NOUN	шкаф	ROOT/-	AFFIX/пен	ROOT/ал	AFFIX
+киновидеотеатр_NOUN	кино	ROOT/вид	ROOT/е	AFFIX/о	AFFIX/театр	ROOT
+ган_NOUN	ган	ROOT
+антверпен_NOUN	ант	AFFIX/вер	ROOT/пен	ROOT
+агроинженер_NOUN	агро	ROOT/инженер	ROOT
+сдюшор_NOUN	с	AFFIX/дю	ROOT/шор	ROOT
+отпускание_NOUN	от	AFFIX/пуск	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+аделаида_NOUN	а	AFFIX/дел	ROOT/а	AFFIX/и	AFFIX/да	ROOT
+гидрометслужба_NOUN	гидр	ROOT/о	AFFIX/мет	ROOT/служ	ROOT/ба	ROOT
+кастро_NOUN	кастр	ROOT/о	AFFIX
+измир_NOUN	изм	AFFIX/ир	AFFIX
+бродвей_VERB	брод	ROOT/вей	ROOT
+мультиплекс_NOUN	мульти	ROOT/плекс	ROOT
+газпром_NOUN	газ	ROOT/пром	ROOT
+телеретранслятор_NOUN	теле	ROOT/ре	AFFIX/трансл	ROOT/ятор	ROOT
+сильная_ADJ	силь	ROOT/н	AFFIX/а	AFFIX/я	AFFIX
+феофилакт_NOUN	фе	ROOT/о	AFFIX/фил	ROOT/акт	ROOT
+тепличность_NOUN	тепл	ROOT/ичн	AFFIX/ость	AFFIX
+недоработанность_NOUN	н	AFFIX/е	AFFIX/до	AFFIX/работ	ROOT/а	AFFIX/нн	AFFIX/о	AFFIX/с	AFFIX/ть	AFFIX
+грузия_NOUN	груз	ROOT/и	AFFIX/я	AFFIX
+прибывание_NOUN	при	AFFIX/б	AFFIX/ыва	ROOT/ни	AFFIX/е	AFFIX
+уолт_NOUN	у	AFFIX/о	AFFIX/л	AFFIX/т	AFFIX
+октябрёнок_NOUN	октябр	ROOT/ё	ROOT/н	AFFIX/ок	AFFIX
+иркутск_NOUN	ир	AFFIX/кут	ROOT/ск	AFFIX
+секс-индустрия_NOUN	секс	ROOT/-	AFFIX/индустри	ROOT/я	AFFIX
+бобёр_NOUN	боб	ROOT/ёр	AFFIX
+заматывание_NOUN	за	AFFIX/мат	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+чудесная_ADJ	чуд	ROOT/ес	ROOT/на	AFFIX/я	AFFIX
+наемная_ADJ	наем	ROOT/на	AFFIX/я	AFFIX
+августин_NOUN	а	AFFIX/в	AFFIX/густ	ROOT/ин	AFFIX
+госденьги_NOUN	гос	ROOT/деньг	ROOT/и	AFFIX
+перебежчица_NOUN	пере	AFFIX/беж	ROOT/чиц	ROOT/а	AFFIX
+давидович_NOUN	да	ROOT/вид	ROOT/ов	AFFIX/ич	AFFIX
+уимблдон_NOUN	уимбл	ROOT/дон	ROOT
+говард_NOUN	говар	ROOT/д	AFFIX
+емеля_NOUN	е	AFFIX/мел	ROOT/я	AFFIX
+мокша_NOUN	мок	ROOT/ш	AFFIX/а	AFFIX
+застревание_NOUN	застр	ROOT/ева	AFFIX/ни	AFFIX/е	AFFIX
+эйва_NOUN	эйв	ROOT/а	AFFIX
+хакасия_NOUN	хакас	ROOT/и	AFFIX/я	AFFIX
+гугл_NOUN	г	ROOT/угл	ROOT
+синди_NOUN	с	AFFIX/инди	ROOT
+автохтонка_NOUN	авто	ROOT/х	AFFIX/тонк	ROOT/а	AFFIX
+трубы_NOUN	труб	ROOT/ы	AFFIX
+неоконченность_NOUN	нео	ROOT/конч	ROOT/енн	AFFIX/о	AFFIX/с	AFFIX/ть	AFFIX
+публий_ADJ	публ	ROOT/ий	AFFIX
+бэк_NOUN	бэ	ROOT/к	AFFIX
+интернет-ресурс_NOUN	интерн	ROOT/ет	AFFIX/-	AFFIX/ресурс	ROOT
+полуразложившийся_VERB	пол	ROOT/у	AFFIX/раз	AFFIX/лож	ROOT/и	AFFIX/вш	AFFIX/ий	AFFIX/ся	AFFIX
+в себе_ADP	в	AFFIX/ 	ROOT/себ	ROOT/е	AFFIX
+перестройки_NOUN	пере	AFFIX/строй	ROOT/ки	AFFIX
+сильвия_NOUN	силь	ROOT/ви	ROOT/я	AFFIX
+мюррей_NOUN	м	AFFIX/юр	ROOT/рей	ROOT
+не пахнут_PART	не	AFFIX/ 	ROOT/пах	ROOT/ну	AFFIX/т	AFFIX
+лаптоп_NOUN	лап	ROOT/топ	ROOT
+оптимистичность_NOUN	оптим	ROOT/ист	AFFIX/ичн	AFFIX/о	AFFIX/с	AFFIX/ть	AFFIX
+жидкая_ADJ	жидк	ROOT/а	AFFIX/я	AFFIX
+наше_DET	наш	ROOT/е	AFFIX
+миры_NOUN	мир	ROOT/ы	AFFIX
+лыжи_NOUN	лыж	ROOT/и	AFFIX
+с натуры_ADP	с	AFFIX/ 	ROOT/натур	ROOT/ы	AFFIX
+кассель_NOUN	кас	ROOT/сель	ROOT
+мюнстер_NOUN	мю	ROOT/н	AFFIX/стер	ROOT
+демидов_NOUN	дем	ROOT/ид	ROOT/ов	AFFIX
+расценивание_NOUN	рас	AFFIX/цен	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+финляндия_NOUN	финлянд	ROOT/и	AFFIX/я	AFFIX
+можайск_NOUN	мож	ROOT/ай	AFFIX/ск	AFFIX
+уильям_NOUN	у	AFFIX/и	AFFIX/ль	AFFIX/ям	ROOT
+вбивание_NOUN	в	AFFIX/б	AFFIX/ива	AFFIX/ни	AFFIX/е	AFFIX
+протекает_VERB	про	AFFIX/тек	ROOT/а	AFFIX/е	AFFIX/т	AFFIX
+конда_NOUN	кон	ROOT/да	ROOT
+город-порт_NOUN	город	ROOT/-	AFFIX/порт	ROOT
+сочи_NOUN	соч	ROOT/и	AFFIX
+транжирство_NOUN	транжир	ROOT/ств	AFFIX/о	AFFIX
+ингерманландия_NOUN	ин	AFFIX/герман	ROOT/ланд	ROOT/и	AFFIX/я	AFFIX
+насильница_NOUN	на	AFFIX/силь	ROOT/ниц	AFFIX/а	AFFIX
+ческа_NOUN	ческ	AFFIX/а	AFFIX
+гала-представление_NOUN	гал	ROOT/а	AFFIX/-	AFFIX/представл	ROOT/ени	AFFIX/е	AFFIX
+костёр_NOUN	кос	ROOT/тёр	ROOT
+дураков_NOUN	дур	ROOT/а	AFFIX/к	AFFIX/ов	AFFIX
+крутая_ADJ	крут	ROOT/а	AFFIX/я	AFFIX
+эдвин_NOUN	э	ROOT/дви	ROOT/н	AFFIX
+народная_ADJ	народ	ROOT/н	AFFIX/а	AFFIX/я	AFFIX
+гарвард_NOUN	гар	ROOT/в	AFFIX/ард	ROOT
+налогоначисление_NOUN	налог	ROOT/о	AFFIX/на	AFFIX/числ	ROOT/ени	AFFIX/е	AFFIX
+голландия_NOUN	голланд	ROOT/и	AFFIX/я	AFFIX
+обломочек_NOUN	об	AFFIX/лом	ROOT/оч	ROOT/ек	AFFIX
+васильевич_NOUN	ва	ROOT/силь	ROOT/ев	AFFIX/ич	AFFIX
+сент-луис_NOUN	с	AFFIX/ент	AFFIX/-	AFFIX/л	AFFIX/у	AFFIX/ис	AFFIX
+максимович_NOUN	максим	ROOT/ов	AFFIX/ич	AFFIX
+квн_NOUN	к	AFFIX/в	AFFIX/н	AFFIX
+совр_NOUN	со	AFFIX/вр	ROOT
+заражения_NOUN	зараж	ROOT/ени	AFFIX/я	AFFIX
+милуоки_NOUN	мил	ROOT/у	AFFIX/ок	AFFIX/и	AFFIX
+лилль_NOUN	лил	ROOT/ль	AFFIX
+сады_NOUN	сад	ROOT/ы	AFFIX
+семяпочка_NOUN	сем	ROOT/я	AFFIX/почк	ROOT/а	AFFIX
+джозеф_NOUN	дж	ROOT/оз	AFFIX/е	AFFIX/ф	ROOT
+бьет_VERB	бьет	ROOT
+германия_NOUN	герм	ROOT/а	AFFIX/ни	AFFIX/я	AFFIX
+товарищей_NOUN	товар	ROOT/ищ	AFFIX/ей	AFFIX
+щупальца_NOUN	щуп	ROOT/а	AFFIX/ль	AFFIX/ц	AFFIX/а	AFFIX
+необуржуазный_ADJ	нео	ROOT/буржуаз	ROOT/н	AFFIX/ый	AFFIX
+мартынов_NOUN	мар	ROOT/тын	ROOT/ов	AFFIX
+наталия_NOUN	на	AFFIX/тал	ROOT/и	AFFIX/я	AFFIX
+архиепархия_NOUN	архи	AFFIX/епархи	ROOT/я	AFFIX
+усваивание_NOUN	у	AFFIX/сва	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+пролетела_VERB	про	AFFIX/лет	ROOT/ел	AFFIX/а	AFFIX
+спортинг_NOUN	спорт	ROOT/инг	AFFIX
+останкино_NOUN	о	AFFIX/стан	ROOT/кино	ROOT
+баторий_NOUN	б	AFFIX/атор	AFFIX/ий	AFFIX
+асфальтобетонный_ADJ	асфальт	ROOT/о	AFFIX/бетон	ROOT/н	AFFIX/ый	AFFIX
+рикардо_NOUN	ри	ROOT/кард	ROOT/о	AFFIX
+новости_NOUN	н	AFFIX/о	AFFIX/вос	AFFIX/ти	AFFIX
+федерико_NOUN	федер	ROOT/ик	AFFIX/о	AFFIX
+заангажированность_NOUN	за	AFFIX/ангаж	ROOT/ир	AFFIX/ова	AFFIX/нн	AFFIX/ость	AFFIX
+фарм_NOUN	фарм	ROOT
+несогласование_NOUN	нес	ROOT/о	AFFIX/глас	ROOT/ова	AFFIX/ни	AFFIX/е	AFFIX
+кпсс_NOUN	к	AFFIX/пс	ROOT/с	AFFIX
+каракалпачка_NOUN	каракалпач	ROOT/ка	AFFIX
+выламывание_NOUN	вы	AFFIX/лам	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+израиль_NOUN	и	AFFIX/зр	ROOT/а	AFFIX/и	AFFIX/ль	AFFIX
+выруливание_NOUN	вы	AFFIX/рул	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+зверёк_NOUN	звер	ROOT/ё	ROOT/к	AFFIX
+вколачивание_NOUN	в	AFFIX/колач	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+сергеев_NOUN	сер	ROOT/ге	ROOT/ев	AFFIX
+факультативность_NOUN	факультатив	ROOT/н	AFFIX/ость	AFFIX
+хакерство_NOUN	ха	ROOT/к	AFFIX/ер	AFFIX/ств	AFFIX/о	AFFIX
+паритетность_NOUN	паритет	ROOT/н	AFFIX/ость	AFFIX
+киров_NOUN	к	AFFIX/ир	AFFIX/ов	AFFIX
+уго_NOUN	уг	AFFIX/о	AFFIX
+припять_NOUN	при	AFFIX/пять	ROOT
+наркопреступность_NOUN	нарк	ROOT/о	AFFIX/преступ	ROOT/н	AFFIX/ость	AFFIX
+непал_NOUN	непал	ROOT
+киноальманах_NOUN	кино	ROOT/альманах	ROOT
+кристофер_NOUN	к	AFFIX/рис	ROOT/т	AFFIX/о	AFFIX/фер	ROOT
+маня_VERB	ман	AFFIX/я	AFFIX
+планетоид_NOUN	планет	ROOT/оид	AFFIX
+напрасность_NOUN	напрасн	ROOT/ость	AFFIX
+пристыковка_NOUN	при	AFFIX/с	AFFIX/тыков	ROOT/ка	AFFIX
+крузенштерн_NOUN	к	AFFIX/руз	ROOT/ен	AFFIX/ш	AFFIX/терн	ROOT
+трудовая_ADJ	труд	ROOT/ова	AFFIX/я	AFFIX
+скаканье_NOUN	скак	ROOT/а	AFFIX/нь	AFFIX/е	AFFIX
+напр_ADV	н	AFFIX/а	AFFIX/пр	ROOT
+нелегитимность_NOUN	не	AFFIX/легитим	ROOT/н	AFFIX/ость	AFFIX
+кеннеди_NOUN	к	AFFIX/енн	AFFIX/еди	ROOT
+калифорния_NOUN	к	AFFIX/а	AFFIX/лиф	ROOT/орн	AFFIX/и	AFFIX/я	AFFIX
+стивенсон_NOUN	с	AFFIX/ти	AFFIX/вен	ROOT/сон	ROOT
+движения_NOUN	движ	ROOT/ени	AFFIX/я	AFFIX
+буржуазное_ADJ	буржуа	ROOT/зн	ROOT/о	AFFIX/е	AFFIX
+эпидситуация_NOUN	эпид	ROOT/сит	ROOT/у	AFFIX/аци	AFFIX/я	AFFIX
+вов_NOUN	в	AFFIX/ов	AFFIX
+конституционно-правовой_ADJ	конститу	ROOT/ци	AFFIX/о	AFFIX/нн	AFFIX/о	AFFIX/-	AFFIX/прав	ROOT/ов	AFFIX/ой	AFFIX
+малевича_NOUN	малев	ROOT/ича	AFFIX
+пьеха_NOUN	пь	ROOT/ех	AFFIX/а	AFFIX
+пгт_NOUN	пгт	ROOT
+новосибирск_NOUN	нов	ROOT/о	AFFIX/сибир	ROOT/ск	AFFIX
+интернет-поисковик_NOUN	интерн	ROOT/ет	AFFIX/-	AFFIX/по	AFFIX/иск	ROOT/ов	AFFIX/ик	AFFIX
+сокр_NOUN	сокр	ROOT
+хельсинки_NOUN	х	AFFIX/ель	AFFIX/син	ROOT/ки	AFFIX
+романов_NOUN	роман	ROOT/ов	AFFIX
+малообоснованность_NOUN	мал	ROOT/о	AFFIX/об	AFFIX/основ	ROOT/а	AFFIX/нн	AFFIX/ость	AFFIX
+жилкомхозяйство_NOUN	жилком	ROOT/хозяй	ROOT/ств	AFFIX/о	AFFIX
+шотландия_NOUN	шотланд	ROOT/и	AFFIX/я	AFFIX
+романо_NOUN	роман	ROOT/о	AFFIX
+ситком_NOUN	сит	ROOT/ком	AFFIX
+распил_VERB	рас	AFFIX/пил	ROOT
+небезопасность_NOUN	не	AFFIX/без	AFFIX/опас	ROOT/нос	ROOT/ть	AFFIX
+тулон_NOUN	тул	ROOT/о	AFFIX/н	AFFIX
+минет_VERB	мине	ROOT/т	AFFIX
+траян_NOUN	тр	ROOT/а	AFFIX/ян	AFFIX
+чудесник_NOUN	чуд	ROOT/ес	ROOT/ник	AFFIX
+севилья_NOUN	се	ROOT/ви	ROOT/ль	AFFIX/я	AFFIX
+леви_NOUN	лев	ROOT/и	AFFIX
+югославия_NOUN	юг	AFFIX/о	AFFIX/слав	ROOT/и	AFFIX/я	AFFIX
+лексикология_NOUN	лекс	ROOT/ик	AFFIX/о	AFFIX/лог	ROOT/и	AFFIX/я	AFFIX
+семенов_NOUN	сем	ROOT/ен	AFFIX/ов	AFFIX
+развлекуха_NOUN	развлек	ROOT/ух	AFFIX/а	AFFIX
+устная_ADJ	устн	ROOT/ая	AFFIX
+мерзкая_ADJ	мерз	ROOT/к	AFFIX/ая	AFFIX
+эмбиент_NOUN	эмбиент	ROOT
+шопен_NOUN	ш	AFFIX/о	AFFIX/пен	ROOT
+брюгге_NOUN	бр	ROOT/юг	AFFIX/ге	ROOT
+нью-джерси_NOUN	н	AFFIX/ью	ROOT/-	AFFIX/джерси	ROOT
+вылетание_NOUN	вы	AFFIX/лет	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+нюрнберг_NOUN	нюрнберг	ROOT
+песчано-гравийный_ADJ	песч	ROOT/а	AFFIX/н	AFFIX/о	AFFIX/-	AFFIX/гравий	ROOT/н	AFFIX/ый	AFFIX
+тоб_NOUN	т	AFFIX/об	AFFIX
+в суде_ADP	в	AFFIX/ 	ROOT/суд	ROOT/е	AFFIX
+растранжиривание_NOUN	рас	AFFIX/транжир	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+михайлов_NOUN	ми	AFFIX/хайл	ROOT/ов	AFFIX
+кристоф_NOUN	к	AFFIX/рис	ROOT/тоф	ROOT
+конкуретноспособность_NOUN	конкур	ROOT/ет	AFFIX/н	AFFIX/о	AFFIX/способн	ROOT/ость	AFFIX
+телеведущая_NOUN	теле	ROOT/вед	ROOT/ущ	AFFIX/а	AFFIX/я	AFFIX
+адвокатесса_NOUN	адвокат	ROOT/есс	AFFIX/а	AFFIX
+магдалена_NOUN	маг	ROOT/дал	ROOT/е	AFFIX/на	AFFIX
+смекалистость_NOUN	сме	ROOT/кал	ROOT/ист	AFFIX/ость	AFFIX
+курирование_NOUN	кур	ROOT/ир	AFFIX/ова	AFFIX/ни	AFFIX/е	AFFIX
+ричи_NOUN	ри	ROOT/ч	AFFIX/и	AFFIX
+ддт_NOUN	дд	ROOT/т	AFFIX
+ильич_NOUN	и	AFFIX/ль	AFFIX/ич	AFFIX
+ефрон_NOUN	е	AFFIX/фро	ROOT/н	AFFIX
+митчелл_NOUN	мит	ROOT/чел	ROOT/л	AFFIX
+бухарест_NOUN	бух	ROOT/арест	ROOT
+касабланка_NOUN	кас	ROOT/а	AFFIX/бланк	ROOT/а	AFFIX
+увенчивание_NOUN	у	AFFIX/венч	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+фламандка_NOUN	фламанд	ROOT/ка	AFFIX
+предназначенность_NOUN	пред	AFFIX/на	AFFIX/знач	ROOT/енн	AFFIX/о	AFFIX/с	AFFIX/ть	AFFIX
+профобучение_NOUN	проф	ROOT/об	AFFIX/уч	AFFIX/ени	AFFIX/е	AFFIX
+заседает_VERB	за	AFFIX/сед	ROOT/а	AFFIX/е	AFFIX/т	AFFIX
+скукотища_NOUN	скук	ROOT/от	AFFIX/ищ	AFFIX/а	AFFIX
+монтиш_ADJ	монт	ROOT/и	AFFIX/ш	AFFIX
+на севере_ADP	на	AFFIX/ 	ROOT/север	ROOT/е	AFFIX
+бастилия_NOUN	ба	ROOT/стил	ROOT/и	AFFIX/я	AFFIX
+тимоти_NOUN	ти	AFFIX/мот	ROOT/и	AFFIX
+пресность_NOUN	пресн	ROOT/ость	AFFIX
+иосифович_NOUN	и	AFFIX/о	AFFIX/с	AFFIX/и	AFFIX/ф	ROOT/ов	AFFIX/ич	AFFIX
+френсис_NOUN	френ	ROOT/с	AFFIX/ис	AFFIX
+медиакорпорация_NOUN	мед	ROOT/и	AFFIX/а	AFFIX/корпор	ROOT/аци	AFFIX/я	AFFIX
+ханты-мансийск_NOUN	ханты	ROOT/-	AFFIX/ман	AFFIX/с	AFFIX/ий	AFFIX/ск	AFFIX
+горького_ADJ	горь	ROOT/к	AFFIX/о	AFFIX/г	ROOT/о	AFFIX
+господствование_NOUN	господ	ROOT/ств	AFFIX/ова	AFFIX/ни	AFFIX/е	AFFIX
+наумов_NOUN	на	AFFIX/ум	AFFIX/ов	AFFIX
+гидроэлектроэнергия_NOUN	гидр	ROOT/о	AFFIX/электр	ROOT/о	AFFIX/энерг	ROOT/и	AFFIX/я	AFFIX
+развлекаловка_NOUN	развлек	ROOT/ал	AFFIX/ов	AFFIX/ка	AFFIX
+родительство_NOUN	род	ROOT/и	AFFIX/тель	AFFIX/ств	AFFIX/о	AFFIX
+мезорегион_NOUN	мез	ROOT/о	AFFIX/регион	ROOT
+притачивание_NOUN	при	AFFIX/тач	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+ввс_DET	в	AFFIX/вс	AFFIX
+гофман_NOUN	гоф	ROOT/ман	AFFIX
+недоброжелательница_NOUN	не	AFFIX/добр	ROOT/о	AFFIX/жела	ROOT/тель	AFFIX/ниц	AFFIX/а	AFFIX
+иаков_NOUN	и	AFFIX/а	AFFIX/ков	ROOT
+советская_ADJ	совет	ROOT/ск	AFFIX/а	AFFIX/я	AFFIX
+ассирия_NOUN	ассири	ROOT/я	AFFIX
+семеновна_NOUN	сем	ROOT/ен	AFFIX/ов	AFFIX/на	AFFIX
+тяжкая_ADJ	тяж	ROOT/к	AFFIX/а	AFFIX/я	AFFIX
+кончились_VERB	к	AFFIX/он	AFFIX/чились	ROOT
+справедливое_ADJ	справедлив	ROOT/о	AFFIX/е	AFFIX
+плато_NOUN	плат	ROOT/о	AFFIX
+майнц_NOUN	май	ROOT/н	AFFIX/ц	AFFIX
+екатеринбург_NOUN	ек	AFFIX/а	AFFIX/тер	ROOT/ин	AFFIX/б	AFFIX/ург	AFFIX
+шерман_NOUN	ш	AFFIX/ер	AFFIX/ман	AFFIX
+хьюстон_NOUN	х	AFFIX/ью	ROOT/стон	ROOT
+государства_NOUN	государств	ROOT/а	AFFIX
+ливия_NOUN	лив	AFFIX/и	AFFIX/я	AFFIX
+морис_NOUN	мор	ROOT/ис	AFFIX
+матфей_NOUN	мат	ROOT/фей	ROOT
+ёмкость_NOUN	ём	AFFIX/кос	ROOT/ть	AFFIX
+владимировна_NOUN	владимир	ROOT/ов	AFFIX/на	AFFIX
+кмет_NOUN	к	AFFIX/мет	ROOT
+видеопрограмма_NOUN	вид	ROOT/е	AFFIX/о	AFFIX/про	AFFIX/грамм	ROOT/а	AFFIX
+конкур_NOUN	конкур	ROOT
+мариуполь_NOUN	мар	ROOT/и	AFFIX/у	AFFIX/поль	ROOT
+полосатость_NOUN	полос	ROOT/ат	AFFIX/о	AFFIX/с	AFFIX/ть	AFFIX
+андалусия_NOUN	а	AFFIX/н	AFFIX/дал	ROOT/у	AFFIX/сия	ROOT
+окультуривание_NOUN	о	AFFIX/культур	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+альберт_NOUN	аль	AFFIX/бер	ROOT/т	AFFIX
+южноамериканка_NOUN	юж	ROOT/н	AFFIX/о	AFFIX/америк	ROOT/анк	AFFIX/а	AFFIX
+гнет_VERB	гнет	ROOT
+льется_VERB	ль	AFFIX/е	AFFIX/т	AFFIX/ся	AFFIX
+минина_NOUN	мини	ROOT/на	AFFIX
+палермо_NOUN	пале	ROOT/рмо	ROOT
+либертадорес_NOUN	либерт	ROOT/а	AFFIX/дор	ROOT/ес	ROOT
+на улице_ADP	на	AFFIX/ 	ROOT/у	AFFIX/лице	ROOT
+майами_NOUN	май	ROOT/ами	AFFIX
+нормальненько_ADV	норм	ROOT/альн	AFFIX/еньк	AFFIX/о	AFFIX
+малыша_NOUN	мал	ROOT/ыш	ROOT/а	AFFIX
+иностранная_ADJ	ин	AFFIX/остр	ROOT/а	AFFIX/нн	AFFIX/а	AFFIX/я	AFFIX
+очерчивание_NOUN	о	AFFIX/черч	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+шереметев_VERB	шереме	ROOT/т	AFFIX/ев	AFFIX
+перепланирование_NOUN	пере	AFFIX/план	ROOT/ир	AFFIX/ова	AFFIX/ни	AFFIX/е	AFFIX
+испания_NOUN	испан	ROOT/и	AFFIX/я	AFFIX
+киноорганизация_NOUN	кино	ROOT/орган	ROOT/из	AFFIX/аци	AFFIX/я	AFFIX
+ветхая_ADJ	ветх	ROOT/а	AFFIX/я	AFFIX
+арно_NOUN	арн	AFFIX/о	AFFIX
+быстрое_ADJ	быстр	ROOT/о	AFFIX/е	AFFIX
+сдпа_NOUN	сд	ROOT/па	AFFIX
+иван-да-марья_NOUN	ива	AFFIX/н	AFFIX/-	AFFIX/да	ROOT/-	AFFIX/м	AFFIX/арь	AFFIX/я	AFFIX
+роберт_NOUN	роб	ROOT/ерт	ROOT
+стоун_NOUN	сто	ROOT/ун	AFFIX
+сосьва_NOUN	со	AFFIX/сь	AFFIX/ва	ROOT
+бетти_NOUN	бет	ROOT/ти	AFFIX
+судно-контейнеровоз_NOUN	судн	ROOT/о	AFFIX/-	AFFIX/контейнер	ROOT/о	AFFIX/воз	AFFIX
+квадрата_NOUN	квадр	ROOT/ат	AFFIX/а	AFFIX
+мицкевич_NOUN	миц	ROOT/к	AFFIX/ев	AFFIX/ич	AFFIX
+фернандо_NOUN	фер	ROOT/на	AFFIX/н	AFFIX/до	AFFIX
+кумычка_NOUN	кумыч	ROOT/ка	AFFIX
+агромелиорация_NOUN	агро	ROOT/мелиор	ROOT/аци	AFFIX/я	AFFIX
+калужанка_NOUN	ка	AFFIX/луж	ROOT/анк	AFFIX/а	AFFIX
+решило_VERB	решил	ROOT/о	AFFIX
+автокомбинат_NOUN	авто	ROOT/комбинат	ROOT
+рональд_NOUN	рон	ROOT/а	AFFIX/льд	ROOT
+харальд_NOUN	хар	ROOT/а	AFFIX/льд	ROOT
+кэтрин_NOUN	к	AFFIX/эт	ROOT/рин	ROOT
+мес_NOUN	мес	ROOT
+мец_NOUN	м	AFFIX/ец	AFFIX
+висла_VERB	ви	ROOT/сла	ROOT
+барственность_NOUN	бар	ROOT/ств	AFFIX/енн	AFFIX/о	AFFIX/с	AFFIX/ть	AFFIX
+бернардо_NOUN	бер	ROOT/нард	ROOT/о	AFFIX
+антонио_NOUN	антон	ROOT/и	AFFIX/о	AFFIX
+тринити_NOUN	тр	ROOT/и	AFFIX/ни	AFFIX/ти	AFFIX
+лайм_NOUN	лайм	ROOT
+инфлюэнца_NOUN	ин	AFFIX/флюэнц	ROOT/а	AFFIX
+упала_VERB	у	AFFIX/пал	ROOT/а	AFFIX
+субрегион_NOUN	суб	AFFIX/регион	ROOT
+кузьмич_NOUN	к	AFFIX/узьм	ROOT/ич	AFFIX
+азимов_NOUN	а	AFFIX/зим	ROOT/ов	AFFIX
+фрэнсис_NOUN	фр	ROOT/эн	ROOT/с	AFFIX/ис	AFFIX
+предприятие-конкурент_NOUN	предприя	ROOT/ти	AFFIX/е	AFFIX/-	AFFIX/конкур	ROOT/ент	AFFIX
+натан_NOUN	н	AFFIX/ат	AFFIX/а	AFFIX/н	AFFIX
+мини-футбол_NOUN	мини	ROOT/-	AFFIX/фут	ROOT/бол	ROOT
+грязная_ADJ	гряз	ROOT/н	AFFIX/а	AFFIX/я	AFFIX
+короткая_ADJ	коротк	ROOT/а	AFFIX/я	AFFIX
+вильсон_NOUN	ви	ROOT/ль	AFFIX/сон	ROOT
+сметание_NOUN	смет	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+поттер_NOUN	пот	ROOT/тер	ROOT
+стефано_NOUN	стеф	ROOT/а	AFFIX/н	AFFIX/о	AFFIX
+станиславский_NOUN	стан	ROOT/и	AFFIX/слав	ROOT/ск	AFFIX/ий	AFFIX
+непролазная_ADJ	не	AFFIX/про	AFFIX/лаз	ROOT/на	AFFIX/я	AFFIX
+мышления_NOUN	мышл	ROOT/ени	AFFIX/я	AFFIX
+разравнивание_NOUN	раз	AFFIX/равн	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+татарстанка_NOUN	татар	ROOT/стан	ROOT/ка	AFFIX
+рококо_ADJ	рок	ROOT/ок	AFFIX/о	AFFIX
+невыплата_NOUN	н	AFFIX/е	AFFIX/вы	AFFIX/плат	ROOT/а	AFFIX
+вольфганг_NOUN	воль	ROOT/ф	ROOT/ганг	ROOT
+фан-клуб_NOUN	фан	ROOT/-	AFFIX/клуб	ROOT
+уганда_NOUN	у	AFFIX/ган	ROOT/да	ROOT
+яндекс_NOUN	ян	AFFIX/дек	ROOT/с	AFFIX
+полмиллиона_NOUN	пол	ROOT/миллион	ROOT/а	AFFIX
+азов_NOUN	азо	ROOT/в	AFFIX
+сосульки_NOUN	сосуль	ROOT/ки	AFFIX
+леопольд_NOUN	л	AFFIX/е	AFFIX/о	AFFIX/по	AFFIX/льд	ROOT
+вычегда_NOUN	вы	AFFIX/чег	ROOT/да	ROOT
+челночник_NOUN	челноч	ROOT/ник	AFFIX
+солнечная_ADJ	сол	ROOT/н	AFFIX/еч	ROOT/на	AFFIX/я	AFFIX
+в сентябре_ADP	в	AFFIX/ 	ROOT/сен	ROOT/тя	ROOT/бр	ROOT/е	AFFIX
+хантер_VERB	хан	ROOT/тер	ROOT
+спартак_NOUN	с	AFFIX/парт	ROOT/ак	AFFIX
+сомали_NOUN	со	AFFIX/мал	ROOT/и	AFFIX
+берген_NOUN	бер	ROOT/ген	ROOT
+проговаривание_NOUN	про	AFFIX/говар	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+димитров_NOUN	ди	ROOT/митр	ROOT/ов	AFFIX
+комсомольская_ADJ	ком	AFFIX/со	AFFIX/моль	ROOT/ск	AFFIX/а	AFFIX/я	AFFIX
+саксония_NOUN	саксон	ROOT/и	AFFIX/я	AFFIX
+даугавпилс_NOUN	да	ROOT/у	AFFIX/гав	ROOT/пил	ROOT/с	AFFIX
+забайкалье_NOUN	за	AFFIX/байкаль	ROOT/е	AFFIX
+динамо_NOUN	динам	ROOT/о	AFFIX
+шиферная_ADJ	шифер	ROOT/на	AFFIX/я	AFFIX
+сингер_NOUN	с	AFFIX/инг	AFFIX/ер	AFFIX
+мухаммад_NOUN	му	ROOT/хаммад	ROOT
+ирландия_NOUN	ирланд	ROOT/и	AFFIX/я	AFFIX
+понуждание_NOUN	по	AFFIX/нужд	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+киноработа_NOUN	кино	ROOT/работ	ROOT/а	AFFIX
+плохая_ADJ	плох	ROOT/а	AFFIX/я	AFFIX
+нагоя_NOUN	наг	ROOT/о	AFFIX/я	AFFIX
+бертон_NOUN	бер	ROOT/тон	ROOT
+гвозди_NOUN	гвозд	ROOT/и	AFFIX
+безработных_ADJ	без	AFFIX/работ	ROOT/н	AFFIX/ых	AFFIX
+сантьяго_NOUN	сан	ROOT/ть	AFFIX/яг	AFFIX/о	AFFIX
+корнелиус_NOUN	корн	ROOT/е	AFFIX/ли	ROOT/ус	AFFIX
+мэтью_NOUN	мэ	ROOT/ть	AFFIX/ю	AFFIX
+иждивенка_NOUN	иждив	ROOT/е	AFFIX/н	AFFIX/к	AFFIX/а	AFFIX
+ушла_VERB	ушл	ROOT/а	AFFIX
+чкалов_NOUN	ч	AFFIX/кал	ROOT/ов	AFFIX
+уотсон_NOUN	у	AFFIX/от	AFFIX/сон	ROOT
+ульрих_NOUN	уль	ROOT/рих	ROOT
+микрорегион_NOUN	микро	ROOT/регион	ROOT
+недооцененность_NOUN	н	AFFIX/е	AFFIX/до	AFFIX/о	AFFIX/цен	ROOT/енн	AFFIX/о	AFFIX/с	AFFIX/ть	AFFIX
+геттинген_NOUN	геттинге	ROOT/н	AFFIX
+спб_NOUN	спб	ROOT
+афанасьев_NOUN	а	AFFIX/фан	ROOT/а	AFFIX/сь	AFFIX/ев	AFFIX
+гидромет_NOUN	гидр	ROOT/о	AFFIX/мет	ROOT
+дома твоего_ADV	дом	ROOT/а	AFFIX/ 	ROOT/твоего	ROOT
+беларусь_NOUN	бел	ROOT/ар	AFFIX/усь	ROOT
+спецпредставительство_NOUN	спец	ROOT/представ	ROOT/и	AFFIX/тель	AFFIX/ств	AFFIX/о	AFFIX
+бельгия_NOUN	бельги	ROOT/я	AFFIX
+сапоги_NOUN	сапог	ROOT/и	AFFIX
+тобольск_NOUN	т	AFFIX/о	AFFIX/боль	ROOT/ск	AFFIX
+пятёрка_NOUN	пят	ROOT/ёр	AFFIX/к	AFFIX/а	AFFIX
+невыносимая_ADJ	н	AFFIX/е	AFFIX/вы	AFFIX/н	AFFIX/осимая	ROOT
+элис_NOUN	э	ROOT/лис	ROOT
+кэмпбелл_NOUN	к	AFFIX/эмп	ROOT/бел	ROOT/л	AFFIX
+корявая_ADJ	коряв	ROOT/а	AFFIX/я	AFFIX
+посполитая_VERB	по	AFFIX/с	AFFIX/полит	ROOT/а	AFFIX/я	AFFIX
+франческо_ADV	франч	ROOT/еск	AFFIX/о	AFFIX
+синтоизм_NOUN	син	ROOT/т	AFFIX/о	AFFIX/изм	AFFIX
+прометея_NOUN	про	AFFIX/мете	ROOT/я	AFFIX
+вилли_NOUN	вил	ROOT/ли	ROOT
+шана_NOUN	ш	AFFIX/а	AFFIX/н	AFFIX/а	AFFIX
+голошение_NOUN	гол	ROOT/ош	AFFIX/ени	AFFIX/е	AFFIX
+восемьсотпятидесятилетие_NOUN	восемь	ROOT/сот	ROOT/пят	ROOT/и	AFFIX/десят	ROOT/и	AFFIX/лет	ROOT/и	AFFIX/е	AFFIX
+жилая_ADJ	жил	ROOT/а	AFFIX/я	AFFIX
+айленд_NOUN	ай	AFFIX/ленд	ROOT
+стивен_NOUN	с	AFFIX/ти	AFFIX/вен	ROOT
+флеш_ADJ	флеш	ROOT
+годунов_NOUN	год	ROOT/ун	AFFIX/ов	AFFIX
+согласовывание_NOUN	соглас	ROOT/ов	AFFIX/ыва	ROOT/ни	AFFIX/е	AFFIX
+адское_ADJ	ад	AFFIX/ск	AFFIX/о	AFFIX/е	AFFIX
+прорывание_NOUN	про	AFFIX/рыв	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+сердечница_NOUN	сердеч	ROOT/ниц	AFFIX/а	AFFIX
+промежуточность_NOUN	промежуточ	ROOT/нос	ROOT/ть	AFFIX
+видеоконтроль_NOUN	вид	ROOT/е	AFFIX/о	AFFIX/контроль	ROOT
+отелло_NOUN	от	AFFIX/елл	ROOT/о	AFFIX
+небраска_NOUN	не	AFFIX/брас	ROOT/ка	AFFIX
+трубецкой_NOUN	труб	ROOT/ец	AFFIX/кой	AFFIX
+менделеев_NOUN	мендел	ROOT/е	AFFIX/ев	AFFIX
+онкопроцесс_NOUN	онк	AFFIX/о	AFFIX/процесс	ROOT
+банджо_NOUN	банд	ROOT/ж	ROOT/о	AFFIX
+нант_NOUN	н	AFFIX/ант	AFFIX
+анапа_NOUN	а	AFFIX/напа	ROOT
+гарри_NOUN	гар	ROOT/ри	ROOT
+диурез_NOUN	диур	ROOT/ез	ROOT
+диоклетиан_NOUN	ди	ROOT/ок	AFFIX/лет	ROOT/и	AFFIX/а	AFFIX/н	AFFIX
+моссовет_NOUN	мо	ROOT/с	AFFIX/совет	ROOT
+биокибернетик_NOUN	био	ROOT/кибернет	ROOT/ик	AFFIX
+английского_ADJ	англ	ROOT/ий	AFFIX/ского	ROOT
+неподверженный_ADJ	не	AFFIX/под	AFFIX/верж	ROOT/енн	AFFIX/ый	AFFIX
+колёса_NOUN	к	AFFIX/олёс	ROOT/а	AFFIX
+аудиоаппаратура_NOUN	а	AFFIX/уд	ROOT/и	AFFIX/о	AFFIX/аппарат	ROOT/ура	ROOT
+сансара_NOUN	сан	ROOT/с	AFFIX/ар	AFFIX/а	AFFIX
+нашлемник_NOUN	на	AFFIX/шлем	ROOT/ник	AFFIX
+электронно-механический_ADJ	электр	ROOT/онн	AFFIX/о	AFFIX/-	AFFIX/механ	ROOT/ическ	AFFIX/ий	AFFIX
+становления_NOUN	становл	ROOT/ени	AFFIX/я	AFFIX
+кибер-коммерция_NOUN	к	AFFIX/ибер	ROOT/-	AFFIX/коммерц	ROOT/и	AFFIX/я	AFFIX
+целая_ADJ	цел	ROOT/а	AFFIX/я	AFFIX
+киноучреждение_NOUN	кино	ROOT/учрежд	ROOT/ени	AFFIX/е	AFFIX
+фбр_NOUN	ф	ROOT/бр	ROOT
+прокапывание_NOUN	про	AFFIX/кап	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+крымревком_NOUN	крым	ROOT/ревком	ROOT
+рико_NOUN	рик	ROOT/о	AFFIX
+автомототранспорт_NOUN	авто	ROOT/мото	ROOT/транспорт	ROOT
+танго_NOUN	танг	ROOT/о	AFFIX
+джеффри_NOUN	дже	ROOT/ф	ROOT/фри	ROOT
+нассау_NOUN	н	AFFIX/асс	ROOT/а	AFFIX/у	AFFIX
+пробирование_NOUN	про	AFFIX/бир	ROOT/ова	AFFIX/ни	AFFIX/е	AFFIX
+сельхозорганизация_NOUN	сель	ROOT/хоз	ROOT/орган	ROOT/из	AFFIX/аци	AFFIX/я	AFFIX
+чэнь_VERB	ч	AFFIX/э	ROOT/нь	AFFIX
+экспромтный_ADJ	экспромт	ROOT/н	AFFIX/ый	AFFIX
+индонезия_NOUN	индонези	ROOT/я	AFFIX
+анаконда_NOUN	а	AFFIX/на	AFFIX/к	AFFIX/о	AFFIX/н	AFFIX/да	ROOT
+восьмидесятые_ADJ	восьм	ROOT/и	AFFIX/де	AFFIX/ся	AFFIX/тые	ROOT
+плюс_ADP	плюс	ROOT
+лора_NOUN	л	AFFIX/ор	AFFIX/а	AFFIX
+майлз_NOUN	май	ROOT/лз	ROOT
+иоаким_NOUN	и	AFFIX/о	AFFIX/а	AFFIX/ким	ROOT
+глен_NOUN	г	ROOT/лен	ROOT
+в печи_ADP	в	AFFIX/ 	ROOT/печ	ROOT/и	AFFIX
+кончился_VERB	конч	ROOT/и	AFFIX/л	AFFIX/ся	AFFIX
+швейцария_NOUN	швейцар	ROOT/и	AFFIX/я	AFFIX
+подтаскивание_NOUN	под	AFFIX/таск	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+капсюль-детонатор_NOUN	капсюль	ROOT/-	AFFIX/детон	ROOT/атор	AFFIX
+продленного дня_VERB	прод	ROOT/ленного	ROOT/ 	ROOT/дн	ROOT/я	AFFIX
+отвратительность_NOUN	отврат	ROOT/и	AFFIX/тель	AFFIX/нос	ROOT/ть	AFFIX
+орегон_NOUN	ор	AFFIX/е	AFFIX/гон	ROOT
+оплевывание_NOUN	о	AFFIX/плев	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+выговаривание_NOUN	вы	AFFIX/говар	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+длинная_ADJ	дл	ROOT/и	AFFIX/нн	AFFIX/а	AFFIX/я	AFFIX
+мэтт_NOUN	мэ	ROOT/т	AFFIX/т	AFFIX
+анормальность_NOUN	а	AFFIX/норм	ROOT/альн	AFFIX/о	AFFIX/с	AFFIX/ть	AFFIX
+фонодокумент_NOUN	фон	ROOT/о	AFFIX/документ	ROOT
+автоматчица_NOUN	автомат	ROOT/чиц	ROOT/а	AFFIX
+без содержания_ADP	без	AFFIX/ 	ROOT/содерж	ROOT/а	AFFIX/ни	AFFIX/я	AFFIX
+рпц_NOUN	рп	ROOT/ц	AFFIX
+рено_NOUN	ре	AFFIX/н	AFFIX/о	AFFIX
+кинопостановка_NOUN	кино	ROOT/по	AFFIX/станов	ROOT/ка	AFFIX
+первая_ADJ	пер	ROOT/ва	ROOT/я	AFFIX
+пушкин_NOUN	пушкин	ROOT
+проскальзывание_NOUN	про	AFFIX/скальз	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+миасс_NOUN	миас	ROOT/с	AFFIX
+феликс_NOUN	фел	ROOT/ик	AFFIX/с	AFFIX
+торговец-челнок_NOUN	торгов	ROOT/ец	AFFIX/-	AFFIX/челн	ROOT/ок	AFFIX
+чувашка_NOUN	чу	ROOT/ваш	ROOT/ка	AFFIX
+андреас_NOUN	андр	ROOT/е	AFFIX/а	AFFIX/с	AFFIX
+алконавт_NOUN	ал	AFFIX/к	AFFIX/о	AFFIX/навт	ROOT
+страницы_NOUN	стран	ROOT/иц	AFFIX/ы	AFFIX
+полномочность_NOUN	полномоч	ROOT/н	AFFIX/ость	AFFIX
+шалон_NOUN	шал	ROOT/о	AFFIX/н	AFFIX
+режиссёр_NOUN	режисс	ROOT/ёр	AFFIX
+переосмысливание_NOUN	пере	AFFIX/о	AFFIX/с	AFFIX/мысл	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+йена_NOUN	й	ROOT/е	AFFIX/н	AFFIX/а	AFFIX
+сахароза_NOUN	сахар	ROOT/о	AFFIX/за	AFFIX
+поливинилацетат_NOUN	по	AFFIX/лив	AFFIX/и	AFFIX/ни	AFFIX/л	AFFIX/ацет	ROOT/ат	AFFIX
+конфронтационность_NOUN	кон	ROOT/фронт	ROOT/аци	AFFIX/онн	AFFIX/ость	AFFIX
+детройт_NOUN	детройт	ROOT
+квинсленд_NOUN	к	AFFIX/вин	ROOT/с	AFFIX/ленд	ROOT
+моя_DET	мо	ROOT/я	AFFIX
+сирия_NOUN	с	AFFIX/ир	AFFIX/и	AFFIX/я	AFFIX
+гренландия_NOUN	грен	ROOT/ланд	ROOT/и	AFFIX/я	AFFIX
+безотлагательность_NOUN	без	AFFIX/от	AFFIX/лаг	ROOT/а	AFFIX/тельн	AFFIX/ость	AFFIX
+валяносапожник_NOUN	вал	ROOT/ян	AFFIX/о	AFFIX/сапож	ROOT/ник	AFFIX
+чарли_NOUN	чар	ROOT/ли	ROOT
+подъедание_NOUN	подъ	ROOT/е	AFFIX/да	ROOT/ни	AFFIX/е	AFFIX
+лион_NOUN	л	AFFIX/ион	ROOT
+микроблог_NOUN	микроб	ROOT/лог	ROOT
+рсфср_NOUN	рс	ROOT/ф	ROOT/ср	ROOT
+несвязная_ADJ	нес	ROOT/вяз	ROOT/на	AFFIX/я	AFFIX
+туркменистан_NOUN	туркмен	ROOT/ист	AFFIX/а	AFFIX/н	AFFIX
+фриско_NOUN	фри	ROOT/ск	AFFIX/о	AFFIX
+пацаны_NOUN	пацаны	ROOT
+милан_NOUN	мил	ROOT/а	AFFIX/н	AFFIX
+листья_NOUN	лис	ROOT/ть	AFFIX/я	AFFIX
+страдивари_NOUN	страд	ROOT/и	AFFIX/вари	ROOT
+на песке_ADP	на	AFFIX/ 	ROOT/песк	ROOT/е	AFFIX
+подыгрывание_NOUN	под	AFFIX/ыгр	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+приднестровье_NOUN	при	AFFIX/днестр	ROOT/овь	AFFIX/е	AFFIX
+барбаросс_NOUN	бар	ROOT/ба	ROOT/росс	ROOT
+секс-бизнес_NOUN	секс	ROOT/-	AFFIX/бизнес	ROOT
+катунь_NOUN	кат	ROOT/унь	ROOT
+интертото_VERB	интер	AFFIX/т	AFFIX/от	AFFIX/о	AFFIX
+вини_NOUN	ви	ROOT/ни	AFFIX
+евклид_NOUN	евк	ROOT/лид	ROOT
+выстаивание_NOUN	вы	AFFIX/ста	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+иран_NOUN	иран	ROOT
+христианская_ADJ	хр	ROOT/ист	AFFIX/и	AFFIX/а	AFFIX/н	AFFIX/ск	AFFIX/а	AFFIX/я	AFFIX
+петербуржка_NOUN	петербурж	ROOT/ка	AFFIX
+франкония_NOUN	франк	ROOT/о	AFFIX/ни	AFFIX/я	AFFIX
+высоцкий_NOUN	вы	AFFIX/соц	ROOT/к	AFFIX/ий	AFFIX
+освистывание_NOUN	о	AFFIX/свист	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+намёк_NOUN	н	AFFIX/а	AFFIX/мё	ROOT/к	AFFIX
+викариат_NOUN	ви	ROOT/кари	ROOT/ат	AFFIX
+изуверка_NOUN	изувер	ROOT/ка	AFFIX
+поношенность_NOUN	понош	ROOT/енн	AFFIX/ость	AFFIX
+джойс_NOUN	джой	ROOT/с	AFFIX
+национал-шовинистический_ADJ	наци	ROOT/о	AFFIX/н	AFFIX/ал	AFFIX/-	AFFIX/шовин	ROOT/ист	AFFIX/ическ	AFFIX/ий	AFFIX
+принстон_NOUN	при	AFFIX/н	AFFIX/стон	ROOT
+растения_NOUN	раст	ROOT/ени	AFFIX/я	AFFIX
+эссекс_NOUN	эс	ROOT/секс	ROOT
+рихард_NOUN	ри	ROOT/хард	ROOT
+стерлитамак_NOUN	стер	ROOT/лит	ROOT/а	AFFIX/мак	ROOT
+камерун_NOUN	камер	ROOT/ун	AFFIX
+вдалбливание_NOUN	в	AFFIX/далбл	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+чехов_NOUN	чех	ROOT/ов	AFFIX
+дружная_ADJ	друж	ROOT/на	AFFIX/я	AFFIX
+аниме_NOUN	а	AFFIX/н	AFFIX/име	ROOT
+радиокомпания_NOUN	радио	ROOT/компани	ROOT/я	AFFIX
+наша_DET	наш	ROOT/а	AFFIX
+черная_ADJ	черн	ROOT/а	AFFIX/я	AFFIX
+изнеможенность_NOUN	из	AFFIX/не	AFFIX/мож	ROOT/енн	AFFIX/ость	AFFIX
+абакан_NOUN	а	AFFIX/бак	ROOT/а	AFFIX/н	AFFIX
+прозрачная_ADJ	прозрачн	ROOT/а	AFFIX/я	AFFIX
+рейнджерс_NOUN	рейнджер	ROOT/с	AFFIX
+лужков_NOUN	луж	ROOT/ков	ROOT
+необратим_ADJ	н	AFFIX/еобратим	ROOT
+лауреатка_NOUN	лауреат	ROOT/ка	AFFIX
+альбер_NOUN	аль	AFFIX/бер	ROOT
+бездушность_NOUN	без	AFFIX/душ	ROOT/нос	ROOT/ть	AFFIX
+мечты_NOUN	мечт	ROOT/ы	AFFIX
+алексеевич_NOUN	а	AFFIX/лекс	ROOT/е	AFFIX/ев	AFFIX/ич	AFFIX
+монтан_NOUN	монт	ROOT/а	AFFIX/н	AFFIX
+эвертон_NOUN	э	ROOT/верт	ROOT/о	AFFIX/н	AFFIX
+бурное_ADJ	бур	ROOT/н	AFFIX/ое	AFFIX
+прочищение_NOUN	про	AFFIX/чищ	ROOT/ени	AFFIX/е	AFFIX
+кардифф_NOUN	карди	ROOT/фф	ROOT
+эльзас_NOUN	эльзас	ROOT
+крупные_ADJ	крупн	ROOT/ые	AFFIX
+бахрейн_NOUN	бах	ROOT/рей	ROOT/н	AFFIX
+галактики_NOUN	галактик	ROOT/и	AFFIX
+глубокое_ADJ	глуб	ROOT/ок	AFFIX/о	AFFIX/е	AFFIX
+ефремов_NOUN	ефрем	ROOT/ов	AFFIX
+снасти_NOUN	снаст	ROOT/и	AFFIX
+мао_NOUN	мао	ROOT
+экстрасенсорика_NOUN	экстра	AFFIX/сенсор	ROOT/ик	AFFIX/а	AFFIX
+ребенка_NOUN	реб	ROOT/е	AFFIX/н	AFFIX/к	AFFIX/а	AFFIX
+чужие_ADJ	чуж	ROOT/и	AFFIX/е	AFFIX
+гидромелиорация_NOUN	гидр	ROOT/о	AFFIX/мелиор	ROOT/аци	AFFIX/я	AFFIX
+гражданско-процессуальный_ADJ	граждан	ROOT/ск	AFFIX/о	AFFIX/-	AFFIX/процесс	ROOT/у	AFFIX/альн	AFFIX/ый	AFFIX
+авиауслуга_NOUN	авиа	ROOT/у	AFFIX/слуг	ROOT/а	AFFIX
+расшвыривание_NOUN	рас	AFFIX/швыр	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+декодирование_NOUN	де	AFFIX/код	ROOT/ир	AFFIX/ова	AFFIX/ни	AFFIX/е	AFFIX
+шпалопродукция_NOUN	шпал	ROOT/о	AFFIX/продукц	ROOT/и	AFFIX/я	AFFIX
+огнеопасность_NOUN	огн	ROOT/е	AFFIX/опас	ROOT/н	AFFIX/ость	AFFIX
+чистая_ADJ	чист	ROOT/а	AFFIX/я	AFFIX
+дерегуляция_NOUN	де	AFFIX/регул	ROOT/яци	ROOT/я	AFFIX
+обама_NOUN	об	AFFIX/а	AFFIX/ма	ROOT
+жюль_ADV	жю	ROOT/ль	AFFIX
+застраиванье_NOUN	за	AFFIX/стра	ROOT/ива	AFFIX/нь	AFFIX/е	AFFIX
+сталинград_NOUN	сталин	ROOT/град	ROOT
+выплачивание_NOUN	вы	AFFIX/плач	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+джерри_NOUN	джерри	ROOT
+мои_DET	мо	ROOT/и	AFFIX
+вып_NOUN	вы	AFFIX/п	ROOT
+поджигание_NOUN	под	AFFIX/жиг	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+турбомотор_NOUN	турб	ROOT/о	AFFIX/мотор	ROOT
+ябедничанье_NOUN	ябед	ROOT/нича	AFFIX/нь	AFFIX/е	AFFIX
+докуривание_NOUN	до	AFFIX/кур	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+стрелков_NOUN	стрел	ROOT/к	AFFIX/ов	AFFIX
+веломашина_NOUN	вел	ROOT/о	AFFIX/машин	ROOT/а	AFFIX
+спицы_NOUN	спиц	ROOT/ы	AFFIX
+живодерка_NOUN	жив	ROOT/од	ROOT/ер	AFFIX/к	AFFIX/а	AFFIX
+детоталитаризация_NOUN	де	AFFIX/тоталитар	ROOT/из	AFFIX/аци	AFFIX/я	AFFIX
+паласный_ADJ	пал	ROOT/а	AFFIX/с	AFFIX/н	AFFIX/ый	AFFIX
+томас_NOUN	том	ROOT/а	AFFIX/с	AFFIX
+пылеочиститель_NOUN	пыл	ROOT/е	AFFIX/о	AFFIX/чист	ROOT/и	AFFIX/тель	AFFIX
+производственница_NOUN	производ	ROOT/ств	AFFIX/енн	AFFIX/иц	AFFIX/а	AFFIX
+составительница_NOUN	состав	ROOT/и	AFFIX/тель	AFFIX/ниц	AFFIX/а	AFFIX
+гент_NOUN	ген	ROOT/т	AFFIX
+словакия_NOUN	слов	ROOT/а	AFFIX/ки	AFFIX/я	AFFIX
+оаэ_NOUN	о	AFFIX/а	AFFIX/э	ROOT
+связная_ADJ	с	AFFIX/вяз	ROOT/на	AFFIX/я	AFFIX
+жилуправление_NOUN	жил	ROOT/у	AFFIX/правл	ROOT/ени	AFFIX/е	AFFIX
+маркиан_NOUN	марк	ROOT/и	AFFIX/а	AFFIX/н	AFFIX
+гдр_ADJ	г	ROOT/др	ROOT
+воды_NOUN	вод	ROOT/ы	AFFIX
+фортепиано_NOUN	фортепиан	ROOT/о	AFFIX
+радиооборудование_NOUN	радио	ROOT/оборудова	ROOT/ни	AFFIX/е	AFFIX
+затрагивание_NOUN	за	AFFIX/траг	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+чечётка_NOUN	че	ROOT/чёт	ROOT/ка	AFFIX
+манхеттен_NOUN	ман	AFFIX/хетт	ROOT/ен	AFFIX
+муфлон_NOUN	му	ROOT/фло	ROOT/н	AFFIX
+артемий_NOUN	арт	ROOT/ем	AFFIX/ий	AFFIX
+мое_DET	мо	ROOT/е	AFFIX
+уокер_NOUN	у	AFFIX/ок	AFFIX/ер	AFFIX
+единоплеменница_NOUN	един	ROOT/о	AFFIX/плем	ROOT/енн	AFFIX/иц	AFFIX/а	AFFIX
+нигер_NOUN	ни	AFFIX/г	ROOT/ер	AFFIX
+миссури_NOUN	миссур	ROOT/и	AFFIX
+калгари_NOUN	кал	ROOT/гар	ROOT/и	AFFIX
+джордан_NOUN	дж	ROOT/орд	ROOT/а	AFFIX/н	AFFIX
+повенок_NOUN	по	AFFIX/в	AFFIX/енок	ROOT
+старая_ADJ	стара	ROOT/я	AFFIX
+курт_NOUN	кур	ROOT/т	AFFIX
+лонг-айленд_NOUN	лонг	ROOT/-	AFFIX/ай	AFFIX/ленд	ROOT
+сара_NOUN	с	AFFIX/ар	AFFIX/а	AFFIX
+подольск_NOUN	по	AFFIX/доль	ROOT/ск	AFFIX
+умственное_ADJ	ум	AFFIX/ств	AFFIX/енн	AFFIX/о	AFFIX/е	AFFIX
+львович_NOUN	льв	ROOT/ов	AFFIX/ич	AFFIX
+ахвахска_NOUN	ах	AFFIX/в	AFFIX/ах	AFFIX/ск	AFFIX/а	AFFIX
+подбавка_NOUN	под	AFFIX/бав	ROOT/ка	AFFIX
+герцеговина_NOUN	герц	ROOT/его	AFFIX/вин	ROOT/а	AFFIX
+бешеные_ADJ	бешены	ROOT/е	AFFIX
+одно_NUM	одн	ROOT/о	AFFIX
+ученый-механик_NOUN	уч	AFFIX/ен	AFFIX/ый	AFFIX/-	AFFIX/механ	ROOT/ик	AFFIX
+русского языка_ADJ	русского	ROOT/ 	ROOT/язык	ROOT/а	AFFIX
+авторазгрузчик_NOUN	авто	ROOT/раз	AFFIX/груз	ROOT/чик	AFFIX
+студенты_NOUN	студ	ROOT/ент	AFFIX/ы	AFFIX
+форсмажор_NOUN	форс	ROOT/мажор	ROOT
+зажжение_NOUN	за	AFFIX/жж	ROOT/ени	AFFIX/е	AFFIX
+диссидентка_NOUN	диссидент	ROOT/ка	AFFIX
+финиширование_NOUN	финиш	ROOT/ир	AFFIX/ова	AFFIX/ни	AFFIX/е	AFFIX
+днк_NOUN	дн	ROOT/к	AFFIX
+марти_NOUN	март	ROOT/и	AFFIX
+снежинки_NOUN	снеж	ROOT/и	AFFIX/н	AFFIX/к	AFFIX/и	AFFIX
+медуслуга_NOUN	мед	ROOT/у	AFFIX/слуг	ROOT/а	AFFIX
+коксующийся_VERB	кокс	ROOT/у	AFFIX/ющ	AFFIX/ий	AFFIX/ся	AFFIX
+тампа_NOUN	там	ROOT/па	AFFIX
+рамаллах_NOUN	рам	ROOT/а	AFFIX/ллах	ROOT
+гастингс_NOUN	гас	ROOT/тинг	ROOT/с	AFFIX
+выразительная_ADJ	выраз	ROOT/и	AFFIX/тельн	AFFIX/а	AFFIX/я	AFFIX
+ногина_NOUN	ног	ROOT/и	AFFIX/на	AFFIX
+экстрасенсорность_NOUN	экстра	AFFIX/сенсор	ROOT/н	AFFIX/ость	AFFIX
+бумажные_ADJ	бумаж	ROOT/н	AFFIX/ые	AFFIX
+свирь_NOUN	с	AFFIX/в	AFFIX/ир	AFFIX/ь	AFFIX
+соревнования_NOUN	соревнова	ROOT/ни	AFFIX/я	AFFIX
+дискомфортность_NOUN	диск	ROOT/омфортнос	ROOT/ть	AFFIX
+на себя_ADP	на	AFFIX/ 	ROOT/себ	ROOT/я	AFFIX
+заводчанин_NOUN	завод	ROOT/чан	ROOT/ин	AFFIX
+риу_NOUN	ри	ROOT/у	AFFIX
+евпатория_NOUN	ев	AFFIX/п	ROOT/атор	AFFIX/и	AFFIX/я	AFFIX
+невель_NOUN	н	AFFIX/ев	AFFIX/ель	AFFIX
+нефтекомпания_NOUN	нефт	ROOT/е	AFFIX/компани	ROOT/я	AFFIX
+лидирование_NOUN	лид	ROOT/ир	AFFIX/ова	AFFIX/ни	AFFIX/е	AFFIX
+новая_ADJ	н	AFFIX/ова	AFFIX/я	AFFIX
+прорывка_NOUN	про	AFFIX/рыв	ROOT/ка	AFFIX
+дикая_ADJ	дик	ROOT/а	AFFIX/я	AFFIX
+батуми_NOUN	бат	ROOT/ум	AFFIX/и	AFFIX
+могущественность_NOUN	мо	ROOT/гущ	ROOT/еств	AFFIX/енн	AFFIX/о	AFFIX/с	AFFIX/ть	AFFIX
+скандинавия_NOUN	скандинав	ROOT/и	AFFIX/я	AFFIX
+виргиния_NOUN	в	AFFIX/ир	AFFIX/гин	ROOT/и	AFFIX/я	AFFIX
+детерминирование_NOUN	детермин	ROOT/ир	AFFIX/ова	AFFIX/ни	AFFIX/е	AFFIX
+стыковывание_NOUN	с	AFFIX/тыков	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+отсасывание_NOUN	от	AFFIX/сас	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+тимофеевич_NOUN	тимофеев	ROOT/ич	AFFIX
+смс-сообщение_NOUN	смс	ROOT/-	AFFIX/сообщ	ROOT/ени	AFFIX/е	AFFIX
+воспоминания_NOUN	вос	AFFIX/помин	ROOT/а	AFFIX/ни	AFFIX/я	AFFIX
+филиппины_NOUN	филиппин	ROOT/ы	AFFIX
+тюрок_NOUN	тюр	ROOT/ок	AFFIX
+денисенко_NOUN	ден	ROOT/ис	AFFIX/енк	ROOT/о	AFFIX
+итр_NOUN	и	AFFIX/тр	ROOT
+полураспавшийся_VERB	пол	ROOT/у	AFFIX/рас	AFFIX/па	AFFIX/вш	AFFIX/ий	AFFIX/ся	AFFIX
+мэйдзи_NOUN	мэй	ROOT/дзи	ROOT
+гложет_VERB	гложет	ROOT
+хоккеистка_NOUN	хо	ROOT/к	AFFIX/к	AFFIX/е	AFFIX/ист	AFFIX/ка	AFFIX
+билайн_NOUN	би	ROOT/лай	ROOT/н	AFFIX
+европарламент_NOUN	евр	ROOT/о	AFFIX/парламент	ROOT
+пессимистичность_NOUN	пессим	ROOT/ист	AFFIX/ичн	AFFIX/о	AFFIX/с	AFFIX/ть	AFFIX
+реймс_NOUN	рей	ROOT/м	AFFIX/с	AFFIX
+самовосприятие_NOUN	сам	ROOT/о	AFFIX/восприя	ROOT/ти	AFFIX/е	AFFIX
+фон_PART	фон	ROOT
+эстетка_NOUN	эстет	ROOT/ка	AFFIX
+молдавия_NOUN	молдав	ROOT/и	AFFIX/я	AFFIX
+набавление_NOUN	на	AFFIX/бавл	ROOT/ени	AFFIX/е	AFFIX
+винницкая_ADJ	вин	ROOT/ниц	AFFIX/ка	AFFIX/я	AFFIX
+застраивание_NOUN	за	AFFIX/стра	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+субтильность_NOUN	субтильн	ROOT/ость	AFFIX
+белоруссия_NOUN	белорус	ROOT/сия	ROOT
+смит_NOUN	смит	ROOT
+эмили_X	эм	ROOT/и	AFFIX/ли	ROOT
+чебоксары_ADJ	че	ROOT/бокс	ROOT/а	AFFIX/ры	ROOT
+тесла_NOUN	тес	ROOT/ла	ROOT
+авиационно-космический_ADJ	ави	ROOT/аци	AFFIX/онн	AFFIX/о	AFFIX/-	AFFIX/косм	ROOT/ич	AFFIX/еск	AFFIX/ий	AFFIX
+туристов_NOUN	тур	AFFIX/ист	AFFIX/ов	AFFIX
+красноярск_NOUN	красн	ROOT/о	AFFIX/яр	AFFIX/ск	AFFIX
+хорватка_NOUN	хорват	ROOT/ка	AFFIX
+силезия_NOUN	сил	ROOT/е	AFFIX/зия	ROOT
+бурятия_NOUN	бур	ROOT/я	AFFIX/ти	AFFIX/я	AFFIX
+шальные_ADJ	ш	AFFIX/а	AFFIX/ль	AFFIX/н	AFFIX/ые	AFFIX
+бенгалия_NOUN	бен	ROOT/гал	ROOT/и	AFFIX/я	AFFIX
+соседа_NOUN	сосед	ROOT/а	AFFIX
+монтевидео_NOUN	монт	ROOT/е	AFFIX/вид	ROOT/е	AFFIX/о	AFFIX
+подрастание_NOUN	под	AFFIX/раст	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+нко_NOUN	н	AFFIX/к	AFFIX/о	AFFIX
+васильев_NOUN	ва	ROOT/силь	ROOT/ев	AFFIX
+туркестан_NOUN	турк	ROOT/е	AFFIX/стан	ROOT
+видеоаудиоролик_NOUN	вид	ROOT/е	AFFIX/о	AFFIX/а	AFFIX/уд	ROOT/и	AFFIX/о	AFFIX/рол	ROOT/ик	AFFIX
+афро_NOUN	а	AFFIX/фро	ROOT
+москвы_NOUN	мо	ROOT/ск	AFFIX/вы	AFFIX
+маньчжурия_NOUN	маньчжур	ROOT/и	AFFIX/я	AFFIX
+самовольство_NOUN	сам	ROOT/ов	AFFIX/о	AFFIX/ль	AFFIX/ств	AFFIX/о	AFFIX
+аверс_NOUN	а	AFFIX/верс	ROOT
+хороша_ADJ	хорош	ROOT/а	AFFIX
+бомбей_NOUN	бомб	ROOT/ей	AFFIX
+сити_NOUN	сит	ROOT/и	AFFIX
+энергозатраты_NOUN	энерг	ROOT/о	AFFIX/за	AFFIX/трат	ROOT/ы	AFFIX
+миронов_NOUN	мир	ROOT/о	AFFIX/нов	ROOT
+гней_NOUN	гн	ROOT/ей	AFFIX
+оглядывание_NOUN	о	AFFIX/гляд	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+райнарсуд_NOUN	рай	ROOT/нар	ROOT/суд	ROOT
+гамма-луч_NOUN	гамм	ROOT/а	AFFIX/-	AFFIX/луч	ROOT
+связки_NOUN	с	AFFIX/вяз	ROOT/к	AFFIX/и	AFFIX
+дурновкусие_NOUN	дурн	ROOT/о	AFFIX/вкус	ROOT/и	AFFIX/е	AFFIX
+лебедев_NOUN	лебед	ROOT/ев	AFFIX
+раскапывание_NOUN	рас	AFFIX/кап	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+мой_DET	мой	ROOT
+видеооборудование_NOUN	вид	ROOT/е	AFFIX/о	AFFIX/оборудова	ROOT/ни	AFFIX/е	AFFIX
+пигмалион_NOUN	пи	ROOT/г	ROOT/мал	ROOT/ион	ROOT
+пляски_NOUN	пляс	ROOT/ки	AFFIX
+шатл_NOUN	шат	ROOT/л	AFFIX
+роберто_NOUN	роб	ROOT/ерт	ROOT/о	AFFIX
+котирование_NOUN	к	AFFIX/от	AFFIX/ир	AFFIX/ова	AFFIX/ни	AFFIX/е	AFFIX
+перемелется_VERB	пере	AFFIX/мел	ROOT/е	AFFIX/т	AFFIX/ся	AFFIX
+хакинг_NOUN	ха	ROOT/к	AFFIX/инг	AFFIX
+каймаканство_NOUN	к	AFFIX/аймак	ROOT/а	AFFIX/н	AFFIX/ств	AFFIX/о	AFFIX
+тушью_NOUN	туш	ROOT/ью	ROOT
+над чем-то_ADP	над	AFFIX/ 	ROOT/ч	AFFIX/ем	AFFIX/-	AFFIX/т	AFFIX/о	AFFIX
+перезимовка_NOUN	пере	AFFIX/зим	ROOT/ов	AFFIX/ка	AFFIX
+электрогазосварщица_NOUN	электр	ROOT/о	AFFIX/газ	ROOT/о	AFFIX/с	AFFIX/вар	ROOT/щиц	ROOT/а	AFFIX
+брукс_NOUN	бр	ROOT/у	AFFIX/к	AFFIX/с	AFFIX
+чечня_NOUN	ч	AFFIX/еч	ROOT/н	AFFIX/я	AFFIX
+юлиана_NOUN	ю	AFFIX/ли	ROOT/а	AFFIX/на	AFFIX
+аномальность_NOUN	аномаль	ROOT/нос	ROOT/ть	AFFIX
+гаврилович_NOUN	гав	ROOT/рил	ROOT/ов	AFFIX/ич	AFFIX
+стив_NOUN	ст	AFFIX/ив	AFFIX
+публицистка_NOUN	публиц	ROOT/ист	AFFIX/ка	AFFIX
+необходимая_ADJ	необходим	ROOT/а	AFFIX/я	AFFIX
+пресли_NOUN	пре	AFFIX/с	AFFIX/ли	ROOT
+мужества_NOUN	муж	ROOT/еств	AFFIX/а	AFFIX
+скопье_NOUN	скоп	ROOT/ье	ROOT
+босния_NOUN	бос	ROOT/ни	AFFIX/я	AFFIX
+издержки_NOUN	из	AFFIX/держ	ROOT/к	AFFIX/и	AFFIX
+маршрутизатор_NOUN	маршрут	ROOT/из	AFFIX/атор	AFFIX
+подрывание_NOUN	под	AFFIX/рыв	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+гималаи_ADJ	ги	ROOT/мал	ROOT/а	AFFIX/и	AFFIX
+на завтра_ADP	на	AFFIX/ 	ROOT/завтра	ROOT
+долгая_ADJ	долг	ROOT/а	AFFIX/я	AFFIX
+фиджи_NOUN	ф	ROOT/ид	ROOT/жи	ROOT
+гумбольдт_NOUN	гум	ROOT/боль	ROOT/д	AFFIX/т	AFFIX
+петропавловск_NOUN	петр	ROOT/о	AFFIX/пав	ROOT/лов	ROOT/ск	AFFIX
+кустодиев_NOUN	куст	ROOT/оди	ROOT/ев	AFFIX
+роуз_NOUN	ро	ROOT/уз	ROOT
+осака_NOUN	о	AFFIX/сак	ROOT/а	AFFIX
+широкая_ADJ	широк	ROOT/а	AFFIX/я	AFFIX
+втыкание_NOUN	в	AFFIX/тык	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+вода и медные трубы_NOUN	вод	ROOT/а	AFFIX/ и 	ROOT/мед	ROOT/н	AFFIX/ые	AFFIX/ 	ROOT/труб	ROOT/ы	AFFIX
+атланта_NOUN	а	AFFIX/тл	ROOT/ант	AFFIX/а	AFFIX
+канцер_NOUN	канцер	ROOT
+в кармане_ADP	в	AFFIX/ 	ROOT/карман	ROOT/е	AFFIX
+гренобль_NOUN	грен	ROOT/об	AFFIX/ль	AFFIX
+зао_NOUN	за	AFFIX/о	AFFIX
+мансур_NOUN	ман	AFFIX/с	AFFIX/ур	AFFIX
+полуфиналист_NOUN	пол	ROOT/у	AFFIX/финал	ROOT/ист	AFFIX
+быстрая_ADJ	быстр	ROOT/а	AFFIX/я	AFFIX
+капучино_NOUN	кап	ROOT/уч	AFFIX/ин	AFFIX/о	AFFIX
+у моря_ADP	у	AFFIX/ 	ROOT/мор	ROOT/я	AFFIX
+хорошая_ADJ	хорош	ROOT/а	AFFIX/я	AFFIX
+падание_NOUN	пад	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+коррупционность_NOUN	к	AFFIX/оррупцио	ROOT/нн	AFFIX/ость	AFFIX
+радиотелепередача_NOUN	радио	ROOT/теле	ROOT/пере	AFFIX/дач	ROOT/а	AFFIX
+отоваривание_NOUN	о	AFFIX/товар	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+киновариант_NOUN	кино	ROOT/вариант	ROOT
+авиапорт_NOUN	авиа	ROOT/порт	ROOT
+звёзды_NOUN	звёзды	ROOT
+бпла_VERB	б	AFFIX/пла	ROOT
+эрих_NOUN	эр	ROOT/их	AFFIX
+сталкивание_NOUN	стал	ROOT/к	AFFIX/ива	AFFIX/ни	AFFIX/е	AFFIX
+антиреклама_NOUN	анти	AFFIX/реклам	ROOT/а	AFFIX
+балтия_NOUN	балти	ROOT/я	AFFIX
+саха_NOUN	с	AFFIX/а	AFFIX/ха	ROOT
+огульность_NOUN	о	AFFIX/гуль	ROOT/н	AFFIX/ость	AFFIX
+морган_NOUN	морган	ROOT
+вильгельмина_NOUN	ви	ROOT/ль	AFFIX/гел	ROOT/ьми	ROOT/на	AFFIX
+едет_VERB	е	AFFIX/дет	ROOT
+своеобычность_NOUN	сво	ROOT/е	AFFIX/обыч	ROOT/нос	ROOT/ть	AFFIX
+широка_ADJ	широк	ROOT/а	AFFIX
+глория_NOUN	глори	ROOT/я	AFFIX
+зёрна_NOUN	зёр	ROOT/н	AFFIX/а	AFFIX
+кливленд_NOUN	к	AFFIX/лив	AFFIX/ленд	ROOT
+полиизобутилен_NOUN	поли	ROOT/изо	AFFIX/бутил	ROOT/ен	AFFIX
+нужная_ADJ	нужн	ROOT/а	AFFIX/я	AFFIX
+карлсон_NOUN	карл	ROOT/сон	ROOT
+карелка_NOUN	кар	ROOT/ел	AFFIX/к	AFFIX/а	AFFIX
+санкционирование_NOUN	санкци	ROOT/он	AFFIX/ир	AFFIX/ова	AFFIX/ни	AFFIX/е	AFFIX
+томпсон_NOUN	томп	ROOT/сон	ROOT
+сгрузка_NOUN	сгр	ROOT/узк	ROOT/а	AFFIX
+риа_NOUN	ри	ROOT/а	AFFIX
+метровка_NOUN	метр	ROOT/ов	AFFIX/ка	AFFIX
+госсовет_NOUN	гос	ROOT/совет	ROOT
+мортаделла_NOUN	мор	ROOT/та	ROOT/дел	ROOT/ла	ROOT
+пахан_ADJ	пах	ROOT/а	AFFIX/н	AFFIX
+в душе_ADP	в	AFFIX/ 	ROOT/душ	ROOT/е	AFFIX
+реалити-шоу_NOUN	ре	AFFIX/а	AFFIX/лит	ROOT/и	AFFIX/-	AFFIX/ш	AFFIX/о	AFFIX/у	AFFIX
+долгоруков_NOUN	долг	ROOT/о	AFFIX/рук	ROOT/ов	AFFIX
+привозка_NOUN	при	AFFIX/воз	AFFIX/ка	AFFIX
+от учения_ADP	от	AFFIX/ 	ROOT/уч	AFFIX/ени	AFFIX/я	AFFIX
+сава_NOUN	с	AFFIX/а	AFFIX/ва	ROOT
+телеизмерение_NOUN	теле	ROOT/из	AFFIX/мер	ROOT/ени	AFFIX/е	AFFIX
+в альбоме_ADP	в	AFFIX/ 	ROOT/альбом	ROOT/е	AFFIX
+трёп_NOUN	трёп	ROOT
+полноводная_ADJ	полн	ROOT/ов	AFFIX/одн	ROOT/а	AFFIX/я	AFFIX
+кадылык_NOUN	кад	ROOT/ы	AFFIX/лык	ROOT
+прокопка_NOUN	про	AFFIX/коп	ROOT/ка	AFFIX
+сырьё_NOUN	сырь	ROOT/ё	ROOT
+видеоаудиозапись_NOUN	вид	ROOT/е	AFFIX/о	AFFIX/а	AFFIX/уд	ROOT/и	AFFIX/о	AFFIX/за	AFFIX/пись	ROOT
+андрес_NOUN	андр	ROOT/ес	ROOT
+медиаструктура_NOUN	мед	ROOT/и	AFFIX/а	AFFIX/структур	ROOT/а	AFFIX
+стоит_VERB	сто	ROOT/ит	AFFIX
+сварливая_ADJ	с	AFFIX/вар	ROOT/лива	ROOT/я	AFFIX
+нефтегазодобытчик_NOUN	нефт	ROOT/е	AFFIX/газ	ROOT/о	AFFIX/добы	ROOT/т	AFFIX/чик	AFFIX
+выкачка_NOUN	вы	AFFIX/кач	ROOT/ка	AFFIX
+легкоусвояемый_ADJ	легк	ROOT/о	AFFIX/усвояем	ROOT/ый	AFFIX
+фукусима_ADJ	фу	ROOT/кус	ROOT/им	AFFIX/а	AFFIX
+ален_NOUN	а	AFFIX/лен	ROOT
+полинезия_NOUN	полинези	ROOT/я	AFFIX
+ларнака_NOUN	лар	ROOT/на	AFFIX/ка	AFFIX
+коллеж_NOUN	коллеж	ROOT
+авиапутешествие_NOUN	авиа	ROOT/пут	ROOT/е	AFFIX/шест	ROOT/ви	ROOT/е	AFFIX
+евсевий_NOUN	е	AFFIX/вс	AFFIX/ев	AFFIX/ий	AFFIX
+бруно_NOUN	бр	ROOT/ун	AFFIX/о	AFFIX
+головин_NOUN	голов	ROOT/ин	AFFIX
+пения_NOUN	пе	ROOT/ни	AFFIX/я	AFFIX
+йель_NOUN	й	ROOT/ель	AFFIX
+челябинск_NOUN	челяби	ROOT/н	AFFIX/ск	AFFIX
+танжерин_NOUN	та	ROOT/н	AFFIX/же	ROOT/рин	ROOT
+александрович_NOUN	а	AFFIX/лекс	ROOT/андр	ROOT/ов	AFFIX/ич	AFFIX
+кришна_NOUN	к	AFFIX/ри	ROOT/ш	AFFIX/на	AFFIX
+бирманка_NOUN	бир	ROOT/манк	ROOT/а	AFFIX
+ооо_NOUN	оо	ROOT/о	AFFIX
+согласия_NOUN	со	AFFIX/глас	ROOT/и	AFFIX/я	AFFIX
+иллюстрирование_NOUN	иллюстр	ROOT/ир	AFFIX/ова	AFFIX/ни	AFFIX/е	AFFIX
+возлежание_NOUN	воз	AFFIX/леж	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+като_VERB	кат	ROOT/о	AFFIX
+краски_NOUN	крас	ROOT/к	AFFIX/и	AFFIX
+мегаплекс_NOUN	мега	ROOT/плекс	ROOT
+карго_NOUN	к	AFFIX/арго	ROOT
+норвегия_NOUN	н	AFFIX/орвег	ROOT/и	AFFIX/я	AFFIX
+аудиотехника_NOUN	а	AFFIX/уд	ROOT/и	AFFIX/о	AFFIX/техн	ROOT/ик	AFFIX/а	AFFIX
+мокко_NOUN	мок	ROOT/ко	AFFIX
+верди_NOUN	вер	ROOT/ди	ROOT
+энн_NOUN	эн	ROOT/н	AFFIX
+докрашивание_NOUN	до	AFFIX/краш	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+сценаристка_NOUN	сцен	ROOT/ар	AFFIX/ист	AFFIX/ка	AFFIX
+лангобард_NOUN	ланг	ROOT/о	AFFIX/бард	ROOT
+словенка_NOUN	словен	ROOT/ка	AFFIX
+соплячка_NOUN	сопл	ROOT/ячк	AFFIX/а	AFFIX
+пекин_NOUN	пекин	ROOT
+танцы_NOUN	танц	ROOT/ы	AFFIX
+оренбург_NOUN	оренбург	ROOT
+мультсериал_NOUN	мульт	ROOT/сери	ROOT/ал	AFFIX
+хусейн_NOUN	ху	ROOT/сей	ROOT/н	AFFIX
+валентинович_NOUN	валент	ROOT/ин	AFFIX/ов	AFFIX/ич	AFFIX
+истра_NOUN	и	AFFIX/стра	ROOT
+марадона_NOUN	мар	ROOT/а	AFFIX/до	AFFIX/на	AFFIX
+санта_NOUN	с	AFFIX/ант	AFFIX/а	AFFIX
+лоуренс_NOUN	лоуренс	ROOT
+музыки_NOUN	музык	ROOT/и	AFFIX
+медиаимперия_NOUN	мед	ROOT/и	AFFIX/а	AFFIX/импер	ROOT/и	AFFIX/я	AFFIX
+кордова_NOUN	корд	ROOT/ова	AFFIX
+делла_NOUN	д	AFFIX/елл	ROOT/а	AFFIX
+костянка_NOUN	кост	ROOT/янк	AFFIX/а	AFFIX
+сальвадор_NOUN	саль	ROOT/ва	ROOT/дор	ROOT
+андреевич_NOUN	андр	ROOT/е	AFFIX/ев	AFFIX/ич	AFFIX
+силва_NOUN	сил	ROOT/ва	ROOT
+животное-вожак_NOUN	живот	ROOT/н	AFFIX/о	AFFIX/е	AFFIX/-	AFFIX/вож	ROOT/а	AFFIX/к	AFFIX
+вербовщица_NOUN	вербов	ROOT/щиц	ROOT/а	AFFIX
+маркович_NOUN	марк	ROOT/ов	AFFIX/ич	AFFIX
+на юге_ADP	на	AFFIX/ 	ROOT/юг	AFFIX/е	AFFIX
+чувашия_NOUN	чу	ROOT/ва	ROOT/ши	AFFIX/я	AFFIX
+белаз_NOUN	бел	ROOT/аз	ROOT
+незатасканный_ADJ	не	AFFIX/за	AFFIX/таск	ROOT/а	AFFIX/нн	AFFIX/ый	AFFIX
+толкач-буксир_NOUN	толк	ROOT/ач	AFFIX/-	AFFIX/буксир	ROOT
+теплая_ADJ	тепл	ROOT/а	AFFIX/я	AFFIX
+намибия_NOUN	н	AFFIX/ами	AFFIX/би	ROOT/я	AFFIX
+сбавление_NOUN	с	AFFIX/бавл	ROOT/ени	AFFIX/е	AFFIX
+профорган_VERB	проф	ROOT/орган	ROOT
+карандашом_NOUN	карандаш	ROOT/ом	AFFIX
+хосе_NOUN	хо	ROOT/се	ROOT
+микрокомпьютер_NOUN	микро	ROOT/компьютер	ROOT
+супербоевик_NOUN	супер	AFFIX/бо	ROOT/ев	AFFIX/ик	AFFIX
+ставрополь_NOUN	ставрополь	ROOT
+берн_NOUN	б	AFFIX/ер	AFFIX/н	AFFIX
+ужасное_ADJ	ужас	ROOT/н	AFFIX/о	AFFIX/е	AFFIX
+самоосознание_NOUN	сам	ROOT/о	AFFIX/о	AFFIX/созна	ROOT/ни	AFFIX/е	AFFIX
+додумывание_NOUN	до	AFFIX/дум	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+кузбасс_NOUN	куз	ROOT/бас	ROOT/с	AFFIX
+литературы_NOUN	литерат	ROOT/у	AFFIX/ры	ROOT
+хихон_NOUN	хих	ROOT/о	AFFIX/н	AFFIX
+отвиливание_NOUN	от	AFFIX/вил	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+лампочный_ADJ	ламп	ROOT/очн	AFFIX/ый	AFFIX
+э-бизнес_NOUN	э	ROOT/-	AFFIX/бизнес	ROOT
+стучит_VERB	стуч	ROOT/ит	AFFIX
+пасмурная_ADJ	пасмурн	ROOT/а	AFFIX/я	AFFIX
+березина_NOUN	берез	ROOT/и	AFFIX/на	AFFIX
+испортилась_VERB	и	AFFIX/спорт	ROOT/илась	ROOT
+дитрих_NOUN	дитрих	ROOT
+клейка_NOUN	клей	ROOT/к	AFFIX/а	AFFIX
+лёгкость_NOUN	лёг	ROOT/кос	ROOT/ть	AFFIX
+телерадиобашня_NOUN	теле	ROOT/радио	ROOT/башн	ROOT/я	AFFIX
+токсикация_NOUN	токс	ROOT/ик	AFFIX/аци	AFFIX/я	AFFIX
+улан-удэ_NOUN	улан	ROOT/-	AFFIX/у	AFFIX/дэ	ROOT
+люциферов_NOUN	люцифер	ROOT/ов	AFFIX
+прицветник_NOUN	при	AFFIX/цвет	ROOT/ник	AFFIX
+кабардинка_NOUN	кабардин	ROOT/ка	AFFIX
+аризона_NOUN	ар	AFFIX/из	AFFIX/о	AFFIX/на	AFFIX
+лозанна_NOUN	л	AFFIX/о	AFFIX/за	AFFIX/нн	AFFIX/а	AFFIX
+бристоль_NOUN	бристоль	ROOT
+гала-концерт_NOUN	гал	ROOT/а	AFFIX/-	AFFIX/концерт	ROOT
+извилистая_ADJ	из	AFFIX/ви	ROOT/лист	ROOT/а	AFFIX/я	AFFIX
+исмаил_NOUN	ис	AFFIX/ма	ROOT/ил	AFFIX
+лесомелиорация_NOUN	лес	ROOT/о	AFFIX/мелиор	ROOT/аци	AFFIX/я	AFFIX
+аргонавты_NOUN	арго	ROOT/навт	ROOT/ы	AFFIX
+добрая_ADJ	добр	ROOT/а	AFFIX/я	AFFIX
+родос_NOUN	род	ROOT/о	AFFIX/с	AFFIX
+уголовно-процессуальный_ADJ	уголовн	ROOT/о	AFFIX/-	AFFIX/процесс	ROOT/у	AFFIX/альн	AFFIX/ый	AFFIX
+розжиг_NOUN	роз	ROOT/жиг	ROOT
+сорбонна_NOUN	сорб	ROOT/онн	AFFIX/а	AFFIX
+писатель-юморист_NOUN	пис	ROOT/а	AFFIX/тель	AFFIX/-	AFFIX/юмор	ROOT/ист	AFFIX
+телерадиоцентр_NOUN	теле	ROOT/радио	ROOT/центр	ROOT
+китай_NOUN	китай	ROOT
+генри_NOUN	ген	ROOT/ри	ROOT
+общеправовой_ADJ	общ	ROOT/е	AFFIX/прав	ROOT/ов	AFFIX/ой	AFFIX
+старбакс_NOUN	стар	ROOT/бак	ROOT/с	AFFIX
+медленное_ADJ	медл	ROOT/енн	AFFIX/о	AFFIX/е	AFFIX
+дырявая_ADJ	дыр	ROOT/я	AFFIX/ва	ROOT/я	AFFIX
+томаш_NOUN	том	ROOT/а	AFFIX/ш	AFFIX
+йокогама_NOUN	й	ROOT/ок	AFFIX/о	AFFIX/гам	ROOT/а	AFFIX
+тяжкое_ADJ	тяж	ROOT/к	AFFIX/о	AFFIX/е	AFFIX
+стюарт_NOUN	ст	AFFIX/ю	AFFIX/арт	ROOT
+каракули_NOUN	каракул	ROOT/и	AFFIX
+ахла_NOUN	ах	AFFIX/ла	ROOT
+вантуз_NOUN	ван	ROOT/туз	ROOT
+австро-венгрия_NOUN	а	AFFIX/в	AFFIX/стро	ROOT/-	AFFIX/венгр	ROOT/и	AFFIX/я	AFFIX
+плавная_ADJ	плав	ROOT/н	AFFIX/а	AFFIX/я	AFFIX
+пикушка_NOUN	пик	ROOT/ушк	AFFIX/а	AFFIX
+афанасьевич_NOUN	а	AFFIX/фан	ROOT/а	AFFIX/сь	AFFIX/ев	AFFIX/ич	AFFIX
+том_PRON	том	ROOT
+рязанщина_NOUN	ряз	ROOT/а	AFFIX/н	AFFIX/щин	AFFIX/а	AFFIX
+медобслуживание_NOUN	мед	ROOT/об	AFFIX/служ	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+плодородность_NOUN	плод	ROOT/о	AFFIX/родн	ROOT/ость	AFFIX
+развития_NOUN	разви	ROOT/ти	AFFIX/я	AFFIX
+сваровски_ADV	с	AFFIX/вар	ROOT/ов	AFFIX/ск	AFFIX/и	AFFIX
+дождя_NOUN	дожд	ROOT/я	AFFIX
+лэптоп_NOUN	л	AFFIX/эп	ROOT/топ	ROOT
+последняя_ADJ	по	AFFIX/след	ROOT/н	AFFIX/я	AFFIX/я	AFFIX
+цинцинната_NOUN	цин	ROOT/ци	AFFIX/нн	AFFIX/ат	AFFIX/а	AFFIX
+санто_NOUN	с	AFFIX/ант	AFFIX/о	AFFIX
+сломался_VERB	сло	ROOT/мал	ROOT/ся	AFFIX
+ларёк_NOUN	ларё	ROOT/к	AFFIX
+притачка_NOUN	при	AFFIX/тач	ROOT/ка	AFFIX
+пенополиуританин_NOUN	пен	ROOT/о	AFFIX/поли	ROOT/ур	AFFIX/и	AFFIX/танин	ROOT
+безумность_NOUN	без	AFFIX/ум	AFFIX/нос	ROOT/ть	AFFIX
+кризисность_NOUN	кризис	ROOT/н	AFFIX/ость	AFFIX
+телепродюсер_NOUN	теле	ROOT/продюсер	ROOT
+автор-составитель_NOUN	автор	ROOT/-	AFFIX/состав	ROOT/и	AFFIX/тель	AFFIX
+его_PRON	его	AFFIX
+мазовецкий_ADJ	маз	ROOT/ов	AFFIX/ец	AFFIX/кий	ROOT
+реэмигрант_NOUN	ре	AFFIX/эмигр	ROOT/ант	AFFIX
+видеоверсия_NOUN	вид	ROOT/е	AFFIX/о	AFFIX/верси	ROOT/я	AFFIX
+шаховской_NOUN	ш	AFFIX/а	AFFIX/ховской	ROOT
+анджело_NOUN	анд	ROOT/жел	ROOT/о	AFFIX
+вымеривание_NOUN	вы	AFFIX/мер	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+иоахим_NOUN	и	AFFIX/о	AFFIX/а	AFFIX/хим	ROOT
+протягивание_NOUN	про	AFFIX/тяг	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+гербовник_NOUN	герб	ROOT/ов	AFFIX/ник	AFFIX
+соул_NOUN	со	AFFIX/ул	AFFIX
+сопродюсер_NOUN	со	AFFIX/продюсер	ROOT
+всеволодович_NOUN	все	ROOT/вол	ROOT/о	AFFIX/до	AFFIX/в	AFFIX/ич	AFFIX
+наталья_NOUN	н	AFFIX/ат	AFFIX/аль	AFFIX/я	AFFIX
+крис_NOUN	к	AFFIX/рис	ROOT
+михайловка_NOUN	ми	AFFIX/хайл	ROOT/ов	AFFIX/ка	AFFIX
+бессквозняковый_ADJ	бес	AFFIX/сквоз	ROOT/няк	ROOT/ов	AFFIX/ый	AFFIX
+вайоминг_NOUN	ва	ROOT/й	ROOT/ом	AFFIX/инг	AFFIX
+первооткрытие_NOUN	перв	ROOT/о	AFFIX/от	AFFIX/к	AFFIX/рытие	ROOT
+мейнстрим_VERB	мейнстрим	ROOT
+эстуарий_NOUN	эс	ROOT/туар	ROOT/ий	AFFIX
+атлетико_NOUN	атлет	ROOT/ик	AFFIX/о	AFFIX
+хлопок-волокно_NOUN	хлопок	ROOT/-	AFFIX/волокн	ROOT/о	AFFIX
+математики_NOUN	математ	ROOT/ик	AFFIX/и	AFFIX
+видеодокумент_NOUN	вид	ROOT/е	AFFIX/о	AFFIX/документ	ROOT
+писатель-сатирик_NOUN	пис	ROOT/а	AFFIX/тель	AFFIX/-	AFFIX/сатир	ROOT/ик	AFFIX
+луара_NOUN	л	AFFIX/у	AFFIX/ар	AFFIX/а	AFFIX
+эмми_NOUN	эм	ROOT/ми	AFFIX
+кибер-бизнес_NOUN	к	AFFIX/ибер	ROOT/-	AFFIX/бизнес	ROOT
+великобритания_NOUN	велик	ROOT/о	AFFIX/британ	ROOT/и	AFFIX/я	AFFIX
+директора_NOUN	дирек	ROOT/тор	AFFIX/а	AFFIX
+яна_NOUN	ян	AFFIX/а	AFFIX
+краснов_NOUN	красн	ROOT/ов	AFFIX
+морально-нравственный_ADJ	мор	ROOT/альн	AFFIX/о	AFFIX/-	AFFIX/нравственн	ROOT/ый	AFFIX
+дубай_NOUN	ду	ROOT/бай	ROOT
+оксфорд_NOUN	окс	ROOT/форд	ROOT
+висконсин_NOUN	в	AFFIX/искон	ROOT/син	ROOT
+хьюго_NOUN	х	AFFIX/ью	ROOT/го	ROOT
+родригес_NOUN	род	ROOT/риге	ROOT/с	AFFIX
+феодосия_NOUN	феод	ROOT/о	AFFIX/сия	ROOT
+перья_NOUN	пер	ROOT/ья	ROOT
+сдвижка_NOUN	с	AFFIX/движ	ROOT/ка	AFFIX
+молодая_ADJ	молод	ROOT/а	AFFIX/я	AFFIX
+каракалпак_NOUN	каракалпак	ROOT
+бердо_NOUN	берд	ROOT/о	AFFIX
+кило_NOUN	кило	ROOT
+над головой_ADP	над	AFFIX/ 	ROOT/голов	ROOT/ой	AFFIX
+раннеперестроечный_ADJ	ран	ROOT/не	AFFIX/пере	AFFIX/стро	ROOT/еч	ROOT/н	AFFIX/ый	AFFIX
+предприятие-монополист_NOUN	предприя	ROOT/ти	AFFIX/е	AFFIX/-	AFFIX/монопол	ROOT/ист	AFFIX
+работы_NOUN	работ	ROOT/ы	AFFIX
+мордовия_NOUN	морд	ROOT/ов	AFFIX/и	AFFIX/я	AFFIX
+дублерша_NOUN	дубл	ROOT/ерш	ROOT/а	AFFIX
+боуи_VERB	бо	ROOT/у	AFFIX/и	AFFIX
+кемерово_NOUN	к	AFFIX/е	AFFIX/мер	ROOT/ов	AFFIX/о	AFFIX
+слова_NOUN	сл	ROOT/ова	AFFIX
+челси_NOUN	чел	ROOT/с	AFFIX/и	AFFIX
+актер-статист_NOUN	актер	ROOT/-	AFFIX/статист	ROOT
+саламанка_NOUN	сал	ROOT/а	AFFIX/манк	ROOT/а	AFFIX
+бактерии_NOUN	бактери	ROOT/и	AFFIX
+минтранс_NOUN	мин	ROOT/транс	AFFIX
+закупание_NOUN	за	AFFIX/куп	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+анатольевич_NOUN	а	AFFIX/на	AFFIX/толь	ROOT/ев	AFFIX/ич	AFFIX
+мирянка_NOUN	мир	ROOT/янк	AFFIX/а	AFFIX
+альбион_NOUN	аль	AFFIX/био	ROOT/н	AFFIX
+дора_NOUN	дор	ROOT/а	AFFIX
+радиослужба_NOUN	радио	ROOT/служ	ROOT/б	AFFIX/а	AFFIX
+простаивание_NOUN	прост	ROOT/а	AFFIX/ива	AFFIX/ни	AFFIX/е	AFFIX
+сенегал_NOUN	сенегал	ROOT
+отстреливание_NOUN	от	AFFIX/стрел	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+просиживание_NOUN	про	AFFIX/сиж	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+аманда_NOUN	а	AFFIX/ман	AFFIX/да	ROOT
+нью-орлеан_NOUN	н	AFFIX/ью	ROOT/-	AFFIX/орл	ROOT/е	AFFIX/а	AFFIX/н	AFFIX
+поляков_NOUN	пол	ROOT/як	AFFIX/ов	AFFIX
+аман_NOUN	а	AFFIX/ман	AFFIX
+сродственница_NOUN	с	AFFIX/род	ROOT/ств	AFFIX/енн	AFFIX/иц	AFFIX/а	AFFIX
+ракушки_NOUN	рак	ROOT/ушк	AFFIX/и	AFFIX
+прошел_VERB	про	AFFIX/шел	ROOT
+онкозаболевание_NOUN	онк	AFFIX/о	AFFIX/за	AFFIX/бол	ROOT/ева	AFFIX/ни	AFFIX/е	AFFIX
+ижевск_NOUN	и	AFFIX/жев	ROOT/ск	AFFIX
+беспилотник_NOUN	бес	AFFIX/пилот	ROOT/ник	AFFIX
+компактвэн_NOUN	компакт	ROOT/вэ	ROOT/н	AFFIX
+полоумие_NOUN	пол	ROOT/о	AFFIX/ум	AFFIX/и	AFFIX/е	AFFIX
+индеанка_NOUN	ин	AFFIX/де	AFFIX/а	AFFIX/н	AFFIX/к	AFFIX/а	AFFIX
+игнатьевич_NOUN	и	AFFIX/гн	ROOT/а	AFFIX/ть	AFFIX/ев	AFFIX/ич	AFFIX
+в городе_ADP	в	AFFIX/ 	ROOT/город	ROOT/е	AFFIX
+квадратно-гнездовой_ADJ	квадр	ROOT/ат	AFFIX/н	AFFIX/о	AFFIX/-	AFFIX/гнезд	ROOT/ов	AFFIX/ой	AFFIX
+грязовецкий_ADJ	гряз	ROOT/ов	AFFIX/ец	AFFIX/к	AFFIX/ий	AFFIX
+огромная_ADJ	огромн	ROOT/а	AFFIX/я	AFFIX
+моррис_NOUN	мор	ROOT/рис	ROOT
+описывание_NOUN	о	AFFIX/пис	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+коатуу_NOUN	к	AFFIX/о	AFFIX/ату	ROOT/у	AFFIX
+паразитоз_NOUN	паразит	ROOT/оз	AFFIX
+владимирович_NOUN	владимир	ROOT/ов	AFFIX/ич	AFFIX
+рапан_VERB	рап	ROOT/а	AFFIX/н	AFFIX
+фрай_NOUN	фрай	ROOT
+выпекание_NOUN	вы	AFFIX/пек	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+брюс_NOUN	брю	ROOT/с	AFFIX
+албания_NOUN	албан	ROOT/и	AFFIX/я	AFFIX
+ставленница_NOUN	ставл	ROOT/енн	AFFIX/иц	AFFIX/а	AFFIX
+блевание_NOUN	блева	ROOT/ни	AFFIX/е	AFFIX
+халкидон_NOUN	халки	ROOT/дон	ROOT
+бен_PART	бен	ROOT
+взламывание_NOUN	вз	AFFIX/лам	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+кэмерон_NOUN	к	AFFIX/э	ROOT/мер	ROOT/о	AFFIX/н	AFFIX
+пришивание_NOUN	при	AFFIX/ш	AFFIX/ива	AFFIX/ни	AFFIX/е	AFFIX
+квадратная_ADJ	квадр	ROOT/ат	AFFIX/на	AFFIX/я	AFFIX
+георг_NOUN	гео	ROOT/рг	ROOT
+юмористка_NOUN	юмор	ROOT/ист	AFFIX/ка	AFFIX
+берри_NOUN	берр	ROOT/и	AFFIX
+сутенерша_NOUN	сутен	ROOT/ерш	ROOT/а	AFFIX
+баркер_NOUN	барк	ROOT/ер	AFFIX
+мэттью_NOUN	мэ	ROOT/т	AFFIX/ть	AFFIX/ю	AFFIX
+дома моего_ADV	дом	ROOT/а	AFFIX/ 	ROOT/моего	ROOT
+сан-франциско_NOUN	сан	ROOT/-	AFFIX/франц	ROOT/иск	ROOT/о	AFFIX
+распространительница_NOUN	рас	AFFIX/про	AFFIX/стра	ROOT/ни	AFFIX/тель	AFFIX/ниц	AFFIX/а	AFFIX
+дорогобуж_NOUN	дорог	ROOT/о	AFFIX/буж	ROOT
+мориц_NOUN	мор	ROOT/иц	AFFIX
+постановило_VERB	по	AFFIX/станов	ROOT/и	AFFIX/л	AFFIX/о	AFFIX
+риска_NOUN	риск	ROOT/а	AFFIX
+рахманинов_NOUN	рах	ROOT/ман	AFFIX/ин	AFFIX/ов	AFFIX
+веллингтон_NOUN	веллингт	ROOT/о	AFFIX/н	AFFIX
+прокофьев_NOUN	про	AFFIX/к	AFFIX/офьев	ROOT
+гвадалахара_NOUN	г	ROOT/ва	ROOT/дал	ROOT/а	AFFIX/хар	ROOT/а	AFFIX
+иллинойс_NOUN	илл	ROOT/ин	AFFIX/ой	AFFIX/с	AFFIX
+бобруйск_NOUN	бобр	ROOT/уй	AFFIX/ск	AFFIX
+красная_ADJ	красн	ROOT/а	AFFIX/я	AFFIX
+крус_NOUN	к	AFFIX/рус	ROOT
+коагулянт_NOUN	коагул	ROOT/янт	ROOT
+выкуривание_NOUN	вы	AFFIX/кур	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+трудная_ADJ	трудн	ROOT/а	AFFIX/я	AFFIX
+страшная_ADJ	страш	ROOT/н	AFFIX/а	AFFIX/я	AFFIX
+прошла_VERB	прош	ROOT/л	AFFIX/а	AFFIX
+токугава_NOUN	ток	ROOT/у	AFFIX/гава	ROOT
+киев_NOUN	к	AFFIX/и	AFFIX/ев	AFFIX
+багдад_NOUN	багдад	ROOT
+началась_VERB	н	AFFIX/а	AFFIX/чал	ROOT/а	AFFIX/сь	AFFIX
+грязовец_NOUN	гряз	ROOT/ов	AFFIX/ец	AFFIX
+графика_NOUN	граф	ROOT/ик	AFFIX/а	AFFIX
+продтовар_NOUN	прод	ROOT/товар	ROOT
+эрл_NOUN	эрл	ROOT
+грибы_NOUN	гриб	ROOT/ы	AFFIX
+челночница_NOUN	челноч	ROOT/ниц	AFFIX/а	AFFIX
+стамбул_NOUN	стамбу	ROOT/л	AFFIX
+уэйн_NOUN	уэй	ROOT/н	AFFIX
+недостойность_NOUN	н	AFFIX/е	AFFIX/до	AFFIX/стой	ROOT/нос	ROOT/ть	AFFIX
+от родителей_ADP	от	AFFIX/ 	ROOT/род	ROOT/ителей	ROOT
+адамс_NOUN	а	AFFIX/дам	ROOT/с	AFFIX
+иммунопатология_NOUN	иммун	ROOT/о	AFFIX/пат	ROOT/о	AFFIX/лог	ROOT/и	AFFIX/я	AFFIX
+обрабатывание_NOUN	об	AFFIX/рабат	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+ричмонд_NOUN	р	ROOT/ич	AFFIX/монд	ROOT
+увиливание_NOUN	увил	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+узурпирование_NOUN	узурп	ROOT/ир	AFFIX/ова	AFFIX/ни	AFFIX/е	AFFIX
+сербия_NOUN	серб	ROOT/и	AFFIX/я	AFFIX
+инопланетянка_NOUN	ин	AFFIX/о	AFFIX/планет	ROOT/янк	AFFIX/а	AFFIX
+агрохозяйство_NOUN	агро	ROOT/хозяй	ROOT/ств	AFFIX/о	AFFIX
+свинокомплекс_NOUN	свин	ROOT/о	AFFIX/комплекс	ROOT
+национал-шовинизм_NOUN	наци	ROOT/о	AFFIX/н	AFFIX/ал	AFFIX/-	AFFIX/шовин	ROOT/изм	AFFIX
+вскрывание_NOUN	вс	AFFIX/кры	ROOT/ва	ROOT/ни	AFFIX/е	AFFIX
+эль_PART	э	ROOT/ль	AFFIX
+газосварщик_NOUN	газ	ROOT/о	AFFIX/с	AFFIX/вар	ROOT/щик	AFFIX
+ялуторовск_NOUN	ял	ROOT/утор	ROOT/ов	AFFIX/ск	AFFIX
+разваливание_NOUN	раз	AFFIX/вал	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+валютная_ADJ	валют	ROOT/на	AFFIX/я	AFFIX
+перерасходование_NOUN	пере	AFFIX/рас	AFFIX/ход	ROOT/ова	AFFIX/ни	AFFIX/е	AFFIX
+радиотелецентр_NOUN	радио	ROOT/теле	ROOT/центр	ROOT
+алушта_NOUN	ал	AFFIX/уш	AFFIX/та	ROOT
+расшифровывание_NOUN	рас	AFFIX/шифр	ROOT/ов	AFFIX/ыва	ROOT/ни	AFFIX/е	AFFIX
+обувнозаготовочный_ADJ	об	AFFIX/у	AFFIX/в	AFFIX/н	AFFIX/о	AFFIX/за	AFFIX/готов	ROOT/очн	AFFIX/ый	AFFIX
+неполадки_NOUN	н	AFFIX/е	AFFIX/по	AFFIX/лад	ROOT/ки	AFFIX
+грэм_NOUN	г	ROOT/рэм	ROOT
+норт_NOUN	н	AFFIX/ор	AFFIX/т	AFFIX
+австрийка_NOUN	австрий	ROOT/ка	AFFIX
+страны_NOUN	стран	ROOT/ы	AFFIX
+михал_NOUN	михал	ROOT
+марио_NOUN	мар	ROOT/и	AFFIX/о	AFFIX
+душанбе_NOUN	душ	ROOT/а	AFFIX/н	AFFIX/б	AFFIX/е	AFFIX
+ростислав_NOUN	рост	ROOT/и	AFFIX/слав	ROOT
+антарктика_NOUN	ант	AFFIX/арк	ROOT/ти	AFFIX/ка	AFFIX
+петергоф_NOUN	петергоф	ROOT
+пролегание_NOUN	про	AFFIX/лег	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+спрайт_NOUN	спрайт	ROOT
+герда_NOUN	г	ROOT/ер	AFFIX/да	ROOT
+монтирование_NOUN	монт	ROOT/ир	AFFIX/ова	AFFIX/ни	AFFIX/е	AFFIX
+тима_NOUN	т	AFFIX/им	AFFIX/а	AFFIX
+окончен_VERB	окон	ROOT/ч	AFFIX/ен	AFFIX
+вэй_NOUN	вэ	ROOT/й	ROOT
+скидывание_NOUN	с	AFFIX/кид	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+черепичная_ADJ	череп	ROOT/ичн	AFFIX/а	AFFIX/я	AFFIX
+таллин_NOUN	талл	ROOT/ин	AFFIX
+исчерпывание_NOUN	ис	AFFIX/черп	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+ида_NOUN	ид	ROOT/а	AFFIX
+словения_NOUN	слов	ROOT/ени	AFFIX/я	AFFIX
+обломки_NOUN	об	AFFIX/лом	ROOT/к	AFFIX/и	AFFIX
+задавание_NOUN	за	AFFIX/да	ROOT/ва	ROOT/ни	AFFIX/е	AFFIX
+бельгийка_NOUN	бельги	ROOT/й	ROOT/к	AFFIX/а	AFFIX
+сыктывкар_NOUN	сы	ROOT/к	AFFIX/ты	ROOT/в	AFFIX/кар	ROOT
+тель-авивский_NOUN	тель	AFFIX/-	AFFIX/а	AFFIX/вив	ROOT/ск	AFFIX/ий	AFFIX
+нелетная_ADJ	не	AFFIX/лет	ROOT/на	AFFIX/я	AFFIX
+санэпидблагополучие_NOUN	сан	ROOT/эпид	ROOT/благополуч	ROOT/и	AFFIX/е	AFFIX
+юлиус_NOUN	ю	AFFIX/ли	ROOT/ус	AFFIX
+средняя_ADJ	средн	ROOT/я	AFFIX/я	AFFIX
+переоценивание_NOUN	пере	AFFIX/о	AFFIX/цен	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+идолопоклонница_NOUN	идол	ROOT/о	AFFIX/по	AFFIX/клон	ROOT/ниц	AFFIX/а	AFFIX
+цифры_NOUN	цифр	ROOT/ы	AFFIX
+антагонистка_NOUN	антагон	ROOT/ист	AFFIX/ка	AFFIX
+корнилов_NOUN	корн	ROOT/и	AFFIX/лов	ROOT
+идет_VERB	и	AFFIX/дет	ROOT
+мультивэн_NOUN	мульти	ROOT/вэ	ROOT/н	AFFIX
+росстат_NOUN	рос	ROOT/стат	ROOT
+монах-отшельник_NOUN	монах	ROOT/-	AFFIX/отшель	ROOT/ник	AFFIX
+бундеслига_NOUN	бунд	ROOT/ес	ROOT/лиг	ROOT/а	AFFIX
+лит_VERB	лит	ROOT
+саранск_NOUN	с	AFFIX/а	AFFIX/ран	ROOT/ск	AFFIX
+проём_NOUN	проём	ROOT
+вич-инфекция_NOUN	в	AFFIX/ич	AFFIX/-	AFFIX/инфекци	ROOT/я	AFFIX
+великолепность_NOUN	великолеп	ROOT/н	AFFIX/ость	AFFIX
+затрачивание_NOUN	за	AFFIX/трач	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+борисов_NOUN	бор	ROOT/ис	AFFIX/ов	AFFIX
+смертная_ADJ	смерт	ROOT/н	AFFIX/а	AFFIX/я	AFFIX
+набивание_NOUN	н	AFFIX/аб	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+накладочка_NOUN	на	AFFIX/клад	ROOT/оч	ROOT/ка	AFFIX
+семечки_NOUN	сем	ROOT/ечк	AFFIX/и	AFFIX
+ленина_ADJ	ленин	ROOT/а	AFFIX
+авионика_NOUN	ави	ROOT/о	AFFIX/ник	AFFIX/а	AFFIX
+челленджер_NOUN	чел	ROOT/лен	ROOT/джер	ROOT
+азербайджанка_NOUN	азербайджан	ROOT/ка	AFFIX
+мавритания_NOUN	мавр	ROOT/ит	AFFIX/а	AFFIX/ни	AFFIX/я	AFFIX
+примешивание_NOUN	при	AFFIX/меш	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+таиланд_NOUN	таиланд	ROOT
+загибание_NOUN	за	AFFIX/гиб	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+интернет-сайт_NOUN	интерн	ROOT/ет	AFFIX/-	AFFIX/сайт	ROOT
+ученый-историк_NOUN	уч	AFFIX/ен	AFFIX/ый	AFFIX/-	AFFIX/истори	ROOT/к	AFFIX
+коалиционное_ADJ	к	AFFIX/оалицио	ROOT/нн	AFFIX/о	AFFIX/е	AFFIX
+тирасполь_NOUN	ти	AFFIX/рас	AFFIX/поль	ROOT
+строгая_ADJ	строг	ROOT/а	AFFIX/я	AFFIX
+борок_NOUN	бор	ROOT/ок	AFFIX
+найден_VERB	най	ROOT/де	AFFIX/н	AFFIX
+классная_ADJ	класс	ROOT/на	AFFIX/я	AFFIX
+росы_NOUN	рос	ROOT/ы	AFFIX
+и гвозди_CCONJ	и	AFFIX/ 	ROOT/гвозд	ROOT/и	AFFIX
+обмахивание_NOUN	об	AFFIX/мах	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+бреслау_NOUN	брес	ROOT/ла	ROOT/у	AFFIX
+отношения_NOUN	от	AFFIX/нош	ROOT/ени	AFFIX/я	AFFIX
+длиннобазный_ADJ	длин	ROOT/н	AFFIX/о	AFFIX/баз	ROOT/н	AFFIX/ый	AFFIX
+белое_ADJ	бел	ROOT/о	AFFIX/е	AFFIX
+нож-отвал_NOUN	нож	ROOT/-	AFFIX/от	AFFIX/вал	ROOT
+аргентина_NOUN	аргентин	ROOT/а	AFFIX
+кавер-версия_NOUN	к	AFFIX/а	AFFIX/вер	ROOT/-	AFFIX/верси	ROOT/я	AFFIX
+фролов_NOUN	фрол	ROOT/ов	AFFIX
+неизбирабельный_ADJ	не	AFFIX/из	AFFIX/бир	ROOT/абельн	AFFIX/ый	AFFIX
+стежка-дорожка_NOUN	стеж	ROOT/ка	AFFIX/-	AFFIX/дорож	ROOT/ка	AFFIX
+мальчишки_NOUN	мальч	ROOT/ишк	AFFIX/и	AFFIX
+дестабильность_NOUN	де	AFFIX/стабильн	ROOT/ость	AFFIX
+эберт_NOUN	э	ROOT/бер	ROOT/т	AFFIX
+доминго_NOUN	домин	ROOT/го	ROOT
+шумозаградительный_ADJ	шум	ROOT/о	AFFIX/за	AFFIX/град	ROOT/и	AFFIX/тельн	AFFIX/ый	AFFIX
+ванкувер_NOUN	ва	ROOT/н	AFFIX/ку	AFFIX/вер	ROOT
+макао_NOUN	мак	ROOT/а	AFFIX/о	AFFIX
+эпидобстановка_NOUN	эпид	ROOT/об	AFFIX/станов	ROOT/ка	AFFIX
+центрально-черноземный_ADJ	центр	ROOT/альн	AFFIX/о	AFFIX/-	AFFIX/черн	ROOT/о	AFFIX/зем	ROOT/н	AFFIX/ый	AFFIX
+непропорциональность_NOUN	не	AFFIX/про	AFFIX/порци	ROOT/о	AFFIX/н	AFFIX/альн	AFFIX/о	AFFIX/с	AFFIX/ть	AFFIX
+нестерпимая_ADJ	нес	ROOT/тер	ROOT/пим	ROOT/а	AFFIX/я	AFFIX
+байера_NOUN	бай	ROOT/ер	AFFIX/а	AFFIX
+дистанцированность_NOUN	дис	AFFIX/танц	ROOT/ир	AFFIX/ова	AFFIX/нн	AFFIX/о	AFFIX/с	AFFIX/ть	AFFIX
+мэриленд_NOUN	мэр	ROOT/и	AFFIX/ленд	ROOT
+действий_NOUN	дей	ROOT/ств	AFFIX/ий	AFFIX
+разламывание_NOUN	раз	AFFIX/лам	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+шептанье_NOUN	шепт	ROOT/а	AFFIX/нь	AFFIX/е	AFFIX
+пвх_INTJ	п	ROOT/в	AFFIX/х	AFFIX
+гэри_NOUN	гэри	ROOT
+нба_NOUN	н	AFFIX/б	AFFIX/а	AFFIX
+эпифит_NOUN	эпи	ROOT/фит	ROOT
+стеклопосуда_NOUN	стекл	ROOT/о	AFFIX/посуд	ROOT/а	AFFIX
+антуанетта_NOUN	ант	AFFIX/у	AFFIX/а	AFFIX/н	AFFIX/етт	ROOT/а	AFFIX
+пойнт_NOUN	пой	ROOT/н	AFFIX/т	AFFIX
+тацит_NOUN	та	ROOT/цит	ROOT
+дояр_NOUN	до	AFFIX/яр	AFFIX
+болеслав_NOUN	бол	ROOT/е	AFFIX/слав	ROOT
+предпринимательница_NOUN	предприним	ROOT/а	AFFIX/тель	AFFIX/ниц	AFFIX/а	AFFIX
+радиоролик_NOUN	радио	ROOT/рол	ROOT/ик	AFFIX
+диодор_NOUN	ди	ROOT/одор	ROOT
+интернет-дневник_NOUN	интерн	ROOT/ет	AFFIX/-	AFFIX/дн	ROOT/ев	AFFIX/ник	AFFIX
+салливан_NOUN	сал	ROOT/ливан	ROOT
+понятная_ADJ	поня	ROOT/т	AFFIX/н	AFFIX/а	AFFIX/я	AFFIX
+скапливание_NOUN	с	AFFIX/капл	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+измирский_ADJ	изм	AFFIX/ир	AFFIX/ск	AFFIX/ий	AFFIX
+ленфильм_NOUN	лен	ROOT/фильм	ROOT
+македонка_NOUN	македон	ROOT/ка	AFFIX
+завлекание_NOUN	за	AFFIX/влек	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+адлер_NOUN	а	AFFIX/дл	ROOT/ер	AFFIX
+акмечетский_ADJ	акме	ROOT/чет	ROOT/ск	AFFIX/ий	AFFIX
+притвора_NOUN	притвор	ROOT/а	AFFIX
+арх_NOUN	арх	ROOT
+дэнни_NOUN	дэ	ROOT/нн	AFFIX/и	AFFIX
+соли_NOUN	сол	ROOT/и	AFFIX
+миннесота_NOUN	мин	ROOT/нес	ROOT/от	AFFIX/а	AFFIX
+окленд_NOUN	ок	AFFIX/ленд	ROOT
+роскошность_NOUN	роскош	ROOT/н	AFFIX/ость	AFFIX
+отнимание_NOUN	отним	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+алта_NOUN	алта	ROOT
+лицедейка_NOUN	лице	ROOT/дей	ROOT/ка	AFFIX
+набрасывание_NOUN	на	AFFIX/брас	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+отличная_ADJ	от	AFFIX/лич	ROOT/н	AFFIX/а	AFFIX/я	AFFIX
+страсбург_NOUN	ст	AFFIX/рас	AFFIX/б	AFFIX/ург	AFFIX
+лос-анджелес_NOUN	лос	ROOT/-	AFFIX/анд	ROOT/желе	ROOT/с	AFFIX
+портопункт_NOUN	порт	ROOT/о	AFFIX/пункт	ROOT
+тампонирование_NOUN	тампон	ROOT/ир	AFFIX/ова	AFFIX/ни	AFFIX/е	AFFIX
+уинстон_NOUN	у	AFFIX/ин	AFFIX/стон	ROOT
+диппредставитель_NOUN	диппредстави	ROOT/тель	AFFIX
+лаос_NOUN	ла	ROOT/о	AFFIX/с	AFFIX
+грузино-абхазский_ADJ	груз	ROOT/ин	AFFIX/о	AFFIX/-	AFFIX/абхаз	ROOT/ск	AFFIX/ий	AFFIX
+сеньория_NOUN	сеньор	ROOT/и	AFFIX/я	AFFIX
+иммигрантка_NOUN	им	AFFIX/мигр	ROOT/а	AFFIX/н	AFFIX/тк	ROOT/а	AFFIX
+алма-ата_NOUN	алма	ROOT/-	AFFIX/ат	AFFIX/а	AFFIX
+гамбург_NOUN	гам	ROOT/б	AFFIX/ург	AFFIX
+струи_NOUN	стру	ROOT/и	AFFIX
+победоносец_NOUN	побед	ROOT/он	AFFIX/о	AFFIX/с	AFFIX/ец	AFFIX
+лариса_NOUN	ла	ROOT/рис	ROOT/а	AFFIX
+зеленая_ADJ	зелен	ROOT/а	AFFIX/я	AFFIX
+гданьск_NOUN	г	ROOT/да	ROOT/нь	AFFIX/ск	AFFIX
+соцсфера_NOUN	соц	ROOT/сфер	ROOT/а	AFFIX
+мигрантка_NOUN	мигр	ROOT/ант	AFFIX/ка	AFFIX
+моряки_NOUN	мор	ROOT/як	AFFIX/и	AFFIX
+на стене_ADP	на	AFFIX/ 	ROOT/стен	ROOT/е	AFFIX
+вильно_NOUN	ви	ROOT/льн	AFFIX/о	AFFIX
+тартусский_ADJ	тарту	ROOT/с	AFFIX/ск	AFFIX/ий	AFFIX
+отправительница_NOUN	отправ	ROOT/и	AFFIX/тель	AFFIX/ниц	AFFIX/а	AFFIX
+нелегальность_NOUN	не	AFFIX/легаль	ROOT/нос	ROOT/ть	AFFIX
+развешивание_NOUN	раз	AFFIX/веш	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+колумбия_NOUN	к	AFFIX/олумб	ROOT/и	AFFIX/я	AFFIX
+поручни_NOUN	поруч	ROOT/ни	AFFIX
+мосфильм_NOUN	мосф	ROOT/ильм	ROOT
+этноним_NOUN	этн	ROOT/оним	ROOT
+яйцепродукты_NOUN	яйц	ROOT/е	AFFIX/продукт	ROOT/ы	AFFIX
+аудиопродукция_NOUN	а	AFFIX/уд	ROOT/и	AFFIX/о	AFFIX/продукц	ROOT/и	AFFIX/я	AFFIX
+переселенка_NOUN	пере	AFFIX/сел	ROOT/е	AFFIX/н	AFFIX/к	AFFIX/а	AFFIX
+ораторша_NOUN	оратор	ROOT/ш	AFFIX/а	AFFIX
+михайлович_NOUN	ми	AFFIX/хайл	ROOT/ов	AFFIX/ич	AFFIX
+подкидывание_NOUN	под	AFFIX/кид	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+электросварщица_NOUN	электр	ROOT/о	AFFIX/с	AFFIX/вар	ROOT/щиц	ROOT/а	AFFIX
+геймплей_NOUN	гейм	ROOT/плей	ROOT
+биатлонистка_NOUN	би	ROOT/а	AFFIX/тл	ROOT/о	AFFIX/н	AFFIX/ист	AFFIX/ка	AFFIX
+неофашист_NOUN	нео	ROOT/фаш	ROOT/ист	AFFIX
+хабанера_NOUN	ха	ROOT/б	AFFIX/а	AFFIX/н	AFFIX/ер	AFFIX/а	AFFIX
+монашек_NOUN	монаш	ROOT/ек	AFFIX
+геометрическая фигура_ADJ	гео	ROOT/метр	ROOT/ическ	AFFIX/а	AFFIX/я	AFFIX/ 	ROOT/фигур	ROOT/а	AFFIX
+роттердам_NOUN	рот	ROOT/тер	ROOT/дам	ROOT
+габор_NOUN	г	ROOT/а	AFFIX/бор	ROOT
+хакас_NOUN	хакас	ROOT
+звукотехника_NOUN	звук	ROOT/о	AFFIX/техн	ROOT/ик	AFFIX/а	AFFIX
+революции_NOUN	революци	ROOT/и	AFFIX
+кровяное_ADJ	кров	ROOT/ян	AFFIX/о	AFFIX/е	AFFIX
+большие_ADJ	больш	ROOT/и	AFFIX/е	AFFIX
+посполита_NOUN	по	AFFIX/с	AFFIX/полит	ROOT/а	AFFIX
+бруней_NOUN	бр	ROOT/ун	AFFIX/ей	AFFIX
+полоцк_NOUN	пол	ROOT/о	AFFIX/ц	AFFIX/к	AFFIX
+гадостность_NOUN	гад	ROOT/ост	ROOT/н	AFFIX/ость	AFFIX
+медиа-империя_NOUN	мед	ROOT/и	AFFIX/а	AFFIX/-	AFFIX/импер	ROOT/и	AFFIX/я	AFFIX
+брокгауз_NOUN	бр	ROOT/ок	AFFIX/гауз	ROOT
+метафорика_NOUN	мет	ROOT/а	AFFIX/фор	ROOT/ик	AFFIX/а	AFFIX
+исправительно-трудовой_ADJ	и	AFFIX/справ	ROOT/и	AFFIX/тельн	AFFIX/о	AFFIX/-	AFFIX/труд	ROOT/ов	AFFIX/ой	AFFIX
+глубока_ADJ	глубок	ROOT/а	AFFIX
+тонирование_NOUN	тон	ROOT/ир	AFFIX/ова	AFFIX/ни	AFFIX/е	AFFIX
+башкортостан_NOUN	башк	ROOT/ор	AFFIX/тост	ROOT/а	AFFIX/н	AFFIX
+юдофобия_NOUN	ю	AFFIX/до	AFFIX/фоб	ROOT/и	AFFIX/я	AFFIX
+ринго_NOUN	ринг	ROOT/о	AFFIX
+авраам_NOUN	а	AFFIX/вр	ROOT/а	AFFIX/ам	AFFIX
+греция_NOUN	гре	ROOT/ци	AFFIX/я	AFFIX
+волхов_NOUN	волх	ROOT/ов	AFFIX
+депортирование_NOUN	депорт	ROOT/ир	AFFIX/ова	AFFIX/ни	AFFIX/е	AFFIX
+электропылесос_NOUN	электр	ROOT/о	AFFIX/пыл	ROOT/е	AFFIX/сос	ROOT
+блогосфера_NOUN	бл	ROOT/ого	AFFIX/сфер	ROOT/а	AFFIX
+нацвопрос_NOUN	нац	ROOT/вопрос	ROOT
+призерка_NOUN	при	AFFIX/з	ROOT/ер	AFFIX/ка	AFFIX
+эван_NOUN	эв	ROOT/ан	AFFIX
+обчистка_NOUN	об	AFFIX/чист	ROOT/ка	AFFIX
+мастер-класс_NOUN	мастер	ROOT/-	AFFIX/класс	ROOT
+шостакович_NOUN	ш	AFFIX/оста	ROOT/ков	ROOT/ич	AFFIX
+подскакивание_NOUN	под	AFFIX/скак	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+зачетная_ADJ	за	AFFIX/чет	ROOT/на	AFFIX/я	AFFIX
+минеральная вода_ADJ	минераль	ROOT/на	AFFIX/я	AFFIX/ 	ROOT/вод	ROOT/а	AFFIX
+переделывание_NOUN	пере	AFFIX/дел	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+грейс_NOUN	г	ROOT/рейс	ROOT
+долгое_ADJ	долг	ROOT/о	AFFIX/е	AFFIX
+васаби_X	ва	ROOT/с	AFFIX/а	AFFIX/би	ROOT
+гертруда_NOUN	г	ROOT/ер	AFFIX/труд	ROOT/а	AFFIX
+галилей_NOUN	галиле	ROOT/й	ROOT
+диспропорциональность_NOUN	дис	AFFIX/пропорци	ROOT/о	AFFIX/н	AFFIX/альн	AFFIX/ость	AFFIX
+геморрагия_NOUN	геморраг	ROOT/и	AFFIX/я	AFFIX
+кейптаун_NOUN	к	AFFIX/ей	AFFIX/пт	ROOT/а	AFFIX/ун	AFFIX
+сакраменто_NOUN	с	AFFIX/а	AFFIX/кра	ROOT/мен	AFFIX/т	AFFIX/о	AFFIX
+эдинбург_NOUN	эд	ROOT/ин	AFFIX/бур	ROOT/г	ROOT
+мозамбик_NOUN	мозамб	ROOT/ик	AFFIX
+нанси_NOUN	на	AFFIX/н	AFFIX/с	AFFIX/и	AFFIX
+иов_NOUN	и	AFFIX/ов	AFFIX
+невезуха_NOUN	н	AFFIX/ев	AFFIX/ез	ROOT/ух	AFFIX/а	AFFIX
+альба_NOUN	а	AFFIX/ль	AFFIX/б	AFFIX/а	AFFIX
+карлос_NOUN	карл	ROOT/о	AFFIX/с	AFFIX
+ран_NOUN	ран	ROOT
+авангардность_NOUN	авангард	ROOT/н	AFFIX/ость	AFFIX
+гонсалес_NOUN	гон	ROOT/с	AFFIX/а	AFFIX/лес	ROOT
+студенческая_ADJ	студенч	ROOT/еск	AFFIX/а	AFFIX/я	AFFIX
+засушливость_NOUN	за	AFFIX/суш	ROOT/лив	AFFIX/ость	AFFIX
+морфлот_NOUN	мор	ROOT/флот	ROOT
+омерзительность_NOUN	о	AFFIX/мерз	ROOT/и	AFFIX/тельн	AFFIX/о	AFFIX/с	AFFIX/ть	AFFIX
+половое_ADJ	пол	ROOT/ов	AFFIX/о	AFFIX/е	AFFIX
+манн_NOUN	манн	ROOT
+агросектор_NOUN	агро	ROOT/сектор	ROOT
+новостроек_NOUN	н	AFFIX/ов	AFFIX/о	AFFIX/стро	ROOT/ек	AFFIX
+приглядывание_NOUN	при	AFFIX/гляд	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+фотохудожница_NOUN	фото	ROOT/худож	ROOT/ниц	AFFIX/а	AFFIX
+зачтение_NOUN	за	AFFIX/чт	ROOT/ени	AFFIX/е	AFFIX
+яха_NOUN	ях	AFFIX/а	AFFIX
+гэндальф_NOUN	гэ	ROOT/н	AFFIX/даль	ROOT/ф	ROOT
+лекарства_NOUN	лек	ROOT/ар	AFFIX/ств	AFFIX/а	AFFIX
+труа_NOUN	тр	ROOT/у	AFFIX/а	AFFIX
+обшивание_NOUN	об	AFFIX/ш	AFFIX/ива	AFFIX/ни	AFFIX/е	AFFIX
+перекрывание_NOUN	пере	AFFIX/кры	ROOT/ва	ROOT/ни	AFFIX/е	AFFIX
+албанка_NOUN	албан	ROOT/ка	AFFIX
+разбалтывание_NOUN	раз	AFFIX/балт	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+сафонов_NOUN	с	AFFIX/а	AFFIX/фон	ROOT/ов	AFFIX
+кадис_NOUN	ка	AFFIX/дис	AFFIX
+обманчивость_NOUN	обма	ROOT/н	AFFIX/чив	AFFIX/ость	AFFIX
+сублизинг_NOUN	суб	AFFIX/лиз	ROOT/инг	AFFIX
+гидрокарбонатный_ADJ	гидр	ROOT/о	AFFIX/карбон	ROOT/ат	AFFIX/н	AFFIX/ый	AFFIX
+самоотчет_NOUN	сам	ROOT/о	AFFIX/отчет	ROOT
+тайбэй_NOUN	тай	ROOT/бэ	ROOT/й	ROOT
+бейра_NOUN	бей	ROOT/ра	ROOT
+роден_ADJ	род	ROOT/ен	AFFIX
+кэрол_NOUN	к	AFFIX/эр	ROOT/о	AFFIX/л	AFFIX
+повал_NOUN	по	AFFIX/вал	ROOT
+чудесница_NOUN	чу	ROOT/десниц	ROOT/а	AFFIX
+быково_ADV	бык	ROOT/ов	AFFIX/о	AFFIX
+вмс_DET	вмс	ROOT
+юстиниан_NOUN	юст	ROOT/и	AFFIX/ни	AFFIX/а	AFFIX/н	AFFIX
+оон_NOUN	оо	ROOT/н	AFFIX
+авторша_NOUN	автор	ROOT/ш	AFFIX/а	AFFIX
+глупая_ADJ	глуп	ROOT/а	AFFIX/я	AFFIX
+спецслужбист_NOUN	спец	ROOT/служ	ROOT/б	AFFIX/ист	AFFIX
+сена_NOUN	сен	ROOT/а	AFFIX
+рэкетирство_NOUN	рэкет	ROOT/ир	AFFIX/ств	AFFIX/о	AFFIX
+взаимоподдержка_NOUN	взаим	ROOT/о	AFFIX/под	AFFIX/держ	ROOT/ка	AFFIX
+простоквашино_ADJ	прост	ROOT/о	AFFIX/кваш	ROOT/ин	AFFIX/о	AFFIX
+тверская_ADJ	т	AFFIX/вер	ROOT/ск	AFFIX/а	AFFIX/я	AFFIX
+судан_NOUN	судан	ROOT
+медоборудование_NOUN	мед	ROOT/оборудова	ROOT/ни	AFFIX/е	AFFIX
+карфаген_NOUN	карфаген	ROOT
+ахвахец_NOUN	ах	AFFIX/в	AFFIX/ах	AFFIX/ец	AFFIX
+буддистка_NOUN	будд	ROOT/ист	AFFIX/ка	AFFIX
+обсыпка_NOUN	об	AFFIX/сып	ROOT/к	AFFIX/а	AFFIX
+ишим_NOUN	и	AFFIX/ш	AFFIX/им	AFFIX
+вологодчина_NOUN	вол	ROOT/о	AFFIX/год	ROOT/чин	AFFIX/а	AFFIX
+окрыление_NOUN	о	AFFIX/крыл	ROOT/ени	AFFIX/е	AFFIX
+брамс_NOUN	брам	ROOT/с	AFFIX
+нефтепроизводитель_NOUN	нефт	ROOT/е	AFFIX/производ	ROOT/и	AFFIX/тель	AFFIX
+сшибание_NOUN	с	AFFIX/шиб	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+николя_NOUN	ни	AFFIX/кол	ROOT/я	AFFIX
+эдуардо_NOUN	э	ROOT/ду	ROOT/ард	ROOT/о	AFFIX
+трезвомыслие_NOUN	трезв	ROOT/о	AFFIX/мысл	ROOT/и	AFFIX/е	AFFIX
+софи_NOUN	соф	ROOT/и	AFFIX
+нсдап_NOUN	н	AFFIX/с	AFFIX/да	ROOT/п	ROOT
+приятная_ADJ	приятн	ROOT/а	AFFIX/я	AFFIX
+грац_NOUN	грац	ROOT
+скверная_ADJ	скверн	ROOT/а	AFFIX/я	AFFIX
+мелкая_ADJ	мелк	ROOT/а	AFFIX/я	AFFIX
+квест_NOUN	к	AFFIX/вест	ROOT
+педру_NOUN	пед	ROOT/ру	ROOT
+ипсуич_NOUN	и	AFFIX/пс	ROOT/у	AFFIX/ич	AFFIX
+дегтя_NOUN	дегт	ROOT/я	AFFIX
+заготавливание_NOUN	за	AFFIX/готавл	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+ласковая_ADJ	ласк	ROOT/ова	AFFIX/я	AFFIX
+цветастость_NOUN	цвет	ROOT/аст	AFFIX/ость	AFFIX
+сплошное_ADJ	сплош	ROOT/н	AFFIX/ое	AFFIX
+ненужная_ADJ	не	AFFIX/нужн	ROOT/а	AFFIX/я	AFFIX
+зачитывание_NOUN	за	AFFIX/чит	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+торрес_NOUN	торр	ROOT/ес	ROOT
+продумывание_NOUN	про	AFFIX/дум	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+дреды_NOUN	др	ROOT/ед	ROOT/ы	AFFIX
+скидочка_NOUN	с	AFFIX/кид	ROOT/очк	AFFIX/а	AFFIX
+лео_NOUN	л	AFFIX/е	AFFIX/о	AFFIX
+любовников_NOUN	люб	ROOT/ов	AFFIX/ник	AFFIX/ов	AFFIX
+гамма-излучение_NOUN	гамм	ROOT/а	AFFIX/-	AFFIX/из	AFFIX/луч	ROOT/ени	AFFIX/е	AFFIX
+дипслужба_NOUN	дип	ROOT/служ	ROOT/ба	ROOT
+ оракул_NOUN	 	ROOT/ор	AFFIX/акул	ROOT
+евросоюз_NOUN	евр	ROOT/о	AFFIX/союз	ROOT
+люцифер_NOUN	люцифер	ROOT
+хэви_NOUN	хэв	ROOT/и	AFFIX
+солт_NOUN	сол	ROOT/т	AFFIX
+дорожание_NOUN	дорож	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+эжен_NOUN	э	ROOT/жен	ROOT
+слушанье_NOUN	слуш	ROOT/а	AFFIX/нь	AFFIX/е	AFFIX
+луи_X	луи	ROOT
+чехословакия_NOUN	чех	ROOT/осл	ROOT/ова	AFFIX/ки	AFFIX/я	AFFIX
+госпереворот_NOUN	гос	ROOT/пере	AFFIX/ворот	ROOT
+дожди_NOUN	дожд	ROOT/и	AFFIX
+в отставке_ADP	в	AFFIX/ 	ROOT/от	AFFIX/став	ROOT/к	AFFIX/е	AFFIX
+басище_NOUN	бас	ROOT/ище	ROOT
+валенки_NOUN	вал	ROOT/енк	ROOT/и	AFFIX
+географии_NOUN	гео	ROOT/граф	ROOT/и	AFFIX/и	AFFIX
+джузеппе_NOUN	джу	ROOT/зе	ROOT/ппе	ROOT
+рассрочивание_NOUN	рас	AFFIX/сроч	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+глупое_ADJ	глуп	ROOT/о	AFFIX/е	AFFIX
+бруклин_NOUN	брукл	ROOT/ин	AFFIX
+альфредо_NOUN	аль	AFFIX/фре	ROOT/до	AFFIX
+верная_ADJ	вер	ROOT/на	AFFIX/я	AFFIX
+ири_CCONJ	ир	AFFIX/и	AFFIX
+блины_NOUN	блин	ROOT/ы	AFFIX
+автомототехника_NOUN	авто	ROOT/мото	ROOT/техн	ROOT/ик	AFFIX/а	AFFIX
+фрэнк_NOUN	фр	ROOT/эн	ROOT/к	AFFIX
+слоган_VERB	слог	ROOT/а	AFFIX/н	AFFIX
+воздухообмен_NOUN	воздух	ROOT/о	AFFIX/об	AFFIX/мен	AFFIX
+девочкин_NOUN	дев	ROOT/очк	AFFIX/и	AFFIX/н	AFFIX
+монако_NOUN	мон	ROOT/а	AFFIX/к	AFFIX/о	AFFIX
+техас_NOUN	тех	ROOT/а	AFFIX/с	AFFIX
+престон_NOUN	пре	AFFIX/стон	ROOT
+жозе_NOUN	ж	ROOT/оз	AFFIX/е	AFFIX
+брэнди_NOUN	бр	ROOT/энд	ROOT/и	AFFIX
+перевешивание_NOUN	пере	AFFIX/веш	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+ввержение_NOUN	в	AFFIX/верж	ROOT/е	AFFIX/ни	AFFIX/е	AFFIX
+пальмы_NOUN	пальм	ROOT/ы	AFFIX
+кондитерка_NOUN	кондитер	ROOT/ка	AFFIX
+нила_NOUN	ни	AFFIX/л	AFFIX/а	AFFIX
+валенсия_NOUN	вал	ROOT/ен	AFFIX/сия	ROOT
+бежит_VERB	беж	ROOT/ит	AFFIX
+рыночность_NOUN	ры	ROOT/ноч	ROOT/н	AFFIX/ость	AFFIX
+рекрутинг_NOUN	рекрут	ROOT/инг	AFFIX
+автокомпонент_NOUN	авто	ROOT/компон	ROOT/ент	AFFIX
+путана_NOUN	пут	ROOT/а	AFFIX/н	AFFIX/а	AFFIX
+уткин_NOUN	у	AFFIX/тк	ROOT/ин	AFFIX
+моисеевич_NOUN	мо	ROOT/ис	AFFIX/е	AFFIX/ев	AFFIX/ич	AFFIX
+город-миллионер_NOUN	город	ROOT/-	AFFIX/миллион	ROOT/ер	AFFIX
+викторовна_NOUN	в	AFFIX/ик	AFFIX/тор	AFFIX/ов	AFFIX/на	AFFIX
+атмосферное_ADJ	атмосфер	ROOT/н	AFFIX/ое	AFFIX
+счёт_NOUN	счёт	ROOT
+пересказывание_NOUN	пере	AFFIX/сказ	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+продюсирование_NOUN	прод	ROOT/ю	AFFIX/с	AFFIX/ир	AFFIX/ова	AFFIX/ни	AFFIX/е	AFFIX
+вырывание_NOUN	вы	AFFIX/рыв	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+дирижёр_NOUN	дир	ROOT/ижёр	ROOT
+преснота_NOUN	пресн	ROOT/от	AFFIX/а	AFFIX
+дороти_NOUN	до	AFFIX/рот	ROOT/и	AFFIX
+кончилось_VERB	кон	ROOT/чилось	ROOT
+обновления_NOUN	об	AFFIX/новл	ROOT/ени	AFFIX/я	AFFIX
+винчи_NOUN	винч	ROOT/и	AFFIX
+бумажки_NOUN	бумаж	ROOT/ки	AFFIX
+фемида_NOUN	фемид	ROOT/а	AFFIX
+беллинсгаузен_NOUN	бел	ROOT/лин	AFFIX/с	AFFIX/гаузе	ROOT/н	AFFIX
+правильная_ADJ	правиль	ROOT/на	AFFIX/я	AFFIX
+семки_NOUN	сем	ROOT/ки	AFFIX
+регги_NOUN	регги	ROOT
+данциг_NOUN	да	ROOT/н	AFFIX/ци	AFFIX/г	ROOT
+шефмонтаж_NOUN	шеф	ROOT/монтаж	ROOT
+верона_NOUN	вер	ROOT/о	AFFIX/на	AFFIX
+джефф_NOUN	дже	ROOT/фф	ROOT
+ученый-богослов_NOUN	уч	AFFIX/ен	AFFIX/ый	AFFIX/-	AFFIX/бог	ROOT/о	AFFIX/слов	ROOT
+вспоминание_NOUN	вс	AFFIX/помин	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+неистрепанный_VERB	не	AFFIX/ис	AFFIX/трепан	ROOT/н	AFFIX/ый	AFFIX
+карра_NOUN	кар	ROOT/ра	ROOT
+отрывание_NOUN	о	AFFIX/тр	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+развитая_VERB	разви	ROOT/т	AFFIX/а	AFFIX/я	AFFIX
+ла-манча_NOUN	ла	ROOT/-	AFFIX/ман	AFFIX/ча	ROOT
+анахроничность_NOUN	а	AFFIX/на	AFFIX/хрон	ROOT/ичн	AFFIX/ость	AFFIX
+фредерик_NOUN	фре	ROOT/дер	ROOT/ик	AFFIX
+лейден_NOUN	лейд	ROOT/ен	AFFIX
+отмывка_NOUN	от	AFFIX/мы	ROOT/в	AFFIX/к	AFFIX/а	AFFIX
+латвия_NOUN	лат	ROOT/ви	ROOT/я	AFFIX
+ярославич_NOUN	ярослав	ROOT/ич	AFFIX
+трясогузки_NOUN	тряс	ROOT/о	AFFIX/г	ROOT/узк	ROOT/и	AFFIX
+вроцлав_NOUN	вр	ROOT/о	AFFIX/ц	AFFIX/лав	ROOT
+кончилась_VERB	к	AFFIX/он	AFFIX/чилась	ROOT
+древневерхненемецкий_ADJ	древн	ROOT/е	AFFIX/верх	ROOT/не	AFFIX/нем	ROOT/ец	AFFIX/к	AFFIX/ий	AFFIX
+каштанка_NOUN	каш	ROOT/танк	ROOT/а	AFFIX
+растапливание_NOUN	рас	AFFIX/тапл	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+максимилиан_NOUN	максим	ROOT/и	AFFIX/лиан	ROOT
+сун_NOUN	су	AFFIX/н	AFFIX
+беверли_VERB	б	AFFIX/е	AFFIX/вер	ROOT/ли	ROOT
+телерадиоэфир_NOUN	теле	ROOT/радио	ROOT/эфир	ROOT
+силачка_NOUN	сил	ROOT/ач	AFFIX/к	AFFIX/а	AFFIX
+плоская_ADJ	плоск	ROOT/а	AFFIX/я	AFFIX
+швеция_NOUN	шв	ROOT/ец	AFFIX/и	AFFIX/я	AFFIX
+пирей_NOUN	пир	ROOT/ей	AFFIX
+матрёшка_NOUN	ма	ROOT/трёш	ROOT/ка	AFFIX
+супермонополия_NOUN	супер	AFFIX/монопол	ROOT/и	AFFIX/я	AFFIX
+микеланджело_NOUN	мик	ROOT/е	AFFIX/ланд	ROOT/жел	ROOT/о	AFFIX
+анджей_NOUN	а	AFFIX/н	AFFIX/джей	ROOT
+хлопковолокно_NOUN	хлопк	ROOT/о	AFFIX/волокн	ROOT/о	AFFIX
+прелюд_NOUN	пре	AFFIX/люд	ROOT
+спрашивание_NOUN	спраш	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+свердловск_NOUN	свер	ROOT/дл	ROOT/ов	AFFIX/ск	AFFIX
+анталья_NOUN	ант	AFFIX/аль	AFFIX/я	AFFIX
+суммы_NOUN	с	AFFIX/ум	AFFIX/мы	ROOT
+агротехнология_NOUN	агро	ROOT/техн	ROOT/о	AFFIX/лог	ROOT/и	AFFIX/я	AFFIX
+спецавтомобиль_NOUN	спец	ROOT/авто	ROOT/мобиль	ROOT
+обстоятельств_NOUN	обстоятельств	ROOT
+франкфурт_NOUN	франк	ROOT/фур	ROOT/т	AFFIX
+тоттенхэм_NOUN	т	AFFIX/от	AFFIX/тен	ROOT/хэм	ROOT
+растрачивание_NOUN	рас	AFFIX/трач	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+прохиндейка_NOUN	прохиндей	ROOT/ка	AFFIX
+барра_NOUN	барр	ROOT/а	AFFIX
+госпомощь_NOUN	гос	ROOT/по	AFFIX/мощь	ROOT
+масс-медийный_ADJ	масс	ROOT/-	AFFIX/мед	ROOT/ий	AFFIX/н	AFFIX/ый	AFFIX
+перенаем_NOUN	пере	AFFIX/наем	ROOT
+тюнер_NOUN	т	AFFIX/юн	AFFIX/ер	AFFIX
+корея_NOUN	коре	ROOT/я	AFFIX
+горношахтный_ADJ	горн	ROOT/о	AFFIX/шахт	ROOT/н	AFFIX/ый	AFFIX
+ассистирование_NOUN	ассист	ROOT/ир	AFFIX/ова	AFFIX/ни	AFFIX/е	AFFIX
+фид_NOUN	ф	ROOT/ид	ROOT
+авиасообщение_NOUN	авиа	ROOT/сообщ	ROOT/ени	AFFIX/е	AFFIX
+бонифаций_NOUN	бо	ROOT/ни	AFFIX/фац	ROOT/ий	AFFIX
+петрович_NOUN	петр	ROOT/ов	AFFIX/ич	AFFIX
+мендельсон_NOUN	мен	AFFIX/дель	ROOT/сон	ROOT
+дешифрование_NOUN	де	AFFIX/шифр	ROOT/ова	AFFIX/ни	AFFIX/е	AFFIX
+пропагандирование_NOUN	пропаганд	ROOT/ир	AFFIX/ова	AFFIX/ни	AFFIX/е	AFFIX
+томь_NOUN	томь	ROOT
+юган_NOUN	ю	AFFIX/ган	ROOT
+гирей_NOUN	гирей	ROOT
+самозахват_NOUN	сам	ROOT/оз	AFFIX/а	AFFIX/хват	ROOT
+заксобрание_NOUN	за	AFFIX/к	AFFIX/со	AFFIX/бран	ROOT/и	AFFIX/е	AFFIX
+чили_NOUN	чили	ROOT
+горы_NOUN	гор	ROOT/ы	AFFIX
+бия_NOUN	би	ROOT/я	AFFIX
+ванесс_NOUN	ва	ROOT/нес	ROOT/с	AFFIX
+на стекле_ADP	на	AFFIX/ 	ROOT/стекл	ROOT/е	AFFIX
+отбирание_NOUN	от	AFFIX/бир	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+крипта_NOUN	крипт	ROOT/а	AFFIX
+нитролак_NOUN	нитр	ROOT/о	AFFIX/лак	ROOT
+тобаго_NOUN	т	AFFIX/об	AFFIX/аг	AFFIX/о	AFFIX
+балтимор_NOUN	балти	ROOT/мор	ROOT
+эллен_NOUN	эл	ROOT/лен	ROOT
+грегори_NOUN	гре	ROOT/гор	ROOT/и	AFFIX
+радиоклип_NOUN	радио	ROOT/клип	ROOT
+рушенье_NOUN	рушенье	ROOT
+югославка_NOUN	юг	AFFIX/о	AFFIX/с	AFFIX/лавк	ROOT/а	AFFIX
+полёт_NOUN	полёт	ROOT
+одноплеменник_NOUN	одн	ROOT/о	AFFIX/плем	ROOT/енн	AFFIX/ик	AFFIX
+усср_NOUN	ус	AFFIX/ср	ROOT
+сообразовывание_NOUN	сообраз	ROOT/ов	AFFIX/ыва	ROOT/ни	AFFIX/е	AFFIX
+начальника_NOUN	нача	ROOT/ль	AFFIX/ник	AFFIX/а	AFFIX
+вюртемберг_NOUN	в	AFFIX/юрт	ROOT/ем	AFFIX/берг	ROOT
+каскадерка_NOUN	каскад	ROOT/ер	AFFIX/ка	AFFIX
+лиаз_NOUN	ли	ROOT/аз	ROOT
+окрестности_NOUN	окрест	ROOT/н	AFFIX/о	AFFIX/с	AFFIX/ти	AFFIX
+семь дней_NUM	семь	ROOT/ 	ROOT/дней	ROOT
+уэмбль_NOUN	у	AFFIX/эм	ROOT/б	AFFIX/ль	AFFIX
+игнатьев_NOUN	и	AFFIX/гн	ROOT/а	AFFIX/ть	AFFIX/ев	AFFIX
+калифорний_NOUN	к	AFFIX/а	AFFIX/лиф	ROOT/орн	AFFIX/ий	AFFIX
+популяризирование_NOUN	популяр	ROOT/из	AFFIX/ир	AFFIX/ова	AFFIX/ни	AFFIX/е	AFFIX
+гагауз_NOUN	гагауз	ROOT
+временное_ADJ	врем	ROOT/енн	AFFIX/о	AFFIX/е	AFFIX
+бесчисленность_NOUN	бес	AFFIX/числ	ROOT/енн	AFFIX/о	AFFIX/с	AFFIX/ть	AFFIX
+константинович_NOUN	констант	ROOT/ин	AFFIX/ов	AFFIX/ич	AFFIX
+валкость_NOUN	вал	ROOT/к	AFFIX/ость	AFFIX
+на асфальте_ADP	на	AFFIX/ 	ROOT/асфальт	ROOT/е	AFFIX
+обвязывание_NOUN	об	AFFIX/вяз	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+умышленность_NOUN	у	AFFIX/мышл	ROOT/енн	AFFIX/о	AFFIX/с	AFFIX/ть	AFFIX
+алексеев_NOUN	а	AFFIX/лекс	ROOT/е	AFFIX/ев	AFFIX
+турбодвигатель_NOUN	турб	ROOT/о	AFFIX/двиг	ROOT/а	AFFIX/тель	AFFIX
+видеосистема_NOUN	вид	ROOT/е	AFFIX/о	AFFIX/систем	ROOT/а	AFFIX
+теплое_ADJ	тепл	ROOT/о	AFFIX/е	AFFIX
+телерадиообъединение_NOUN	теле	ROOT/радио	ROOT/объ	ROOT/един	ROOT/ени	AFFIX/е	AFFIX
+утрехт_NOUN	утр	ROOT/ех	AFFIX/т	AFFIX
+нечеловеческая_ADJ	не	AFFIX/человеч	ROOT/еск	AFFIX/а	AFFIX/я	AFFIX
+бедствия_NOUN	бед	ROOT/ств	AFFIX/и	AFFIX/я	AFFIX
+манга_NOUN	ман	AFFIX/г	ROOT/а	AFFIX
+финикс_NOUN	фин	ROOT/икс	ROOT
+пылает_VERB	пыл	ROOT/а	AFFIX/е	AFFIX/т	AFFIX
+верн_NOUN	верн	ROOT
+солоха_NOUN	сол	ROOT/о	AFFIX/ха	ROOT
+джонсон_NOUN	джо	ROOT/н	AFFIX/сон	ROOT
+инвестактивность_NOUN	инвест	ROOT/актив	ROOT/н	AFFIX/ость	AFFIX
+автодеталь_NOUN	авто	ROOT/деталь	ROOT
+минью_ADJ	мин	ROOT/ью	ROOT
+квартиры_NOUN	квартир	ROOT/ы	AFFIX
+дренирование_NOUN	дрен	ROOT/ир	AFFIX/ова	AFFIX/ни	AFFIX/е	AFFIX
+зубцов_NOUN	зуб	ROOT/ц	AFFIX/ов	AFFIX
+причерноморье_NOUN	при	AFFIX/черн	ROOT/о	AFFIX/морь	ROOT/е	AFFIX
+герхард_NOUN	г	ROOT/ер	AFFIX/хард	ROOT
+волоколамск_NOUN	волок	ROOT/о	AFFIX/лам	ROOT/ск	AFFIX
+вытряхивание_NOUN	вы	AFFIX/трях	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+вашингтон_NOUN	ва	ROOT/шингто	ROOT/н	AFFIX
+ден_NOUN	ден	ROOT
+ст-ца_NOUN	ст	AFFIX/-	AFFIX/ц	AFFIX/а	AFFIX
+пенсильвания_NOUN	пенси	ROOT/ль	AFFIX/ва	ROOT/ни	AFFIX/я	AFFIX
+прекрасна_ADJ	пре	AFFIX/красн	ROOT/а	AFFIX
+заработанные_VERB	за	AFFIX/работ	ROOT/а	AFFIX/нн	AFFIX/ые	AFFIX
+ребенок-сирота_NOUN	реб	ROOT/енок	ROOT/-	AFFIX/сирот	ROOT/а	AFFIX
+двухпалатность_NOUN	дв	ROOT/ух	AFFIX/палат	ROOT/н	AFFIX/ость	AFFIX
+лапы_NOUN	лап	ROOT/ы	AFFIX
+виржиния_NOUN	в	AFFIX/ир	AFFIX/жи	ROOT/ни	AFFIX/я	AFFIX
+джеймс_NOUN	джей	ROOT/м	AFFIX/с	AFFIX
+перекредитование_NOUN	пере	AFFIX/кредит	ROOT/ова	AFFIX/ни	AFFIX/е	AFFIX
+мехико_NOUN	мех	ROOT/ик	AFFIX/о	AFFIX
+страбон_NOUN	стра	ROOT/бон	ROOT
+чунга-чанга_NOUN	чу	ROOT/н	AFFIX/г	ROOT/а	AFFIX/-	AFFIX/чан	ROOT/г	ROOT/а	AFFIX
+автофирма_NOUN	авто	ROOT/фирм	ROOT/а	AFFIX
+бессвязная_ADJ	бес	AFFIX/с	AFFIX/вяз	ROOT/на	AFFIX/я	AFFIX
+микровэн_NOUN	микро	ROOT/вэ	ROOT/н	AFFIX
+хреновое_ADJ	хрен	ROOT/ов	AFFIX/о	AFFIX/е	AFFIX
+исландка_NOUN	исланд	ROOT/ка	AFFIX
+аякса_NOUN	а	AFFIX/як	AFFIX/с	AFFIX/а	AFFIX
+пикассо_NOUN	пи	ROOT/касс	ROOT/о	AFFIX
+подсаживание_NOUN	под	AFFIX/саж	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+венесуэла_NOUN	венесуэл	ROOT/а	AFFIX
+безветреный_ADJ	без	AFFIX/ветр	ROOT/ен	AFFIX/ый	AFFIX
+многобожник_NOUN	мног	ROOT/о	AFFIX/бож	ROOT/ник	AFFIX
+обматывание_NOUN	об	AFFIX/мат	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+подрод_NOUN	под	AFFIX/род	ROOT
+вдв_NOUN	в	AFFIX/дв	ROOT
+выливание_NOUN	вы	AFFIX/лив	AFFIX/а	AFFIX/ни	AFFIX/е	AFFIX
+нефтедобытчик_NOUN	нефт	ROOT/е	AFFIX/добы	ROOT/т	AFFIX/чик	AFFIX
+госдума_NOUN	гос	ROOT/дум	ROOT/а	AFFIX
+везуля_NOUN	вез	ROOT/ул	AFFIX/я	AFFIX
+микроэкономика_NOUN	микро	ROOT/эконом	ROOT/ик	AFFIX/а	AFFIX
+словоизменение_NOUN	слов	ROOT/о	AFFIX/измен	ROOT/ени	AFFIX/е	AFFIX
+профобъединение_NOUN	проф	ROOT/объ	ROOT/един	ROOT/ени	AFFIX/е	AFFIX
+техник-механик_NOUN	техн	ROOT/ик	AFFIX/-	AFFIX/механ	ROOT/ик	AFFIX
+руслан_NOUN	русл	ROOT/а	AFFIX/н	AFFIX
+упал_VERB	у	AFFIX/пал	ROOT
+бангладеш_NOUN	бан	ROOT/глад	ROOT/е	AFFIX/ш	AFFIX
+спортшкола_NOUN	спорт	ROOT/школ	ROOT/а	AFFIX
+жэу_NOUN	жэ	ROOT/у	AFFIX
+сбивка_NOUN	с	AFFIX/би	ROOT/в	AFFIX/ка	AFFIX
+конан_ADJ	к	AFFIX/он	AFFIX/а	AFFIX/н	AFFIX
+прогрев_NOUN	про	AFFIX/гре	ROOT/в	AFFIX
+кристиан_NOUN	к	AFFIX/рис	ROOT/ти	AFFIX/а	AFFIX/н	AFFIX
+нефтеразработка_NOUN	нефт	ROOT/е	AFFIX/раз	AFFIX/работ	ROOT/ка	AFFIX
+саутгемптон_NOUN	с	AFFIX/а	AFFIX/ут	AFFIX/гем	ROOT/пт	ROOT/о	AFFIX/н	AFFIX
+прекрасная_ADJ	пре	AFFIX/красн	ROOT/а	AFFIX/я	AFFIX
+доменико_NOUN	дом	ROOT/е	AFFIX/ник	AFFIX/о	AFFIX
+союзпечать_NOUN	союз	ROOT/печать	ROOT
+монпелье_NOUN	мон	ROOT/пель	ROOT/е	AFFIX
+буквы_NOUN	букв	ROOT/ы	AFFIX
+мясопродукция_NOUN	мяс	ROOT/о	AFFIX/продукц	ROOT/и	AFFIX/я	AFFIX
+сэмюэл_NOUN	с	AFFIX/эм	ROOT/ю	AFFIX/эл	ROOT
+пироги_NOUN	пирог	ROOT/и	AFFIX
+егоров_NOUN	е	AFFIX/гор	ROOT/ов	AFFIX
+ушаков_NOUN	уш	AFFIX/а	AFFIX/ков	ROOT
+обуславливание_NOUN	об	AFFIX/уславл	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+каунта_NOUN	ка	AFFIX/ун	AFFIX/та	ROOT
+нептун_NOUN	не	AFFIX/пт	ROOT/ун	AFFIX
+ллойд_NOUN	л	AFFIX/л	AFFIX/о	AFFIX/йд	ROOT
+проникание_NOUN	про	AFFIX/ник	AFFIX/а	AFFIX/ни	AFFIX/е	AFFIX
+холостячка_NOUN	холост	ROOT/ячк	AFFIX/а	AFFIX
+ефимович_NOUN	ефим	ROOT/ов	AFFIX/ич	AFFIX
+марков_NOUN	марк	ROOT/ов	AFFIX
+экзархат_NOUN	экз	ROOT/арха	ROOT/т	AFFIX
+мельбурн_NOUN	мель	ROOT/бур	ROOT/н	AFFIX
+пигментирование_NOUN	пигмент	ROOT/ир	AFFIX/ова	AFFIX/ни	AFFIX/е	AFFIX
+сельская_ADJ	сель	ROOT/ск	AFFIX/а	AFFIX/я	AFFIX
+шкаф-колонка_NOUN	шкаф	ROOT/-	AFFIX/колонк	ROOT/а	AFFIX
+прогрессив_NOUN	про	AFFIX/грес	ROOT/сив	ROOT
+госсредства_NOUN	гос	ROOT/сред	ROOT/ств	AFFIX/а	AFFIX
+мальм_NOUN	маль	ROOT/м	AFFIX
+певучая_ADJ	пе	ROOT/в	AFFIX/уч	AFFIX/а	AFFIX/я	AFFIX
+приграничье_ADJ	при	AFFIX/гран	ROOT/ичь	AFFIX/е	AFFIX
+коньки_NOUN	к	AFFIX/оньк	AFFIX/и	AFFIX
+и серп_CCONJ	и	AFFIX/ 	ROOT/серп	ROOT
+голубая_ADJ	голуб	ROOT/а	AFFIX/я	AFFIX
+киево_NOUN	к	AFFIX/и	AFFIX/ев	AFFIX/о	AFFIX
+блевота_NOUN	блев	ROOT/от	AFFIX/а	AFFIX
+ахматова_NOUN	ах	AFFIX/мат	ROOT/ова	AFFIX
+кронштадт_NOUN	крон	ROOT/штадт	ROOT
+буллз_VERB	буллз	ROOT
+склеропластика_NOUN	склер	ROOT/о	AFFIX/пластик	ROOT/а	AFFIX
+ромео_NOUN	роме	ROOT/о	AFFIX
+отзывание_NOUN	от	AFFIX/зыв	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+автомотосредство_NOUN	авто	ROOT/мото	ROOT/средств	ROOT/о	AFFIX
+истопница_NOUN	и	AFFIX/стоп	ROOT/ниц	AFFIX/а	AFFIX
+рио-де-жанейро_NOUN	ри	ROOT/о	AFFIX/-	AFFIX/де	AFFIX/-	AFFIX/жа	ROOT/нейр	ROOT/о	AFFIX
+салават_NOUN	сал	ROOT/а	AFFIX/ват	ROOT
+проц_NOUN	про	AFFIX/ц	AFFIX
+подкрашивание_NOUN	под	AFFIX/краш	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+борисфен_NOUN	бор	ROOT/ис	AFFIX/фен	ROOT
+чапаев_NOUN	ча	ROOT/па	AFFIX/ев	AFFIX
+старое_ADJ	стар	ROOT/о	AFFIX/е	AFFIX
+автомагнитола_NOUN	авто	ROOT/магнит	ROOT/ол	AFFIX/а	AFFIX
+марбург_NOUN	мар	ROOT/бур	ROOT/г	ROOT
+кевин_NOUN	к	AFFIX/евин	ROOT
+раздевальня_NOUN	раз	AFFIX/дев	ROOT/альн	AFFIX/я	AFFIX
+большая_ADJ	больш	ROOT/а	AFFIX/я	AFFIX
+метрополис_NOUN	метр	ROOT/о	AFFIX/пол	ROOT/ис	AFFIX
+станислава_NOUN	стан	ROOT/и	AFFIX/слав	ROOT/а	AFFIX
+австралия_NOUN	австрали	ROOT/я	AFFIX
+рецидивизм_NOUN	рецидив	ROOT/изм	AFFIX
+сдача-приемка_NOUN	с	AFFIX/дач	ROOT/а	AFFIX/-	AFFIX/прием	ROOT/ка	AFFIX
+эквадор_NOUN	эквадор	ROOT
+бильбао_NOUN	би	ROOT/ль	AFFIX/ба	ROOT/о	AFFIX
+пунтик_NOUN	пун	ROOT/ти	AFFIX/к	AFFIX
+настраивание_NOUN	н	AFFIX/астр	ROOT/а	AFFIX/ива	AFFIX/ни	AFFIX/е	AFFIX
+водоприемник_NOUN	вод	ROOT/о	AFFIX/прием	ROOT/ник	AFFIX
+амна_NOUN	ам	AFFIX/на	AFFIX
+калинковичи_ADJ	калин	ROOT/ков	ROOT/ич	AFFIX/и	AFFIX
+эстония_NOUN	эс	ROOT/тон	ROOT/и	AFFIX/я	AFFIX
+жлобин_NOUN	ж	ROOT/лоб	ROOT/ин	AFFIX
+тетраэтилсвинец_NOUN	тетра	ROOT/этил	ROOT/свин	ROOT/ец	AFFIX
+ввп_NOUN	в	AFFIX/вп	ROOT
+наварра_NOUN	на	AFFIX/вар	ROOT/ра	ROOT
+сан-марино_NOUN	сан	ROOT/-	AFFIX/марин	ROOT/о	AFFIX
+овцематка_NOUN	овцем	ROOT/а	AFFIX/тк	ROOT/а	AFFIX
+фронтмен_NOUN	фронт	ROOT/мен	AFFIX
+глазго_NOUN	глаз	ROOT/го	ROOT
+мелитополь_NOUN	мел	ROOT/и	AFFIX/тополь	ROOT
+горит_VERB	гор	ROOT/ит	AFFIX
+на море_ADP	на	AFFIX/ 	ROOT/мор	ROOT/е	AFFIX
+вул_NOUN	в	AFFIX/ул	AFFIX
+луций_ADJ	луц	ROOT/ий	AFFIX
+по течению_ADP	по	AFFIX/ 	ROOT/теч	ROOT/ени	AFFIX/ю	AFFIX
+петербург_NOUN	пе	ROOT/тер	ROOT/б	AFFIX/ург	AFFIX
+билл_NOUN	би	ROOT/л	AFFIX/л	AFFIX
+болтон_NOUN	болт	ROOT/о	AFFIX/н	AFFIX
+эстремадура_NOUN	э	ROOT/стрем	ROOT/а	AFFIX/дур	ROOT/а	AFFIX
+адриан_NOUN	а	AFFIX/др	ROOT/и	AFFIX/а	AFFIX/н	AFFIX
+эндрю_NOUN	энд	ROOT/рю	ROOT
+подгон_NOUN	под	AFFIX/гон	ROOT
+франсуа_NOUN	франс	ROOT/у	AFFIX/а	AFFIX
+урал_NOUN	урал	ROOT
+нестыковочка_NOUN	нес	ROOT/тык	ROOT/ов	AFFIX/о	AFFIX/ч	AFFIX/к	AFFIX/а	AFFIX
+неремонтопригодный_ADJ	не	AFFIX/ремонт	ROOT/о	AFFIX/при	AFFIX/год	ROOT/н	AFFIX/ый	AFFIX
+адская_ADJ	ад	AFFIX/ск	AFFIX/а	AFFIX/я	AFFIX
+романович_NOUN	роман	ROOT/ов	AFFIX/ич	AFFIX
+кинопремия_NOUN	кино	ROOT/преми	ROOT/я	AFFIX
+воин-афганец_NOUN	воин	ROOT/-	AFFIX/афган	ROOT/ец	AFFIX
+габриэль_NOUN	г	ROOT/а	AFFIX/бри	ROOT/э	ROOT/ль	AFFIX
+причёска_NOUN	при	AFFIX/чё	ROOT/ск	AFFIX/а	AFFIX
+номинанта_NOUN	номин	ROOT/ант	AFFIX/а	AFFIX
+высылание_NOUN	вы	AFFIX/сыл	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+деструктивность_NOUN	де	AFFIX/структ	ROOT/ивн	AFFIX/о	AFFIX/с	AFFIX/ть	AFFIX
+круз_NOUN	к	AFFIX/руз	ROOT
+марокко_NOUN	марокк	ROOT/о	AFFIX
+сплит_NOUN	с	AFFIX/плит	ROOT
+сан-паулу_NOUN	сан	ROOT/-	AFFIX/па	AFFIX/ул	AFFIX/у	AFFIX
+штефан_NOUN	ш	AFFIX/те	AFFIX/фан	ROOT
+липецк_NOUN	лип	ROOT/ец	AFFIX/к	AFFIX
+кыргызстан_NOUN	к	AFFIX/ыргыз	ROOT/стан	ROOT
+шаньдун_NOUN	шань	ROOT/ду	ROOT/н	AFFIX
+нерасследованный_ADJ	не	AFFIX/рас	AFFIX/след	ROOT/ова	AFFIX/нн	AFFIX/ый	AFFIX
+посылание_NOUN	по	AFFIX/сыл	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+коул_NOUN	к	AFFIX/о	AFFIX/у	AFFIX/л	AFFIX
+барселона_NOUN	бар	ROOT/сел	ROOT/о	AFFIX/на	AFFIX
+добытый_VERB	добы	ROOT/т	AFFIX/ый	AFFIX
+оппонентка_NOUN	оппон	ROOT/ен	AFFIX/тк	ROOT/а	AFFIX
+черкесия_NOUN	черкес	ROOT/и	AFFIX/я	AFFIX
+огурцы_NOUN	огурц	ROOT/ы	AFFIX
+оттон_NOUN	от	AFFIX/тон	ROOT
+иван-чай_NOUN	ива	AFFIX/н	AFFIX/-	AFFIX/чай	ROOT
+тяжелая_ADJ	тяж	ROOT/ел	AFFIX/а	AFFIX/я	AFFIX
+создания_NOUN	созда	ROOT/ни	AFFIX/я	AFFIX
+падкость_NOUN	пад	ROOT/к	AFFIX/ость	AFFIX
+кметство_NOUN	к	AFFIX/мет	ROOT/ств	AFFIX/о	AFFIX
+косово_NOUN	кос	ROOT/ов	AFFIX/о	AFFIX
+стряхивание_NOUN	с	AFFIX/трях	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+афганка_NOUN	афган	ROOT/ка	AFFIX
+рона_NOUN	рон	ROOT/а	AFFIX
+алкашка_NOUN	ал	AFFIX/каш	ROOT/ка	AFFIX
+франциск_NOUN	франц	ROOT/иск	ROOT
+белая_ADJ	бел	ROOT/а	AFFIX/я	AFFIX
+рене_NOUN	ре	AFFIX/не	AFFIX
+перекупание_NOUN	пере	AFFIX/куп	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+подкапывание_NOUN	под	AFFIX/кап	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+шанхай_NOUN	ш	AFFIX/а	AFFIX/н	AFFIX/хай	ROOT
+компания-монополист_NOUN	компани	ROOT/я	AFFIX/-	AFFIX/монопол	ROOT/ист	AFFIX
+гко_ADV	г	ROOT/к	AFFIX/о	AFFIX
+выгребание_NOUN	вы	AFFIX/греб	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+дагестанка_NOUN	дагест	ROOT/анк	AFFIX/а	AFFIX
+планшетник_NOUN	планшет	ROOT/ник	AFFIX
+чтз_NOUN	чт	ROOT/з	ROOT
+завсектором_NOUN	зав	ROOT/сектор	ROOT/ом	AFFIX
+дорогая_ADJ	дорог	ROOT/а	AFFIX/я	AFFIX
+теплоэлектроэнергия_NOUN	тепл	ROOT/о	AFFIX/электр	ROOT/о	AFFIX/энерг	ROOT/и	AFFIX/я	AFFIX
+разъедание_NOUN	разъ	ROOT/ед	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+энрике_X	эн	ROOT/рик	ROOT/е	AFFIX
+cознание_NOUN	c	ROOT/о	AFFIX/зна	ROOT/ни	AFFIX/е	AFFIX
+ксива_NOUN	к	AFFIX/с	AFFIX/ива	AFFIX
+автоперевозчик_NOUN	авто	ROOT/пере	AFFIX/воз	AFFIX/чик	AFFIX
+гагаузка_NOUN	гагауз	ROOT/ка	AFFIX
+вложенность_NOUN	в	AFFIX/лож	ROOT/енн	AFFIX/о	AFFIX/с	AFFIX/ть	AFFIX
+робинсон_NOUN	роб	ROOT/ин	AFFIX/сон	ROOT
+расписывание_NOUN	рас	AFFIX/пис	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+волны_NOUN	волн	ROOT/ы	AFFIX
+родная_ADJ	родн	ROOT/а	AFFIX/я	AFFIX
+7 дней_NUM	7 	ROOT/дней	ROOT
+музыкант-инструменталист_NOUN	музык	ROOT/ант	AFFIX/-	AFFIX/инструмент	ROOT/а	AFFIX/лист	ROOT
+зеландия_NOUN	зеланд	ROOT/и	AFFIX/я	AFFIX
+теплооборудование_NOUN	тепл	ROOT/о	AFFIX/оборудова	ROOT/ни	AFFIX/е	AFFIX
+леонидов_NOUN	л	AFFIX/е	AFFIX/о	AFFIX/ни	AFFIX/до	AFFIX/в	AFFIX
+подготавливание_NOUN	под	AFFIX/готавл	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+даниэль_NOUN	да	ROOT/ни	AFFIX/э	ROOT/ль	AFFIX
+валерьевич_NOUN	вал	ROOT/ер	AFFIX/ьев	ROOT/ич	AFFIX
+ведунья_NOUN	вед	ROOT/унь	ROOT/я	AFFIX
+обсе_NOUN	об	AFFIX/се	ROOT
+ном_NOUN	ном	ROOT
+пограничье_ADJ	по	AFFIX/гран	ROOT/ичь	AFFIX/е	AFFIX
+выселок_NOUN	вы	AFFIX/се	ROOT/лок	AFFIX
+изготавливание_NOUN	из	AFFIX/готавл	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+биоагент_NOUN	био	ROOT/агент	ROOT
+голицын_NOUN	гол	ROOT/и	AFFIX/цы	ROOT/н	AFFIX
+отскакивание_NOUN	от	AFFIX/скак	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+виталия_NOUN	в	AFFIX/итал	ROOT/и	AFFIX/я	AFFIX
+португалия_NOUN	португал	ROOT/и	AFFIX/я	AFFIX
+жаркая_ADJ	жар	ROOT/к	AFFIX/а	AFFIX/я	AFFIX
+брэд_NOUN	бр	ROOT/эд	ROOT
+чарльз_NOUN	чар	ROOT/ль	AFFIX/з	ROOT
+придвижение_NOUN	при	AFFIX/движ	ROOT/ени	AFFIX/е	AFFIX
+самозатачивающийся_ADJ	сам	ROOT/о	AFFIX/за	AFFIX/тач	ROOT/ива	AFFIX/ющ	AFFIX/ий	AFFIX/ся	AFFIX
+выкапывание_NOUN	вы	AFFIX/кап	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+ласа_NOUN	лас	ROOT/а	AFFIX
+боливия_NOUN	бо	ROOT/лив	AFFIX/и	AFFIX/я	AFFIX
+федоров_NOUN	федоров	ROOT
+пьемонт_NOUN	пь	ROOT/е	AFFIX/монт	ROOT
+многотомник_NOUN	мног	ROOT/о	AFFIX/том	ROOT/ник	AFFIX
+корсика_NOUN	корсик	ROOT/а	AFFIX
+камнесамоцветный_ADJ	кам	ROOT/не	AFFIX/сам	ROOT/о	AFFIX/цвет	ROOT/н	AFFIX/ый	AFFIX
+даугава_NOUN	да	ROOT/у	AFFIX/гава	ROOT
+девочки_NOUN	дев	ROOT/очк	AFFIX/и	AFFIX
+ланг_NOUN	ланг	ROOT
+сексиндустрия_NOUN	секс	ROOT/индустри	ROOT/я	AFFIX
+тимофеев_NOUN	тимофеев	ROOT
+железная_ADJ	желез	ROOT/н	AFFIX/а	AFFIX/я	AFFIX
+выпроваживание_NOUN	вы	AFFIX/про	AFFIX/важ	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+кенигсберг_NOUN	к	AFFIX/ени	AFFIX/гсберг	ROOT
+реэмигрантка_NOUN	ре	AFFIX/эмигр	ROOT/ант	AFFIX/ка	AFFIX
+полесье_NOUN	по	AFFIX/лесь	ROOT/е	AFFIX
+клемент_NOUN	к	AFFIX/л	AFFIX/емент	AFFIX
+неоплата_NOUN	нео	ROOT/плат	ROOT/а	AFFIX
+буржа_NOUN	бур	ROOT/жа	ROOT
+лара_NOUN	лар	ROOT/а	AFFIX
+страстная_ADJ	страст	ROOT/на	AFFIX/я	AFFIX
+шоу-бизнес_NOUN	ш	AFFIX/о	AFFIX/у	AFFIX/-	AFFIX/бизнес	ROOT
+непредубежденность_NOUN	не	AFFIX/пред	AFFIX/убежд	ROOT/енн	AFFIX/ость	AFFIX
+унквд_NOUN	ун	AFFIX/к	AFFIX/вд	ROOT
+течет_VERB	теч	ROOT/е	AFFIX/т	AFFIX
+акцентировка_NOUN	акцент	ROOT/ир	AFFIX/о	AFFIX/в	AFFIX/к	AFFIX/а	AFFIX
+бездождье_NOUN	без	AFFIX/дожд	ROOT/ье	ROOT
+бенедикта_NOUN	бен	ROOT/е	AFFIX/дикт	ROOT/а	AFFIX
+леонтьев_NOUN	ле	ROOT/он	AFFIX/ть	AFFIX/ев	AFFIX
+тейлор_NOUN	тейлор	ROOT
+яковлевич_NOUN	я	AFFIX/ков	ROOT/лев	ROOT/ич	AFFIX
+доделывание_NOUN	до	AFFIX/дел	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+гмина_NOUN	г	ROOT/мин	ROOT/а	AFFIX
+тоо_NOUN	т	AFFIX/о	AFFIX/о	AFFIX
+многоходовка_NOUN	мног	ROOT/о	AFFIX/ход	ROOT/о	AFFIX/в	AFFIX/к	AFFIX/а	AFFIX
+леонард_NOUN	л	AFFIX/е	AFFIX/о	AFFIX/нард	ROOT
+босфор_NOUN	бос	ROOT/фор	ROOT
+сьюзан_VERB	сь	AFFIX/ю	AFFIX/за	AFFIX/н	AFFIX
+намеренность_NOUN	намер	ROOT/енн	AFFIX/о	AFFIX/с	AFFIX/ть	AFFIX
+свердловщина_NOUN	свер	ROOT/дл	ROOT/ов	AFFIX/щин	AFFIX/а	AFFIX
+ливония_NOUN	лив	AFFIX/о	AFFIX/ни	AFFIX/я	AFFIX
+окб_NOUN	ок	AFFIX/б	AFFIX
+изнуренность_NOUN	изнур	ROOT/енн	AFFIX/ость	AFFIX
+фирма-посредник_NOUN	фирм	ROOT/а	AFFIX/-	AFFIX/посред	ROOT/ник	AFFIX
+кинотеатр-мультиплекс_NOUN	кино	ROOT/театр	ROOT/-	AFFIX/мульти	ROOT/плекс	ROOT
+тед_NOUN	т	AFFIX/ед	ROOT
+правовик_NOUN	прав	ROOT/ов	AFFIX/ик	AFFIX
+белосток_NOUN	бел	ROOT/ост	ROOT/ок	AFFIX
+детки_NOUN	де	AFFIX/тк	ROOT/и	AFFIX
+нужны_ADJ	нужн	ROOT/ы	AFFIX
+тироль_NOUN	ти	AFFIX/роль	ROOT
+ференц_NOUN	фер	ROOT/енц	AFFIX
+доучивание_NOUN	до	AFFIX/уч	AFFIX/ива	AFFIX/ни	AFFIX/е	AFFIX
+пульсирование_NOUN	пульс	ROOT/ир	AFFIX/ова	AFFIX/ни	AFFIX/е	AFFIX
+подвопрос_NOUN	под	AFFIX/вопрос	ROOT
+блинная_NOUN	блин	ROOT/на	AFFIX/я	AFFIX
+против_ADP	против	ROOT
+диверсантка_NOUN	диверс	ROOT/а	AFFIX/н	AFFIX/тк	ROOT/а	AFFIX
+советское_ADJ	совет	ROOT/ск	AFFIX/о	AFFIX/е	AFFIX
+cреда_NOUN	c	ROOT/ред	ROOT/а	AFFIX
+бранденбург_NOUN	бранденбург	ROOT
+удобное_ADJ	уд	ROOT/об	AFFIX/н	AFFIX/о	AFFIX/е	AFFIX
+кряшенский_ADJ	к	AFFIX/ряше	ROOT/н	AFFIX/ск	AFFIX/ий	AFFIX
+полстолетия_NOUN	полст	ROOT/о	AFFIX/лет	ROOT/и	AFFIX/я	AFFIX
+выхлопы_NOUN	вы	AFFIX/хлоп	ROOT/ы	AFFIX
+сполето_NOUN	с	AFFIX/по	AFFIX/лет	ROOT/о	AFFIX
+метеобюро_NOUN	метео	ROOT/бюро	ROOT
+отто_NOUN	от	AFFIX/т	AFFIX/о	AFFIX
+достоевский_NOUN	до	AFFIX/сто	ROOT/ев	AFFIX/ск	AFFIX/ий	AFFIX
+видеоработа_NOUN	вид	ROOT/е	AFFIX/о	AFFIX/работ	ROOT/а	AFFIX
+петроградка_NOUN	петр	ROOT/оград	ROOT/ка	AFFIX
+познания_NOUN	по	AFFIX/зна	ROOT/ни	AFFIX/я	AFFIX
+умная_ADJ	ум	AFFIX/н	AFFIX/а	AFFIX/я	AFFIX
+водитель-дальнобойщик_NOUN	вод	ROOT/и	AFFIX/тель	AFFIX/-	AFFIX/дальн	ROOT/об	AFFIX/ой	AFFIX/щик	AFFIX
+дождливая_ADJ	дожд	ROOT/лив	AFFIX/а	AFFIX/я	AFFIX
+запасание_NOUN	запас	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+осваивание_NOUN	о	AFFIX/сва	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+ирак_NOUN	ирак	ROOT
+технологии_NOUN	техн	ROOT/о	AFFIX/лог	ROOT/и	AFFIX/и	AFFIX
+адриана_NOUN	а	AFFIX/др	ROOT/и	AFFIX/а	AFFIX/на	AFFIX
+ораторская_ADJ	оратор	ROOT/ск	AFFIX/а	AFFIX/я	AFFIX
+салехард_NOUN	сал	ROOT/е	AFFIX/хард	ROOT
+григорович_NOUN	г	ROOT/ригор	ROOT/ов	AFFIX/ич	AFFIX
+маунт_NOUN	маунт	ROOT
+гибралтар_NOUN	гибр	ROOT/алтар	ROOT
+обучения_NOUN	о	AFFIX/буч	ROOT/ени	AFFIX/я	AFFIX
+подбассейн_NOUN	под	AFFIX/бассейн	ROOT
+забытая_VERB	за	AFFIX/быт	ROOT/а	AFFIX/я	AFFIX
+страшное_ADJ	страш	ROOT/н	AFFIX/о	AFFIX/е	AFFIX
+рок-певец_NOUN	рок	ROOT/-	AFFIX/пе	ROOT/в	AFFIX/ец	AFFIX
+падуя_NOUN	пад	ROOT/у	AFFIX/я	AFFIX
+пфальц_NOUN	п	ROOT/фальц	ROOT
+гарантируется_VERB	гар	ROOT/ант	AFFIX/ир	AFFIX/ует	ROOT/ся	AFFIX
+тред-юнион_NOUN	тр	ROOT/ед	ROOT/-	AFFIX/ю	AFFIX/ни	AFFIX/о	AFFIX/н	AFFIX
+диас_NOUN	диа	ROOT/с	AFFIX
+взяткодательство_NOUN	вз	AFFIX/ят	AFFIX/код	ROOT/а	AFFIX/тель	AFFIX/ств	AFFIX/о	AFFIX
+непобедимая_ADJ	н	AFFIX/епобедим	ROOT/а	AFFIX/я	AFFIX
+вскипание_NOUN	вс	AFFIX/кип	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+перекрашивание_NOUN	пере	AFFIX/краш	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+водский_ADJ	вод	ROOT/ск	AFFIX/ий	AFFIX
+учёный_NOUN	учё	ROOT/н	AFFIX/ый	AFFIX
+джексон_NOUN	дже	ROOT/к	AFFIX/сон	ROOT
+витебск_NOUN	в	AFFIX/ит	AFFIX/еб	AFFIX/ск	AFFIX
+шри-ланка_NOUN	ш	AFFIX/ри	ROOT/-	AFFIX/лан	AFFIX/ка	AFFIX
+боевичок_NOUN	бо	ROOT/ев	AFFIX/ич	AFFIX/ок	AFFIX
+стеклоизделие_NOUN	стекл	ROOT/о	AFFIX/из	AFFIX/дел	ROOT/и	AFFIX/е	AFFIX
+ветеран-афганец_NOUN	ветер	ROOT/а	AFFIX/н	AFFIX/-	AFFIX/афган	ROOT/ец	AFFIX
+летняя_ADJ	лет	ROOT/н	AFFIX/я	AFFIX/я	AFFIX
+здоровья_NOUN	здоровь	ROOT/я	AFFIX
+дешифрация_NOUN	де	AFFIX/шифр	ROOT/аци	AFFIX/я	AFFIX
+дилетантка_NOUN	дилетант	ROOT/к	AFFIX/а	AFFIX
+флорида_NOUN	флор	ROOT/и	AFFIX/да	ROOT
+исеть_NOUN	ис	AFFIX/е	AFFIX/ть	AFFIX
+грамотная_ADJ	грамот	ROOT/на	AFFIX/я	AFFIX
+нэнси_NOUN	н	AFFIX/эн	ROOT/с	AFFIX/и	AFFIX
+слабоминерализованный_ADJ	слаб	ROOT/о	AFFIX/минерал	ROOT/из	AFFIX/ова	AFFIX/нн	AFFIX/ый	AFFIX
+биопродукт_NOUN	био	ROOT/продукт	ROOT
+куинс_NOUN	ку	AFFIX/ин	AFFIX/с	AFFIX
+жук-олень_NOUN	жук	ROOT/-	AFFIX/олень	ROOT
+микки_NOUN	мик	ROOT/ки	AFFIX
+белл_NOUN	бел	ROOT/л	AFFIX
+иерусалим_NOUN	иерусалим	ROOT
+по голове_ADP	по	AFFIX/ 	ROOT/голов	ROOT/е	AFFIX
+эммануэль_NOUN	эм	ROOT/ман	AFFIX/у	AFFIX/э	ROOT/ль	AFFIX
+быдлан_NOUN	бы	ROOT/дл	ROOT/а	AFFIX/н	AFFIX
+медиагруппа_NOUN	мед	ROOT/и	AFFIX/а	AFFIX/групп	ROOT/а	AFFIX
+хромосомы_NOUN	хром	ROOT/о	AFFIX/со	AFFIX/мы	ROOT
+раздумывание_NOUN	раз	AFFIX/дум	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+токио_NOUN	ток	ROOT/и	AFFIX/о	AFFIX
+сайда_NOUN	сайд	ROOT/а	AFFIX
+авиаобработка_NOUN	авиа	ROOT/об	AFFIX/работ	ROOT/ка	AFFIX
+джакомо_ADV	дж	ROOT/а	AFFIX/ком	AFFIX/о	AFFIX
+агрономша_NOUN	агро	ROOT/ном	ROOT/ш	AFFIX/а	AFFIX
+бернс_ADV	бер	ROOT/н	AFFIX/с	AFFIX
+забрасывание_NOUN	за	AFFIX/брас	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+дезинфицирование_NOUN	дез	AFFIX/инфиц	ROOT/ир	AFFIX/ова	AFFIX/ни	AFFIX/е	AFFIX
+стс_NOUN	ст	AFFIX/с	AFFIX
+семирамида_NOUN	сем	ROOT/ир	AFFIX/ами	AFFIX/да	ROOT
+руан_NOUN	ру	ROOT/а	AFFIX/н	AFFIX
+медиа-холдинг_NOUN	мед	ROOT/и	AFFIX/а	AFFIX/-	AFFIX/холдинг	ROOT
+телебоевик_NOUN	теле	ROOT/бо	ROOT/евик	AFFIX
+физвоспитание_NOUN	физ	ROOT/воспит	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+пиастры_NOUN	пи	ROOT/астр	ROOT/ы	AFFIX
+кириллович_NOUN	к	AFFIX/ир	AFFIX/илл	ROOT/ов	AFFIX/ич	AFFIX
+полвека_NOUN	пол	ROOT/век	ROOT/а	AFFIX
+авиаотделение_NOUN	авиа	ROOT/от	AFFIX/дел	ROOT/ени	AFFIX/е	AFFIX
+русского_ADJ	русского	ROOT
+проходимка_NOUN	про	AFFIX/ход	ROOT/им	AFFIX/ка	AFFIX
+богдан_NOUN	бог	ROOT/да	ROOT/н	AFFIX
+изымание_NOUN	из	AFFIX/ым	AFFIX/а	AFFIX/ни	AFFIX/е	AFFIX
+узбекистан_NOUN	узбек	ROOT/ист	AFFIX/а	AFFIX/н	AFFIX
+карлович_NOUN	карл	ROOT/ов	AFFIX/ич	AFFIX
+гланды_NOUN	гланд	ROOT/ы	AFFIX
+ющенко_NOUN	ющ	AFFIX/енк	ROOT/о	AFFIX
+терри_NOUN	терр	ROOT/и	AFFIX
+келли_NOUN	к	AFFIX/ел	AFFIX/ли	ROOT
+артериальное_ADJ	артери	ROOT/альн	AFFIX/о	AFFIX/е	AFFIX
+исп_NOUN	и	AFFIX/сп	ROOT
+хью_NOUN	х	AFFIX/ью	ROOT
+рамалла_NOUN	рам	ROOT/ал	AFFIX/ла	ROOT
+владислав_NOUN	влад	ROOT/и	AFFIX/слав	ROOT
+адова_ADJ	ад	AFFIX/ова	AFFIX
+коррумпирование_NOUN	коррумп	ROOT/ир	AFFIX/ова	AFFIX/ни	AFFIX/е	AFFIX
+обл_NOUN	обл	ROOT
+электрогазосварщик_NOUN	электр	ROOT/о	AFFIX/газ	ROOT/о	AFFIX/с	AFFIX/вар	ROOT/щик	AFFIX
+деодорант_NOUN	де	AFFIX/одор	ROOT/ант	AFFIX
+плёнка_NOUN	плё	ROOT/н	AFFIX/к	AFFIX/а	AFFIX
+контролируемость_NOUN	контрол	ROOT/ир	AFFIX/уем	ROOT/ость	AFFIX
+константинов_NOUN	констант	ROOT/ин	AFFIX/ов	AFFIX
+ребрышко_NOUN	ребр	ROOT/ышк	AFFIX/о	AFFIX
+вадим_NOUN	вад	ROOT/им	AFFIX
+белый дом_ADJ	бел	ROOT/ый	AFFIX/ 	ROOT/дом	ROOT
+сыновья_NOUN	сын	ROOT/о	AFFIX/вь	ROOT/я	AFFIX
+игоревич_NOUN	и	AFFIX/гор	ROOT/ев	AFFIX/ич	AFFIX
+писатель-фантаст_NOUN	пис	ROOT/а	AFFIX/тель	AFFIX/-	AFFIX/фантаст	ROOT
+ана_NOUN	ана	ROOT
+тенечек_NOUN	тен	ROOT/еч	ROOT/ек	AFFIX
+высшего сорта_ADJ	вы	AFFIX/сшего	ROOT/ 	ROOT/сорт	ROOT/а	AFFIX
+загорск_NOUN	за	AFFIX/гор	ROOT/ск	AFFIX
+прописывание_NOUN	про	AFFIX/пис	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+негативность_NOUN	не	AFFIX/гат	ROOT/ивн	AFFIX/о	AFFIX/с	AFFIX/ть	AFFIX
+ред_NOUN	ред	ROOT
+взаимозаменяемый_ADJ	взаим	ROOT/о	AFFIX/заменяем	ROOT/ый	AFFIX
+мессина_NOUN	месси	ROOT/на	AFFIX
+покатая_ADJ	по	AFFIX/кат	ROOT/а	AFFIX/я	AFFIX
+сверхмонополия_NOUN	сверх	AFFIX/монопол	ROOT/и	AFFIX/я	AFFIX
+енисей_NOUN	ени	AFFIX/сей	ROOT
+струны_NOUN	струн	ROOT/ы	AFFIX
+райс_NOUN	рай	ROOT/с	AFFIX
+самолёт_NOUN	самолёт	ROOT
+самарканд_NOUN	сам	ROOT/ар	AFFIX/к	AFFIX/анд	ROOT
+мочиловка_NOUN	моч	ROOT/и	AFFIX/лов	ROOT/ка	AFFIX
+студентов_NOUN	студ	ROOT/ент	AFFIX/ов	AFFIX
+в жизни_ADP	в	AFFIX/ 	ROOT/жи	ROOT/зн	ROOT/и	AFFIX
+франсиско_NOUN	франс	ROOT/иск	ROOT/о	AFFIX
+телерадиокорпорация_NOUN	теле	ROOT/радио	ROOT/корпор	ROOT/аци	AFFIX/я	AFFIX
+турин_NOUN	тур	AFFIX/ин	AFFIX
+совести_NOUN	совест	ROOT/и	AFFIX
+киносериал_NOUN	кино	ROOT/сери	ROOT/ал	AFFIX
+детства_NOUN	дет	ROOT/ств	AFFIX/а	AFFIX
+дункан_NOUN	ду	ROOT/н	AFFIX/ка	AFFIX/н	AFFIX
+на съезде_ADP	на	AFFIX/ 	ROOT/съ	ROOT/езд	ROOT/е	AFFIX
+правоохрана_NOUN	прав	ROOT/о	AFFIX/о	AFFIX/хран	ROOT/а	AFFIX
+овощи_NOUN	овощ	ROOT/и	AFFIX
+лопес_NOUN	лоп	ROOT/ес	ROOT
+безансон_NOUN	без	AFFIX/а	AFFIX/н	AFFIX/сон	ROOT
+бари_NOUN	бар	ROOT/и	AFFIX
+энергокомплекс_NOUN	энерг	ROOT/о	AFFIX/комплекс	ROOT
+альберто_NOUN	аль	AFFIX/бер	ROOT/т	AFFIX/о	AFFIX
+баранов_NOUN	баран	ROOT/ов	AFFIX
+тупое_ADJ	туп	ROOT/о	AFFIX/е	AFFIX
+производства_NOUN	производ	ROOT/ств	AFFIX/а	AFFIX
+ржаная_ADJ	рж	ROOT/а	AFFIX/на	AFFIX/я	AFFIX
+каталония_NOUN	ка	AFFIX/талон	ROOT/и	AFFIX/я	AFFIX
+пуанты_NOUN	пуант	ROOT/ы	AFFIX
+свергнуто_VERB	сверг	ROOT/ну	AFFIX/т	AFFIX/о	AFFIX
+учит_VERB	учит	ROOT
+радиодинамик_NOUN	радио	ROOT/динам	ROOT/ик	AFFIX
+нормандия_NOUN	норманд	ROOT/и	AFFIX/я	AFFIX
+злая_ADJ	зл	ROOT/а	AFFIX/я	AFFIX
+погромщица_NOUN	по	AFFIX/гром	ROOT/щиц	ROOT/а	AFFIX
+орлеана_NOUN	орл	ROOT/е	AFFIX/а	AFFIX/на	AFFIX
+павлович_NOUN	пав	ROOT/лов	ROOT/ич	AFFIX
+дипломантка_NOUN	диплом	ROOT/ант	AFFIX/ка	AFFIX
+констанция_NOUN	кон	ROOT/станци	ROOT/я	AFFIX
+лейкерс_NOUN	лейк	ROOT/ер	AFFIX/с	AFFIX
+на память_ADP	на	AFFIX/ 	ROOT/памят	ROOT/ь	AFFIX
+на бочку_ADP	на	AFFIX/ 	ROOT/бочк	ROOT/у	AFFIX
+лихтенштейн_NOUN	лих	ROOT/тен	ROOT/штейн	ROOT
+хмурая_ADJ	хмур	ROOT/а	AFFIX/я	AFFIX
+норфолк_NOUN	н	AFFIX/орфо	ROOT/л	AFFIX/к	AFFIX
+джош_NOUN	джо	ROOT/ш	AFFIX
+за каплей_ADP	за	AFFIX/ 	ROOT/капл	ROOT/ей	AFFIX
+казахстан_NOUN	казах	ROOT/стан	ROOT
+абиджан_NOUN	а	AFFIX/би	ROOT/дж	ROOT/а	AFFIX/н	AFFIX
+бурная_ADJ	бур	ROOT/на	AFFIX/я	AFFIX
+набавка_NOUN	н	AFFIX/аб	ROOT/а	AFFIX/в	AFFIX/к	AFFIX/а	AFFIX
+однокашница_NOUN	одн	ROOT/о	AFFIX/каш	ROOT/ниц	AFFIX/а	AFFIX
+тёща_NOUN	тёщ	ROOT/а	AFFIX
+дорывание_NOUN	дор	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+ньюпорт_NOUN	н	AFFIX/ью	ROOT/порт	ROOT
+солдаты_NOUN	сол	ROOT/даты	ROOT
+зернов_NOUN	зерн	ROOT/ов	AFFIX
+сварщица_NOUN	с	AFFIX/вар	ROOT/щиц	ROOT/а	AFFIX
+грунтование_NOUN	грунт	ROOT/ова	AFFIX/ни	AFFIX/е	AFFIX
+ненастная_ADJ	ненаст	ROOT/на	AFFIX/я	AFFIX
+вторая_ADJ	втор	ROOT/а	AFFIX/я	AFFIX
+враньё_NOUN	враньё	ROOT
+замбия_NOUN	за	AFFIX/мби	ROOT/я	AFFIX
+поехала_VERB	по	AFFIX/ех	AFFIX/ал	AFFIX/а	AFFIX
+гидрометеослужба_NOUN	гидр	ROOT/о	AFFIX/метео	ROOT/служ	ROOT/б	AFFIX/а	AFFIX
+уругвай_NOUN	уругвай	ROOT
+эда_NOUN	э	ROOT/да	ROOT
+правоохранение_NOUN	прав	ROOT/о	AFFIX/о	AFFIX/хран	ROOT/ени	AFFIX/е	AFFIX
+первоочередность_NOUN	перв	ROOT/о	AFFIX/очеред	ROOT/нос	ROOT/ть	AFFIX
+и вода_CCONJ	и	AFFIX/ 	ROOT/вод	ROOT/а	AFFIX
+луиджи_NOUN	л	AFFIX/у	AFFIX/ид	ROOT/жи	ROOT
+спортсекция_NOUN	спорт	ROOT/секци	ROOT/я	AFFIX
+комарка_NOUN	комар	ROOT/ка	AFFIX
+никарагуа_NOUN	ник	AFFIX/а	AFFIX/рагу	ROOT/а	AFFIX
+герцоговина_NOUN	герцог	ROOT/овин	AFFIX/а	AFFIX
+горбачев_NOUN	горб	ROOT/ач	AFFIX/ев	AFFIX
+адресатка_NOUN	адрес	ROOT/ат	AFFIX/ка	AFFIX
+призерша_NOUN	при	AFFIX/з	ROOT/ерш	ROOT/а	AFFIX
+р-н_ADJ	р	ROOT/-	AFFIX/н	AFFIX
+хорёк_NOUN	хор	ROOT/ё	ROOT/к	AFFIX
+кертис_NOUN	к	AFFIX/ер	AFFIX/тис	ROOT
+тюрки_NOUN	тюрк	ROOT/и	AFFIX
+спонсирование_NOUN	с	AFFIX/по	AFFIX/н	AFFIX/с	AFFIX/ир	AFFIX/ова	AFFIX/ни	AFFIX/е	AFFIX
+наш_DET	наш	ROOT
+остин_NOUN	ост	ROOT/ин	AFFIX
+федорович_NOUN	федоров	ROOT/ич	AFFIX
+джейми_NOUN	джей	ROOT/ми	AFFIX
+мягкое_ADJ	мягк	ROOT/о	AFFIX/е	AFFIX
+нана_NOUN	на	AFFIX/н	AFFIX/а	AFFIX
+вотирование_NOUN	вот	ROOT/ир	AFFIX/ова	AFFIX/ни	AFFIX/е	AFFIX
+низкое_ADJ	низк	ROOT/о	AFFIX/е	AFFIX
+несодержательность_NOUN	не	AFFIX/содерж	ROOT/а	AFFIX/тельн	AFFIX/ость	AFFIX
+вильям_NOUN	вил	ROOT/ьям	ROOT
+пирожки_NOUN	пирож	ROOT/ки	AFFIX
+карелия_NOUN	кар	ROOT/е	AFFIX/ли	ROOT/я	AFFIX
+щепки_NOUN	щеп	ROOT/ки	AFFIX
+сусальность_NOUN	сусаль	ROOT/н	AFFIX/ость	AFFIX
+большое_ADJ	больш	ROOT/о	AFFIX/е	AFFIX
+симона_NOUN	симон	ROOT/а	AFFIX
+кропоткин_NOUN	кроп	ROOT/от	AFFIX/к	AFFIX/ин	AFFIX
+травы_NOUN	тр	ROOT/а	AFFIX/вы	AFFIX
+маршалл_NOUN	марш	ROOT/ал	AFFIX/л	AFFIX
+приделывание_NOUN	при	AFFIX/дел	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+вах_NOUN	ва	ROOT/х	AFFIX
+спрингфилд_NOUN	сп	ROOT/ринг	ROOT/фил	ROOT/д	AFFIX
+ларнакский_ADJ	лар	ROOT/на	AFFIX/к	AFFIX/ск	AFFIX/ий	AFFIX
+йоханнесбург_NOUN	й	ROOT/о	AFFIX/хан	ROOT/нес	ROOT/бур	ROOT/г	ROOT
+пегас_NOUN	пе	ROOT/гас	ROOT
+вредительница_NOUN	вред	ROOT/и	AFFIX/тель	AFFIX/ниц	AFFIX/а	AFFIX
+крым_NOUN	крым	ROOT
+борисово_NOUN	бор	ROOT/ис	AFFIX/ов	AFFIX/о	AFFIX
+фолк_NOUN	фол	ROOT/к	AFFIX
+иордания_NOUN	и	AFFIX/орд	ROOT/а	AFFIX/ни	AFFIX/я	AFFIX
+фокусирование_NOUN	фокус	ROOT/ир	AFFIX/ова	AFFIX/ни	AFFIX/е	AFFIX
+вечная_ADJ	веч	ROOT/на	AFFIX/я	AFFIX
+жилконтора_NOUN	жил	ROOT/контор	ROOT/а	AFFIX
+мудрое_ADJ	мудр	ROOT/о	AFFIX/е	AFFIX
+подсознательность_NOUN	под	AFFIX/созна	ROOT/тельн	AFFIX/ость	AFFIX
+оливер_NOUN	о	AFFIX/ливер	ROOT
+абд_NOUN	а	AFFIX/бд	ROOT
+грей_VERB	гре	ROOT/й	ROOT
+вега_NOUN	ве	ROOT/г	ROOT/а	AFFIX
+восстания_NOUN	вос	AFFIX/ста	ROOT/ни	AFFIX/я	AFFIX
+заезженность_NOUN	за	AFFIX/езж	ROOT/енн	AFFIX/ость	AFFIX
+цыплёнок_NOUN	цып	ROOT/лё	ROOT/н	AFFIX/ок	AFFIX
+илл_NOUN	илл	ROOT
+конструктив_NOUN	конструк	ROOT/ти	AFFIX/в	AFFIX
+кинобоевик_NOUN	кино	ROOT/бо	ROOT/ев	AFFIX/ик	AFFIX
+юрьевич_NOUN	юрьев	ROOT/ич	AFFIX
+сардиния_NOUN	сардин	ROOT/и	AFFIX/я	AFFIX
+алиев_NOUN	а	AFFIX/ли	ROOT/ев	AFFIX
+психзаболевание_NOUN	псих	ROOT/за	AFFIX/бол	ROOT/ева	AFFIX/ни	AFFIX/е	AFFIX
+заканчивание_NOUN	за	AFFIX/канч	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+кардиобольной_NOUN	карди	ROOT/о	AFFIX/боль	ROOT/н	AFFIX/ой	AFFIX
+перламутровость_NOUN	перламутр	ROOT/ов	AFFIX/ость	AFFIX
+черновцы_NOUN	черн	ROOT/овцы	ROOT
+обвешивание_NOUN	об	AFFIX/веш	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+алекс_NOUN	а	AFFIX/лекс	ROOT
+видеосюжет_NOUN	вид	ROOT/е	AFFIX/о	AFFIX/сюжет	ROOT
+казенность_NOUN	казен	ROOT/нос	ROOT/ть	AFFIX
+пережог_NOUN	пере	AFFIX/жог	ROOT
+перри_NOUN	пер	ROOT/ри	ROOT
+кипр_NOUN	кип	ROOT/р	ROOT
+сообщает_VERB	сообщ	ROOT/а	AFFIX/е	AFFIX/т	AFFIX
+газоэлектросварщик_NOUN	газ	ROOT/о	AFFIX/электр	ROOT/о	AFFIX/с	AFFIX/вар	ROOT/щик	AFFIX
+разнополярность_NOUN	разн	ROOT/о	AFFIX/пол	ROOT/ярн	ROOT/ость	AFFIX
+огюст_NOUN	о	AFFIX/г	ROOT/юст	ROOT
+мадагаскар_NOUN	ма	ROOT/да	ROOT/гас	ROOT/кар	ROOT
+сильное_ADJ	силь	ROOT/н	AFFIX/о	AFFIX/е	AFFIX
+ужасная_ADJ	ужас	ROOT/н	AFFIX/а	AFFIX/я	AFFIX
+брянск_NOUN	бр	ROOT/ян	AFFIX/ск	AFFIX
+раскидывание_NOUN	рас	AFFIX/кид	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+карачаево-черкессия_NOUN	карачаев	ROOT/о	AFFIX/-	AFFIX/черкес	ROOT/сия	ROOT
+африка_NOUN	африк	ROOT/а	AFFIX
+эластокинематический_ADJ	эласт	ROOT/о	AFFIX/кинем	ROOT/ат	AFFIX/ическ	AFFIX/ий	AFFIX
+геймпли_NOUN	гейм	ROOT/пл	ROOT/и	AFFIX
+ногайка_NOUN	ногай	ROOT/ка	AFFIX
+автотехника_NOUN	авто	ROOT/техн	ROOT/ик	AFFIX/а	AFFIX
+и наковальня_CCONJ	и	AFFIX/ 	ROOT/на	AFFIX/ков	ROOT/альн	AFFIX/я	AFFIX
+тонировка_NOUN	тон	ROOT/ир	AFFIX/ов	AFFIX/ка	AFFIX
+запускание_NOUN	за	AFFIX/пуск	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+брайан_NOUN	бр	ROOT/ай	AFFIX/а	AFFIX/н	AFFIX
+шарлатанка_NOUN	шар	ROOT/лат	ROOT/а	AFFIX/н	AFFIX/к	AFFIX/а	AFFIX
+инопланетяне_NOUN	ин	AFFIX/о	AFFIX/планет	ROOT/ян	AFFIX/е	AFFIX
+быков_NOUN	бык	ROOT/ов	AFFIX
+бирма_NOUN	бир	ROOT/ма	ROOT
+тим_NOUN	тим	ROOT
+спасения_NOUN	спас	ROOT/ени	AFFIX/я	AFFIX
+аккомпанирование_NOUN	а	AFFIX/к	AFFIX/компани	ROOT/ров	ROOT/а	AFFIX/ни	AFFIX/е	AFFIX
+паула_NOUN	п	ROOT/аул	ROOT/а	AFFIX
+николаевич_NOUN	ни	AFFIX/кол	ROOT/а	AFFIX/ев	AFFIX/ич	AFFIX
+сигареты_NOUN	сигареты	ROOT
+мурад_NOUN	му	ROOT/рад	ROOT
+люфтваффа_NOUN	люфт	ROOT/ва	ROOT/фф	ROOT/а	AFFIX
+благоговейность_NOUN	благогов	ROOT/ей	AFFIX/н	AFFIX/ость	AFFIX
+железнодорожница_NOUN	желез	ROOT/н	AFFIX/о	AFFIX/дорож	ROOT/ниц	AFFIX/а	AFFIX
+памятник-обелиск_NOUN	памят	ROOT/ник	AFFIX/-	AFFIX/о	AFFIX/бел	ROOT/иск	ROOT
+бернар_NOUN	бер	ROOT/нар	ROOT
+ланды_NOUN	ланды	ROOT
+з-д_ADV	з	ROOT/-	AFFIX/д	AFFIX
+турция_NOUN	тур	AFFIX/ци	AFFIX/я	AFFIX
+диппредставительство_NOUN	диппредстави	ROOT/тель	AFFIX/ств	AFFIX/о	AFFIX
+комаров_NOUN	комар	ROOT/ов	AFFIX
+симпсон_NOUN	симп	ROOT/сон	ROOT
+стоящая_VERB	сто	ROOT/ящ	AFFIX/а	AFFIX/я	AFFIX
+абрамов_NOUN	а	AFFIX/брам	ROOT/ов	AFFIX
+гидрометобеспечение_NOUN	гидр	ROOT/о	AFFIX/мет	ROOT/обеспеч	ROOT/ени	AFFIX/е	AFFIX
+подростков_NOUN	под	AFFIX/рост	ROOT/ков	ROOT
+гуанчжоу_NOUN	гу	ROOT/а	AFFIX/н	AFFIX/чжоу	ROOT
+святослав_NOUN	свят	ROOT/о	AFFIX/слав	ROOT
+приcпособление_NOUN	при	AFFIX/c	ROOT/пособл	ROOT/ени	AFFIX/е	AFFIX
+гвинея_NOUN	г	ROOT/ви	ROOT/не	AFFIX/я	AFFIX
+жертвовательница_NOUN	жертв	ROOT/ова	AFFIX/тель	AFFIX/ниц	AFFIX/а	AFFIX
+грязные_ADJ	гряз	ROOT/н	AFFIX/ые	AFFIX
+йозеф_NOUN	й	ROOT/оз	AFFIX/е	AFFIX/ф	ROOT
+гарсиа_NOUN	гар	ROOT/с	AFFIX/и	AFFIX/а	AFFIX
+башкирка_NOUN	б	AFFIX/аш	AFFIX/кирк	ROOT/а	AFFIX
+кошачьи_ADJ	кош	ROOT/а	AFFIX/чь	ROOT/и	AFFIX
+паркур_NOUN	пар	ROOT/кур	ROOT
+гаутама_NOUN	гау	ROOT/там	ROOT/а	AFFIX
+криптология_NOUN	крипт	ROOT/о	AFFIX/лог	ROOT/и	AFFIX/я	AFFIX
+жук-рогач_NOUN	жук	ROOT/-	AFFIX/рог	ROOT/ач	AFFIX
+отлынивание_NOUN	отлын	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+тадеуш_NOUN	та	ROOT/де	AFFIX/уш	AFFIX
+польша_NOUN	поль	ROOT/ш	AFFIX/а	AFFIX
+пшеничная_ADJ	пшенич	ROOT/на	AFFIX/я	AFFIX
+глубокая_ADJ	глубок	ROOT/а	AFFIX/я	AFFIX
+радиосистема_NOUN	радио	ROOT/систем	ROOT/а	AFFIX
+индокитай_NOUN	ин	AFFIX/до	AFFIX/китай	ROOT
+брук_NOUN	б	AFFIX/рук	ROOT
+дунай_NOUN	дунай	ROOT
+за свой счет_ADP	за	AFFIX/ свой 	ROOT/счет	ROOT
+энергостанция_NOUN	энерг	ROOT/о	AFFIX/станци	ROOT/я	AFFIX
+эссен_NOUN	эс	ROOT/сен	ROOT
+руб_NOUN	руб	ROOT
+боровский_NOUN	бор	ROOT/ов	AFFIX/ск	AFFIX/ий	AFFIX
+шведов_NOUN	швед	ROOT/ов	AFFIX
+дорабатывание_NOUN	до	AFFIX/рабат	ROOT/ыва	ROOT/ни	AFFIX/е	AFFIX
+народное_ADJ	народ	ROOT/н	AFFIX/о	AFFIX/е	AFFIX
+ясная_ADJ	ясн	ROOT/а	AFFIX/я	AFFIX
+белорецк_NOUN	бел	ROOT/ор	AFFIX/ец	AFFIX/к	AFFIX
+кали_NOUN	кали	ROOT
+ховард_NOUN	х	AFFIX/ов	AFFIX/ард	ROOT
+дейв_NOUN	дей	ROOT/в	AFFIX
+варсонофий_NOUN	вар	ROOT/сон	ROOT/о	AFFIX/ф	ROOT/ий	AFFIX
+капитальность_NOUN	кап	ROOT/ит	AFFIX/альн	AFFIX/ость	AFFIX
+денвер_NOUN	ден	ROOT/вер	ROOT
+григорьевич_NOUN	гри	ROOT/горь	ROOT/ев	AFFIX/ич	AFFIX
+франкфурт-на-майне_NOUN	франк	ROOT/фур	ROOT/т	AFFIX/-	AFFIX/на	AFFIX/-	AFFIX/май	ROOT/не	AFFIX
+противоправность_NOUN	про	AFFIX/ти	AFFIX/воп	ROOT/равн	ROOT/о	AFFIX/с	AFFIX/ть	AFFIX
+в школе_ADP	в	AFFIX/ 	ROOT/школ	ROOT/е	AFFIX
+берти_NOUN	бер	ROOT/ти	AFFIX
+вживый_ADJ	в	AFFIX/жив	ROOT/ый	AFFIX
+планета-спутник_NOUN	планет	ROOT/а	AFFIX/-	AFFIX/с	AFFIX/пут	ROOT/ник	AFFIX
+мюнхен_NOUN	мюнхе	ROOT/н	AFFIX
+даллас_NOUN	дал	ROOT/лас	ROOT
+достраивание_NOUN	до	AFFIX/стра	ROOT/ива	AFFIX/ни	AFFIX/е	AFFIX
+юхан_VERB	ю	AFFIX/хан	ROOT
+лицеистка_NOUN	лице	ROOT/ист	AFFIX/ка	AFFIX
+воеводин_NOUN	воев	ROOT/один	ROOT
+погоны_NOUN	по	AFFIX/гон	ROOT/ы	AFFIX
+метеосистема_NOUN	метео	ROOT/систем	ROOT/а	AFFIX
+радиовещатель_NOUN	радио	ROOT/вещ	ROOT/а	AFFIX/тель	AFFIX
+сбивчивая_ADJ	с	AFFIX/би	ROOT/в	AFFIX/ч	AFFIX/ива	AFFIX/я	AFFIX
+гипотенузы_NOUN	гипотенуз	ROOT/ы	AFFIX
+укрепсооружение_NOUN	у	AFFIX/креп	ROOT/со	AFFIX/оруж	ROOT/ени	AFFIX/е	AFFIX
+анастасий_NOUN	а	AFFIX/наста	ROOT/с	AFFIX/ий	AFFIX
+тарту_NOUN	тарту	ROOT
+ганг_NOUN	ганг	ROOT
+камбоджа_NOUN	камбодж	ROOT/а	AFFIX
+ценная_ADJ	цен	ROOT/на	AFFIX/я	AFFIX
+глубокомысленность_NOUN	глубок	ROOT/о	AFFIX/мысл	ROOT/енн	AFFIX/о	AFFIX/с	AFFIX/ть	AFFIX
+оческа_NOUN	оч	ROOT/еск	AFFIX/а	AFFIX
+канзас_NOUN	к	AFFIX/ан	AFFIX/за	AFFIX/с	AFFIX

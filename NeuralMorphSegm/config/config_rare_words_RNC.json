@@ -1,0 +1,1 @@
+{"load_file": "MorphemicEmbeddings/NeuralMorphSegm/models/model15.json", "model_file": "MorphemicEmbeddings/NeuralMorphSegm/model15.hdf5", "test_file": "MorphemicEmbeddings/Data/rare_words_RNC.txt", "outfile": "MorphemicEmbeddings/NeuralMorphSegm/results/res_rare_words_RNC.txt"}
